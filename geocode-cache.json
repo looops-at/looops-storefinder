@@ -1,0 +1,1407 @@
+{
+  "Wagnerweg 2, 4203, Altenberg bei Linz, Österreich": {
+    "lat": 48.374187,
+    "lng": 14.344409,
+    "place_name": "Wagnerweg 2, 4203 Altenberg bei Linz, Österreich"
+  },
+  "Döblinger Hauptstraße 70, 1190, Wien, Österreich": {
+    "lat": 48.239358,
+    "lng": 16.355057,
+    "place_name": "Döblinger Hauptstraße 70, 1190 Wien, Österreich"
+  },
+  "Hütten\n2, 5771, Leogang, Austria": {
+    "lat": 47.439444,
+    "lng": 12.715738,
+    "place_name": "Hütten 2, 5771 Leogang, Österreich"
+  },
+  "Pinnisweg 2, 6167, Neustift im Stubaital, Österreich": {
+    "lat": 47.121162,
+    "lng": 11.325898,
+    "place_name": "Pinnisweg 2, 6167 Neustift im Stubaital, Österreich"
+  },
+  "Erlerstraße 10, 6020, Innsbruck, Österreich": {
+    "lat": 47.26585,
+    "lng": 11.395736,
+    "place_name": "Erlerstraße 10, 6020 Innsbruck, Österreich"
+  },
+  "Kriegsstrasse 258, 76135, Karlsruhe, Deutschland": {
+    "lat": 49.005737,
+    "lng": 8.374914,
+    "place_name": "Kriegsstraße 258, 76135 Karlsruhe, Deutschland"
+  },
+  "Margaretenstraße 39, 1040, Wien, Österreich": {
+    "lat": 48.194826,
+    "lng": 16.36296,
+    "place_name": "Margaretenstraße 39, 1040 Wien, Österreich"
+  },
+  "Rainerstraße 5, 4910, Ried im Innkreis, Österreich": {
+    "lat": 48.207972,
+    "lng": 13.486826,
+    "place_name": "Rainerstraße 5, 4910 Ried im Innkreis, Österreich"
+  },
+  "Diesseits 5, 4973, St. Martin i. Innkreis, Österreich": {
+    "lat": 48.292479,
+    "lng": 13.441197,
+    "place_name": "Diesseits 5, 4973 St. Martin im Innkreis, Österreich"
+  },
+  "Hauptstraße 7, 87538, Fischen, Germany": {
+    "lat": 47.458943,
+    "lng": 10.272378,
+    "place_name": "Hauptstraße 7, 87538 Fischen im Allgäu, Deutschland"
+  },
+  "Bergstraße 1, 5603, Kleinarl, Österreich": {
+    "lat": 47.280992,
+    "lng": 13.31962,
+    "place_name": "Bergstraße 1, 5603 Kleinarl, Österreich"
+  },
+  "Teichalm 77, 8163, Teichalm, Österreich": {
+    "lat": 47.352999,
+    "lng": 15.467504,
+    "place_name": "Teichalmstraße 77, 8163 Fladnitz an der Teichalm, Österreich"
+  },
+  "Hochbrückenstrasse 10, 80331, München, Germany": {
+    "lat": 48.136641,
+    "lng": 11.580402,
+    "place_name": "Hochbrückenstraße 10, 80331 München, Deutschland"
+  },
+  "St. Martiner Str. 44, 9500, Villach, Österreich": {
+    "lat": 48.367092,
+    "lng": 14.035002,
+    "place_name": "St. Martiner Straße 44, 4101 Feldkirchen an der Donau, Österreich"
+  },
+  "Obere Brücke 14, 96047, Bamberg, Deutschland": {
+    "lat": 49.891889,
+    "lng": 10.888036,
+    "place_name": "Obere Brücke 14, 96047 Bamberg, Deutschland"
+  },
+  "An der Postwiese 6, 8600, Bruck an der Mur, Österreich": {
+    "lat": 47.408368,
+    "lng": 15.272434,
+    "place_name": "An der Postwiese 6, 8600 Bruck an der Mur, Österreich"
+  },
+  "Klausbergstraße 55, 39030, Cadipietra, Italien": {
+    "lat": 46.995123,
+    "lng": 11.977207,
+    "place_name": "Klausbergstraße 55, 39030 Ahrntal Südtirol, Italien"
+  },
+  "Rohrerstraße 5, 6280, Zell am Ziller, Austria": {
+    "lat": 47.234802,
+    "lng": 11.883055,
+    "place_name": "Rohrerstraße 5, 6280 Zell am Ziller, Österreich"
+  },
+  "Obermieming 141, 6414, Mieming, Österreich": {
+    "lat": 47.307188,
+    "lng": 10.986068,
+    "place_name": "Obermieming 141, 6414 Mieming, Österreich"
+  },
+  "Zellertalstraße 13, 93471, Arnbruck, Deutschland": {
+    "lat": 49.129923,
+    "lng": 12.9948,
+    "place_name": "Zellertalstraße 13, 93471 Arnbruck, Deutschland"
+  },
+  "Bergmannstr. 107, 10961, Berlin, Deutschland": {
+    "lat": 52.490028,
+    "lng": 13.388443,
+    "place_name": "Bergmannstraße 107, 10961 Berlin, Deutschland"
+  },
+  "Schulrat-Stöckler-Straße 3, 4320, Perg, Österreich": {
+    "lat": 48.249569,
+    "lng": 14.630263,
+    "place_name": "Schulrat-Stöckler-Straße 3, 4320 Perg, Österreich"
+  },
+  "Markt 24, 5441, Abtenau, Österreich": {
+    "lat": 47.564544,
+    "lng": 13.346223,
+    "place_name": "Markt 24, 5441 Abtenau, Österreich"
+  },
+  "Mariatroster Str. 142a, 8044, Graz, Österreich": {
+    "lat": 47.099427,
+    "lng": 15.475788,
+    "place_name": "Mariatroster Straße 142a, 8044 Graz, Österreich"
+  },
+  "Limmatstrasse 55\nAREAL SÜD (links), 5412, Gebenstorf, Switzerland": {
+    "lat": 47.49769,
+    "lng": 8.240485,
+    "place_name": "Limmatstrasse 55, 5412 Vogelsang, Schweiz"
+  },
+  "Strada Podio Gallino, 2, 10020, Andezeno, Italy": {
+    "lat": 45.036869,
+    "lng": 7.87926,
+    "place_name": "Strada Podio Gallino 2, 10020 Andezeno Metropolitanstadt Turin, Italien"
+  },
+  "Langgasse 8, 97070, Würzburg, Deutschland": {
+    "lat": 49.793857,
+    "lng": 9.928638,
+    "place_name": "Langgasse 8, 97070 Würzburg, Deutschland"
+  },
+  "Hauptstr. 18a, 38527, Meine, Deutschland": {
+    "lat": 52.379703,
+    "lng": 10.53841,
+    "place_name": "Hauptstraße 18a, 38527 Meine, Deutschland"
+  },
+  "Hauptstr. 56, 6263, Fügen, Austria": {
+    "lat": 47.347803,
+    "lng": 11.849366,
+    "place_name": "Hauptstraße 56, 6263 Fügen, Österreich"
+  },
+  "Techendorf 80, 9762, Weissensee, Österreich": {
+    "lat": 46.717508,
+    "lng": 13.289955,
+    "place_name": "Techendorf 80, 9762 Weißensee, Österreich"
+  },
+  "Mahlerstraße 14, 1010, Wien, Österreich": {
+    "lat": 48.202171,
+    "lng": 16.37359,
+    "place_name": "Mahlerstraße 14, 1010 Wien, Österreich"
+  },
+  "Humboldtstraße 6, 81543, München, Deutschland": {
+    "lat": 48.120761,
+    "lng": 11.571875,
+    "place_name": "Humboldtstraße 6, 81543 München, Deutschland"
+  },
+  "Sankt Daniel 32, 9635, Dellach im Gailtal, Österreich": {
+    "lat": 46.665118,
+    "lng": 13.054797,
+    "place_name": "Sankt Daniel 32, 9635 Dellach im Gailtal, Österreich"
+  },
+  "Oberer Markt 20, 94535, Eging am See, Deutschland": {
+    "lat": 48.712552,
+    "lng": 13.267617,
+    "place_name": "Oberer Markt 20, 94535 Eging am See, Deutschland"
+  },
+  "Tratten 36, 2880, Kirchberg am Wechsel, Österreich": {
+    "lat": 47.600437,
+    "lng": 16.001851,
+    "place_name": "Tratten 36, 2880 Kirchberg am Wechsel, Österreich"
+  },
+  "Unterbergstraße 50, 5611, Großarl, Österreich": {
+    "lat": 47.245209,
+    "lng": 13.196171,
+    "place_name": "Unterbergstraße 50, 5611 Großarl, Österreich"
+  },
+  "Pfarrgasse 15, 4600, Wels, Österreich": {
+    "lat": 48.158702,
+    "lng": 14.0267,
+    "place_name": "Pfarrgasse 15, 4600 Wels, Österreich"
+  },
+  "Franz-Nißl-Straße 24, 80999, München, Germany": {
+    "lat": 48.19172,
+    "lng": 11.463125,
+    "place_name": "Franz-Nißl-Straße 24, 80999 München, Deutschland"
+  },
+  "Ennser Straße 29, 4400, Steyr, Österreich": {
+    "lat": 48.054603,
+    "lng": 14.420159,
+    "place_name": "Ennser Straße 29, 4400 Steyr, Österreich"
+  },
+  "Auf der Sulz 48, 3001, Mauerbach, Österreich": {
+    "lat": 48.245172,
+    "lng": 16.158322,
+    "place_name": "Auf der Sulz 48, 3001 Mauerbach, Österreich"
+  },
+  "Mittermayergasse 6, 1130, Wien, Österreich": {
+    "lat": 48.185041,
+    "lng": 16.296603,
+    "place_name": "Mittermayergasse 6, 1130 Wien, Österreich"
+  },
+  "Rain 6, 5771, Leogang, Österreich": {
+    "lat": 47.438084,
+    "lng": 12.735909,
+    "place_name": "Rain 6, 5771 Leogang, Österreich"
+  },
+  "Breiten 110, 6335, Thiersee, Austria": {
+    "lat": 47.58812,
+    "lng": 12.12573,
+    "place_name": "Breiten 110, 6335 Thiersee, Österreich"
+  },
+  "Eichstätter Str. 16, 85117, Eitensheim, Germany": {
+    "lat": 48.821697,
+    "lng": 11.319529,
+    "place_name": "Eichstätter Straße 16, 85117 Eitensheim, Deutschland"
+  },
+  "Wollzeile 4, 1010, Wien, Österreich": {
+    "lat": 48.209055,
+    "lng": 16.374475,
+    "place_name": "Wollzeile 4, 1010 Wien, Österreich"
+  },
+  "Rotenlöwengasse 1, 1090, Wien, Austria": {
+    "lat": 48.2235,
+    "lng": 16.36491,
+    "place_name": "Rotenlöwengasse 1, 1090 Wien, Österreich"
+  },
+  "WEBEREISTRASSE 9, 2630, POTTSCHACH, Österreich": {
+    "lat": 47.697066,
+    "lng": 16.009678,
+    "place_name": "Webereistraße 9, 2630 Ternitz, Österreich"
+  },
+  "Neubaugasse 65, 1070, Wien, Österreich": {
+    "lat": 48.204,
+    "lng": 16.348736,
+    "place_name": "Neubaugasse 65, 1070 Wien, Österreich"
+  },
+  "Marktstrasse 6, 90530, Wendelstein, Deutschland": {
+    "lat": 49.35609,
+    "lng": 11.143672,
+    "place_name": "Marktstraße 6, 90530 Wendelstein, Deutschland"
+  },
+  "Oberhub 3, 87452, Altusried, Deutschland": {
+    "lat": 47.795316,
+    "lng": 10.197382,
+    "place_name": "Oberhub 3, 87452 Altusried, Deutschland"
+  },
+  "Hof 67, 6261, Strass im Zillertal, Austria": {
+    "lat": 47.398429,
+    "lng": 11.826199,
+    "place_name": "Hof 67, 6261 Strass im Zillertal, Österreich"
+  },
+  "Heiligengeiststraße 35, 21335, Lüneburg, Deutschland": {
+    "lat": 53.246666,
+    "lng": 10.406648,
+    "place_name": "Heiligengeiststraße 35, 21335 Lüneburg, Deutschland"
+  },
+  "Residenzstraße 23, 80333, München, Deutschland": {
+    "lat": 48.14088,
+    "lng": 11.577327,
+    "place_name": "Residenzstraße 23, 80333 München, Deutschland"
+  },
+  "Schwaigerweg 19, 8971, Schladming, Österreich": {
+    "lat": 47.380857,
+    "lng": 13.660481,
+    "place_name": "Schwaigerweg 19, 8971 Schladming, Österreich"
+  },
+  "Gerersdorf 9, 4531, Kematen, Österreich": {
+    "lat": 48.132783,
+    "lng": 14.186413,
+    "place_name": "Krenhuber Straße 9, 4531 Kematen an der Krems, Österreich"
+  },
+  "Berliner Platz 10, 61476, Kronberg am Taunus, Deutschland": {
+    "lat": 50.178995,
+    "lng": 8.510481,
+    "place_name": "Berliner Platz 10, 61476 Kronberg im Taunus, Deutschland"
+  },
+  "Gries 9, 6094, Axams, Österreich": {
+    "lat": 47.228705,
+    "lng": 11.27813,
+    "place_name": "Gries 9, 6094 Axams, Österreich"
+  },
+  "Lindenweg 3, 01824, Rosenthal -Bielatal, Germany": {
+    "lat": 50.875984,
+    "lng": 14.043729,
+    "place_name": "Lindenweg 3, 01824 Rosenthal-Bielatal, Deutschland"
+  },
+  "Kirchhalde 2, 78333, Stockach, Germany": {
+    "lat": 47.851583,
+    "lng": 9.010918,
+    "place_name": "Kirchhalde 2, 78333 Stockach, Deutschland"
+  },
+  "Goltsteinstraße 72, 50968, Köln, Germany": {
+    "lat": 50.909978,
+    "lng": 6.969151,
+    "place_name": "Goltsteinstraße 72, 50968 Köln, Deutschland"
+  },
+  "Kitzbüheler Straße 45, 6370, Reith b. Kitzbühel, Österreich": {
+    "lat": 47.473667,
+    "lng": 12.345157,
+    "place_name": "Kitzbüheler Straße 45, 6370 Reith bei Kitzbühel, Österreich"
+  },
+  "Sebastian-Kneippgasse 5-7, 2380, Perchtoldsdorf, Österreich": {
+    "lat": 48.118057,
+    "lng": 16.266033,
+    "place_name": "2380, Perchtoldsdorf, Niederösterreich, Österreich"
+  },
+  "Hof 17, 6951, Lingenau, Austria": {
+    "lat": 47.450668,
+    "lng": 9.920211,
+    "place_name": "Hof 17, 6951 Lingenau, Österreich"
+  },
+  "Gewerbegebiet 1, 6275, Stumm, Österreich": {
+    "lat": 47.289752,
+    "lng": 11.879687,
+    "place_name": "Gewerbegebiet 1, 6275 Stumm, Österreich"
+  },
+  "Hauptstraße 17, 6365, Kirchberg in Tirol, Österreich": {
+    "lat": 47.448228,
+    "lng": 12.313518,
+    "place_name": "Hauptstraße 17, 6365 Kirchberg in Tirol, Österreich"
+  },
+  "Walserstr.211, 6992, Hirschegg, Austria": {
+    "lat": 47.348822,
+    "lng": 10.173223,
+    "place_name": "Walserstraße 211, 6992 Mittelberg, Österreich"
+  },
+  "Am Teich 12, 7301, Deutschkreutz, Österreich": {
+    "lat": 47.601966,
+    "lng": 16.621958,
+    "place_name": "Am Teich 12, 7301 Deutschkreutz, Österreich"
+  },
+  "Kleine Lauben 4, 39042, Brixen, Italien": {
+    "lat": 46.71632,
+    "lng": 11.65541,
+    "place_name": "Kleine Lauben 4, 39042 Brixen Südtirol, Italien"
+  },
+  "Ramsau\n193, 8972, Ramsau, Austria": {
+    "lat": 47.421281,
+    "lng": 13.65575,
+    "place_name": "Ramsauer Landesstraße 193, 8972 Ramsau am Dachstein, Österreich"
+  },
+  "Baumkircher Gasse 4-6, 7461, Stadtschlaining, Austria": {
+    "lat": 47.342435,
+    "lng": 16.279432,
+    "place_name": "Baumkircher Gasse 46, 7461 Stadtschlaining, Österreich"
+  },
+  "Brauhausstraße 1, 4240, Freistadt, Austria": {
+    "lat": 48.509964,
+    "lng": 14.501266,
+    "place_name": "Brauhausstraße 1, 4240 Freistadt, Österreich"
+  },
+  "Freiheitsplatz 4, 2340, Mödling, Österreich": {
+    "lat": 48.086264,
+    "lng": 16.284698,
+    "place_name": "Freiheitsplatz 4, 2340 Mödling, Österreich"
+  },
+  "Hauptplatz 47, 9462, Bad St. Leonhard, Austria": {
+    "lat": 46.963513,
+    "lng": 14.790655,
+    "place_name": "Hauptplatz 47, 9462 Bad St. Leonhard im Lavanttal, Österreich"
+  },
+  "Altstadt 252, 84028, Landshut, Deutschland": {
+    "lat": 48.534528,
+    "lng": 12.150967,
+    "place_name": "Altstadt 252, 84028 Landshut, Deutschland"
+  },
+  "Syrlinstraße 10, 89073, Ulm, Deutschland": {
+    "lat": 48.402824,
+    "lng": 9.991003,
+    "place_name": "Syrlinstraße 10, 89073 Ulm, Deutschland"
+  },
+  "Bielefelder Str.32, 49186, Bad Iburg, Germany": {
+    "lat": 52.145842,
+    "lng": 8.052751,
+    "place_name": "Bielefelder Straße 32, 49186 Bad Iburg, Deutschland"
+  },
+  "Kaiserstraße 15, 6900, Bregenz, Österreich": {
+    "lat": 47.502957,
+    "lng": 9.746236,
+    "place_name": "Kaiserstraße 15, 6900 Bregenz, Österreich"
+  },
+  "Zentralstrasse 131, 8003, Zürich, Schweiz": {
+    "lat": 47.375053,
+    "lng": 8.515257,
+    "place_name": "Zentralstrasse 131, 8003 Zürich, Schweiz"
+  },
+  "Am Dorfplatz 10, 5424, Bad Vigaun, Austria": {
+    "lat": 47.663068,
+    "lng": 13.131921,
+    "place_name": "Dorfplatz 10, 5424 Bad Vigaun, Österreich"
+  },
+  "Gaisbergstraße 20, 5020, Salzburg, Österreich": {
+    "lat": 47.801788,
+    "lng": 13.067568,
+    "place_name": "Gaisbergstraße 20, 5020 Salzburg, Österreich"
+  },
+  "Schwarzacherweg 200, 5754, Hinterglemm, Österreich": {
+    "lat": 47.377604,
+    "lng": 12.590981,
+    "place_name": "Schwarzacherweg 200, 5754 Saalbach-Hinterglemm, Österreich"
+  },
+  "Münchner Straße 22, 83703, Gmund am Tegernsee, Deutschland": {
+    "lat": 47.752906,
+    "lng": 11.738575,
+    "place_name": "Münchner Straße 22, 83703 Gmund am Tegernsee, Deutschland"
+  },
+  "Wörthstraße 17 / Hofeingang, 72764, Reutlingen, Deutschland": {
+    "lat": 48.486062,
+    "lng": 9.217398,
+    "place_name": "Wörthstraße 17, 72764 Reutlingen, Deutschland"
+  },
+  "Colmarplatz 1, 7000, Eisenstadt, Österreich": {
+    "lat": 47.846993,
+    "lng": 16.526508,
+    "place_name": "Colmarplatz, 7000 Eisenstadt, Österreich"
+  },
+  "Weinstraße 150, 86633, Neuburg an der Donau, Germany": {
+    "lat": 48.736014,
+    "lng": 11.183349,
+    "place_name": "Weinstraße 150, 86633 Neuburg an der Donau, Deutschland"
+  },
+  "Tummelplatz 7, 8010, Graz, Österreich": {
+    "lat": 47.069639,
+    "lng": 15.44348,
+    "place_name": "Tummelplatz 7, 8010 Graz, Österreich"
+  },
+  "Hauptstraße 39, 2120, Wolkersdorf, Austria": {
+    "lat": 48.383296,
+    "lng": 16.518319,
+    "place_name": "Hauptstraße 39, 2120 Wolkersdorf im Weinviertel, Österreich"
+  },
+  "Alemannenstraße 31, 6844, Altach, Austria": {
+    "lat": 47.358836,
+    "lng": 9.654875,
+    "place_name": "Alemannenstraße 31, 6844 Altach, Österreich"
+  },
+  "Erzherzog Rainer Ring 5, 2500, Baden, Österreich": {
+    "lat": 48.007111,
+    "lng": 16.232043,
+    "place_name": "Erzherzog Rainer-Ring 5, 2500 Baden bei Wien, Österreich"
+  },
+  "Hütten 40, 5771, Leogang, Österreich": {
+    "lat": 47.440639,
+    "lng": 12.714736,
+    "place_name": "Hütten 40, 5771 Leogang, Österreich"
+  },
+  "Oberer Markt 8, 3335, Weyer, Österreich": {
+    "lat": 47.857006,
+    "lng": 14.663889,
+    "place_name": "Oberer Markt 8, 3335 Weyer, Österreich"
+  },
+  "Marxergasse /Eingang Ecke Kollergasse, 1030, Wien, Austria": {
+    "lat": 48.206751,
+    "lng": 16.390492,
+    "place_name": "Marxergasse, 1030 Wien, Österreich"
+  },
+  "Friedrich Ebert Straße 90, 34119, Kassel, Deutschland": {
+    "lat": 51.315847,
+    "lng": 9.47487,
+    "place_name": "Friedrich-Ebert-Straße 90, 34119 Kassel, Deutschland"
+  },
+  "Seestraße 8, 83209, Prien, Deutschland": {
+    "lat": 47.855602,
+    "lng": 12.345554,
+    "place_name": "Seestraße 8, 83209 Prien am Chiemsee, Deutschland"
+  },
+  "Innsbrucker Str. 8, 6112, Wattens, Österreich": {
+    "lat": 47.29099,
+    "lng": 11.592093,
+    "place_name": "Innsbrucker Straße 8, 6112 Wattens, Österreich"
+  },
+  "Höllgasse 4, 83278, Traunstein, Germany": {
+    "lat": 47.868955,
+    "lng": 12.648267,
+    "place_name": "Höllgasse 4, 83278 Traunstein, Deutschland"
+  },
+  "Hütten 37, 5771, Leogang, Österreich": {
+    "lat": 47.436172,
+    "lng": 12.708553,
+    "place_name": "Hütten 37, 5771 Leogang, Österreich"
+  },
+  "Obermarkt 19, 82481, Mittenwald, Deutschland": {
+    "lat": 47.440728,
+    "lng": 11.26041,
+    "place_name": "Obermarkt 19, 82481 Mittenwald, Deutschland"
+  },
+  "Innsbrucker Straße 16/1, 6130, Schwaz, Österreich": {
+    "lat": 47.343751,
+    "lng": 11.70754,
+    "place_name": "Innsbrucker Straße 16, 6130 Schwaz, Österreich"
+  },
+  "Arnstorfer Str. 34, 84347, Pfarrkirchen, Deutschland": {
+    "lat": 48.439789,
+    "lng": 12.935955,
+    "place_name": "Arnstorfer Straße 34, 84347 Pfarrkirchen, Deutschland"
+  },
+  "Mühlbach am Hochkönig 22/a, 5505, Mühlbach am Hochkönig, Austria": {
+    "lat": 47.380118,
+    "lng": 13.138654,
+    "place_name": "Mühlbach Am Hochkönig 22, 5505 Mühlbach am Hochkönig, Österreich"
+  },
+  "theobaldgasse 20, 1060, Wien, Österreich": {
+    "lat": 48.200635,
+    "lng": 16.358637,
+    "place_name": "Theobaldgasse 20, 1060 Wien, Österreich"
+  },
+  "Wundtgasse 1A/Süd-West Friedhof, 1120, Wien, Österreich": {
+    "lat": 48.161116,
+    "lng": 16.300686,
+    "place_name": "Wundtgasse 1a, 1120 Wien, Österreich"
+  },
+  "Kampenwandstr 17, 83229, Aschau, Deutschland": {
+    "lat": 47.775687,
+    "lng": 12.324855,
+    "place_name": "Kampenwandstraße 17, 83229 Aschau im Chiemgau, Deutschland"
+  },
+  "Apothekergässchen 3, 86150, Augsburg, Deutschland": {
+    "lat": 48.366339,
+    "lng": 10.898245,
+    "place_name": "Apothekergäßchen 3, 86150 Augsburg, Deutschland"
+  },
+  "Gumpendorfer Str. 33, 1060, Wien, Österreich": {
+    "lat": 48.19886,
+    "lng": 16.358466,
+    "place_name": "Gumpendorfer Straße 33, 1060 Wien, Österreich"
+  },
+  "Münchner Str. 187, 85757, Karlsfeld, Deutschland": {
+    "lat": 48.2237,
+    "lng": 11.470971,
+    "place_name": "Münchner Straße 187, 85757 Karlsfeld, Deutschland"
+  },
+  "Hauptplatz 30, 2700, Wiener Neustadt, Österreich": {
+    "lat": 47.813169,
+    "lng": 16.243599,
+    "place_name": "Hauptplatz 30, 2700 Wiener Neustadt, Österreich"
+  },
+  "Pressienstraße 17, 9020, Klagenfurt, Austria": {
+    "lat": 46.634931,
+    "lng": 14.346987,
+    "place_name": "Pressienstraße 17, 9020 Klagenfurt am Wörthersee, Österreich"
+  },
+  "Hauptplatz 28, 3730, Eggenburg, Austria": {
+    "lat": 48.642611,
+    "lng": 15.817678,
+    "place_name": "Hauptplatz 28, 3730 Eggenburg, Österreich"
+  },
+  "Tuchlauben 7A, 1010, Wien, Österreich": {
+    "lat": 48.210156,
+    "lng": 16.369751,
+    "place_name": "Tuchlauben 7a, 1010 Wien, Österreich"
+  },
+  "Enderecker Strasse 2, 39037, Maranza, Italien": {
+    "lat": 46.822984,
+    "lng": 11.667103,
+    "place_name": "Enderecker Straße 2, 39037 Mühlbach Südtirol, Italien"
+  },
+  "Unterer Stadtpl. 31, 6330, Kufstein, Österreich": {
+    "lat": 47.583084,
+    "lng": 12.170142,
+    "place_name": "Unterer Stadtplatz 31, 6330 Kufstein, Österreich"
+  },
+  "Abwicklung Manufactum Halle 8, 45731, Sonnefeld, Germany": {
+    "lat": 52.422483,
+    "lng": 8.921644,
+    "place_name": "Halle 8, 31604 Raddestorf, Deutschland"
+  },
+  "Spisergasse 43, 9000, St. Gallen, Schweiz": {
+    "lat": 47.424549,
+    "lng": 9.379194,
+    "place_name": "Spisergasse 43, 9000 St. Gallen, Schweiz"
+  },
+  "Salvatorstraße 2, 80333, München, Deutschland": {
+    "lat": 48.141421,
+    "lng": 11.575899,
+    "place_name": "Salvatorstraße 2, 80333 München, Deutschland"
+  },
+  "Bodenzeile4, 2230, Gänserndorf, Österreich": {
+    "lat": 48.334149,
+    "lng": 16.714163,
+    "place_name": "Bodenzeile 4, 2230 Gänserndorf, Österreich"
+  },
+  "Plangeroß 36, 6481, St. Leonhard im Pitztal, Österreich": {
+    "lat": 46.986848,
+    "lng": 10.868932,
+    "place_name": "Plangeross 36, 6481 St. Leonhard im Pitztal, Österreich"
+  },
+  "Josef-Hager-Straße 26, 6372, Oberndorf in Tirol, Österreich": {
+    "lat": 47.498054,
+    "lng": 12.384279,
+    "place_name": "Josef-Hager-Straße 26, 6372 Oberndorf in Tirol, Österreich"
+  },
+  "Kollwitzstr. 66, 10435, Berlin, Deutschland": {
+    "lat": 52.536093,
+    "lng": 13.418166,
+    "place_name": "Kollwitzstraße 66, 10435 Berlin, Deutschland"
+  },
+  "Griesgasse 11, 8020, Graz, Österreich": {
+    "lat": 47.069932,
+    "lng": 15.434159,
+    "place_name": "Griesgasse 11, 8020 Graz, Österreich"
+  },
+  "Barer Str. 63, 80799, München, Deutschland": {
+    "lat": 48.152795,
+    "lng": 11.574234,
+    "place_name": "Barer Straße 63, 80799 München, Deutschland"
+  },
+  "Lämmerbichl 8, 5730, Mittersill, Austria": {
+    "lat": 47.285803,
+    "lng": 12.424915,
+    "place_name": "Lämmerbichl 8, 5730 Mittersill, Österreich"
+  },
+  "Luisenstraße 19, 58511, Lüdenscheid, Deutschland": {
+    "lat": 51.21668,
+    "lng": 7.633739,
+    "place_name": "Luisenstraße 19, 58511 Lüdenscheid, Deutschland"
+  },
+  "Tucherstrasse 3, 90403, Nürnberg, Deutschland": {
+    "lat": 49.454554,
+    "lng": 11.079539,
+    "place_name": "Tucherstraße 3, 90403 Nürnberg, Deutschland"
+  },
+  "Burggasse 10, 9020, Klagenfurt am Wörthersee, Austria": {
+    "lat": 46.624259,
+    "lng": 14.310926,
+    "place_name": "Burggasse 10, 9020 Klagenfurt am Wörthersee, Österreich"
+  },
+  "Hauptpl. 3, 8940, Liezen, Österreich": {
+    "lat": 47.566886,
+    "lng": 14.242245,
+    "place_name": "Hauptplatz 3, 8940 Liezen, Österreich"
+  },
+  "Haarenstraße 48-49, 26122, Oldenburg, Deutschland": {
+    "lat": 53.140518,
+    "lng": 8.211,
+    "place_name": "Haarenstraße, 26122 Oldenburg, Deutschland"
+  },
+  "Schützengasse 6, 99423, Weimar, Deutschland": {
+    "lat": 50.97848,
+    "lng": 11.326498,
+    "place_name": "Schützengasse 6, 99423 Weimar, Deutschland"
+  },
+  "Goethestraße 12, 4614, Marchtrenk, Austria": {
+    "lat": 48.194652,
+    "lng": 14.112377,
+    "place_name": "Goethestraße 12, 4614 Marchtrenk, Österreich"
+  },
+  "Ramsau 205, 6284, Ramsau im Zillertal, Austria": {
+    "lat": 47.207623,
+    "lng": 11.870404,
+    "place_name": "Ramsau 205, 6284 Ramsau im Zillertal, Österreich"
+  },
+  "Theaterstraße 16, 69117, Heidelberg, Deutschland": {
+    "lat": 49.409722,
+    "lng": 8.704062,
+    "place_name": "Theaterstraße 16, 69117 Heidelberg, Deutschland"
+  },
+  "Krossener Str. 25, 10245, Berlin, Deutschland": {
+    "lat": 52.510017,
+    "lng": 13.460882,
+    "place_name": "Krossener Straße 25, 10245 Berlin, Deutschland"
+  },
+  "Marienstraße 24, 99817, Eisenach, Deutschland": {
+    "lat": 50.970243,
+    "lng": 10.323455,
+    "place_name": "Marienstraße 24, 99817 Eisenach, Deutschland"
+  },
+  "Schloßstr. 7, 55278, Dexheim, Deutschland": {
+    "lat": 49.846867,
+    "lng": 8.317247,
+    "place_name": "Schloß-Straße 7, 55278 Dexheim, Deutschland"
+  },
+  "Schiffbrückstraße 8, 24937, Flensburg, Deutschland": {
+    "lat": 54.789203,
+    "lng": 9.433852,
+    "place_name": "Schiffbrückstraße 8, 24937 Flensburg, Deutschland"
+  },
+  "Austraße 34, 35745, Herborn, Germany": {
+    "lat": 50.676046,
+    "lng": 8.303598,
+    "place_name": "Austraße 34, 35745 Herborn, Deutschland"
+  },
+  "Sackstraße 7–13, 8010, Graz, Österreich": {
+    "lat": 47.071913,
+    "lng": 15.437071,
+    "place_name": "Sackstraße 7, 8010 Graz, Österreich"
+  },
+  "Hollandstraße 15, 1020, Wien, Austria": {
+    "lat": 48.216683,
+    "lng": 16.377361,
+    "place_name": "Hollandstraße 15, 1020 Wien, Österreich"
+  },
+  "Eremitenweg 33a, 82131, Gauting, Germany": {
+    "lat": 48.071656,
+    "lng": 11.391925,
+    "place_name": "Eremitenweg 33a, 82131 Gauting, Deutschland"
+  },
+  "Holzplatz 5, 3550, Langenlois, Austria": {
+    "lat": 48.472545,
+    "lng": 15.674979,
+    "place_name": "Holzplatz 5, 3550 Langenlois, Österreich"
+  },
+  "M.-Bayrhamerstr.26, 5201, Seekirchen, Austria": {
+    "lat": 47.893392,
+    "lng": 13.122825,
+    "place_name": "Mathias-Bayrhammer-Straße 26, 5201 Seekirchen am Wallersee, Österreich"
+  },
+  "via nova 80, 7017, Flims Dorf, Switzerland": {
+    "lat": 46.833403,
+    "lng": 9.282355,
+    "place_name": "Via Nova 80, 7017 Flims Dorf, Schweiz"
+  },
+  "Werdenbergerstraße 17, 6700, Bludenz, Österreich": {
+    "lat": 47.15562,
+    "lng": 9.820382,
+    "place_name": "Werdenbergerstraße 17, 6700 Bludenz, Österreich"
+  },
+  "Frühlingstraße 1, 94234, Viechtach, Deutschland": {
+    "lat": 49.080806,
+    "lng": 12.875137,
+    "place_name": "Frühlingsstraße 1, 94234 Viechtach, Deutschland"
+  },
+  "Tal 1\nRittershop, 77770, Durbach, Germany": {
+    "lat": 48.494207,
+    "lng": 8.01699,
+    "place_name": "Tal 1, 77770 Durbach, Deutschland"
+  },
+  "Aflenz Kurort 50, 8623, Aflenz Kurort, Österreich": {
+    "lat": 47.544192,
+    "lng": 15.238258,
+    "place_name": "Aflenz Kurort 50, 8623 Aflenz, Österreich"
+  },
+  "Hochkönigstraße 191, 5505, Mühlbach am Hochkönig, Österreich": {
+    "lat": 47.39185,
+    "lng": 13.057926,
+    "place_name": "Hochkönig Straße 191, 5505 Mühlbach am Hochkönig, Österreich"
+  },
+  "Hamburger Str. 5, 28870, Ottersberg, Deutschland": {
+    "lat": 53.109421,
+    "lng": 9.153067,
+    "place_name": "Hamburger Straße 5, 28870 Ottersberg, Deutschland"
+  },
+  "Pustertaler Sonnenstraße 7, 39030, Terenten Südtirol, Italien": {
+    "lat": 46.83076,
+    "lng": 11.774062,
+    "place_name": "Sonnenstraße 7, 39030 Terenten Südtirol, Italien"
+  },
+  "Liebenstein 25, 93444, Bad Kötzting, Deutschland": {
+    "lat": 49.215567,
+    "lng": 12.829263,
+    "place_name": "Liebenstein 25, 93444 Bad Kötzting, Deutschland"
+  },
+  "Linzerstrasse 140, 1140, Wien, Österreich": {
+    "lat": 48.194449,
+    "lng": 16.296899,
+    "place_name": "Linzer Straße 140, 1140 Wien, Österreich"
+  },
+  "Mühldorf 22, 4644, Scharnstein, Österreich": {
+    "lat": 47.897588,
+    "lng": 13.951605,
+    "place_name": "Mühldorf 22, 4644 Scharnstein, Österreich"
+  },
+  "Linzer Bundesstraße 39, 5023, Salzburg, Österreich": {
+    "lat": 47.815368,
+    "lng": 13.06952,
+    "place_name": "Linzer Bundesstraße 39, 5023 Salzburg, Österreich"
+  },
+  "Neulinggasse 34-36, 1030, Wien, Österreich": {
+    "lat": 48.199155,
+    "lng": 16.386364,
+    "place_name": "Neulinggasse 34-36, 1030 Wien, Österreich"
+  },
+  "Postpl. 4, 5700, Zell am See, Österreich": {
+    "lat": 47.323635,
+    "lng": 12.796133,
+    "place_name": "Postplatz 4, 5700 Zell am See, Österreich"
+  },
+  "Buttermarkt 16, 36037, Fulda, Germany": {
+    "lat": 50.550482,
+    "lng": 9.678625,
+    "place_name": "Buttermarkt 16, 36037 Fulda, Deutschland"
+  },
+  "Persal 227, 6292, Finkenberg, Österreich": {
+    "lat": 47.152328,
+    "lng": 11.818503,
+    "place_name": "Persal 227, 6292 Finkenberg, Österreich"
+  },
+  "Steinstrasse 17, 10119, Berlin, Deutschland": {
+    "lat": 52.527153,
+    "lng": 13.404642,
+    "place_name": "Steinstraße 17, 10119 Berlin, Deutschland"
+  },
+  "Habsburgergasse 14, 1010, Wien, Österreich": {
+    "lat": 48.207688,
+    "lng": 16.367565,
+    "place_name": "Habsburgergasse 14, 1010 Wien, Österreich"
+  },
+  "Augustinerstr. 46, 55116, Mainz, Deutschland": {
+    "lat": 49.99725,
+    "lng": 8.274281,
+    "place_name": "Augustinerstraße 46, 55116 Mainz, Deutschland"
+  },
+  "Borig 7, 25980, Sylt-Archsum, Germany": {
+    "lat": 54.870783,
+    "lng": 8.389173,
+    "place_name": "Borig 7, 25980 Sylt, Deutschland"
+  },
+  "Bertastrasse 5, 8003, Zürich, Schweiz": {
+    "lat": 47.375205,
+    "lng": 8.516148,
+    "place_name": "Bertastrasse 5, 8003 Zürich, Schweiz"
+  },
+  "Hauptstraße 41, 53804, Much, Germany": {
+    "lat": 50.905506,
+    "lng": 7.404902,
+    "place_name": "Hauptstraße 41, 53804 Much, Deutschland"
+  },
+  "Sonnenweg 224, 8971, Rohrmoos, Österreich": {
+    "lat": 47.382175,
+    "lng": 13.670574,
+    "place_name": "Sonnenweg 224, 8971 Schladming, Österreich"
+  },
+  "Omesberg 287, 6764, Lech, Österreich": {
+    "lat": 47.207029,
+    "lng": 10.137808,
+    "place_name": "Omesberg 287, 6764 Lech, Österreich"
+  },
+  "Ziegenmarkt 5, 38100, Braunschweig, Deutschland": {
+    "lat": 52.261631,
+    "lng": 10.519209,
+    "place_name": "Ziegenmarkt 5, 38100 Braunschweig, Deutschland"
+  },
+  "Marktstraße 10, 4760, Raab, Österreich": {
+    "lat": 48.351922,
+    "lng": 13.64726,
+    "place_name": "Marktstraße 10, 4760 Raab, Österreich"
+  },
+  "Zum Quellenpark 21, 65812, Bad Soden am Taunus, Deutschland": {
+    "lat": 50.143006,
+    "lng": 8.499834,
+    "place_name": "Zum Quellenpark 21, 65812 Bad Soden am Taunus, Deutschland"
+  },
+  "Dellbrücker Hauptstr. 105, 51069, Köln, Germany": {
+    "lat": 50.976364,
+    "lng": 7.072756,
+    "place_name": "Dellbrücker Hauptstraße 105, 51069 Köln, Deutschland"
+  },
+  "Viktualienmarkt 8, 80331, München, Deutschland": {
+    "lat": 48.135695,
+    "lng": 11.575677,
+    "place_name": "Viktualienmarkt 8, 80331 München, Deutschland"
+  },
+  "Josefstädterstraße 52, 1080, Wien, Österreich": {
+    "lat": 48.21022,
+    "lng": 16.346387,
+    "place_name": "Josefstädter Straße 52, 1080 Wien, Österreich"
+  },
+  "Bräunerstraße 3, 1010, Wien, Österreich": {
+    "lat": 48.208071,
+    "lng": 16.369144,
+    "place_name": "Bräunerstraße 3, 1010 Wien, Österreich"
+  },
+  "Glocknerstraße 4, 9990, Nußdorf-Debant, Österreich": {
+    "lat": 46.829575,
+    "lng": 12.803226,
+    "place_name": "Glocknerstraße 4, 9990 Nußdorf-Debant, Österreich"
+  },
+  "Lehmweg 50, 20251, Hamburg, Deutschland": {
+    "lat": 53.584185,
+    "lng": 9.981025,
+    "place_name": "Lehmweg 50, 20251 Hamburg, Deutschland"
+  },
+  "Oettingenstrasse 30, 80538, München, Deutschland": {
+    "lat": 48.144891,
+    "lng": 11.593826,
+    "place_name": "Oettingenstraße 30, 80538 München, Deutschland"
+  },
+  "Herrenstraße 18, 4020, Linz, Österreich": {
+    "lat": 48.301804,
+    "lng": 14.286755,
+    "place_name": "Herrenstraße 18, 4020 Linz, Österreich"
+  },
+  "Johannisplatz 18, 81667, München, Germany": {
+    "lat": 48.133878,
+    "lng": 11.597348,
+    "place_name": "Johannisplatz 18, 81667 München, Deutschland"
+  },
+  "Rathausplatz 11, 39057, Eppan, Italien": {
+    "lat": 46.455122,
+    "lng": 11.25936,
+    "place_name": "Rathausplatz 11, 39057 Eppan an der Weinstraße Südtirol, Italien"
+  },
+  "Pogusch 21, 8625, Pogusch, Österreich": {
+    "lat": 47.53003,
+    "lng": 15.334391,
+    "place_name": "Poguschstraße 21, 8625 Sankt Lorenzen im Mürztal, Österreich"
+  },
+  "Gonzagagasse 14\nTür 16, 1010, Wien, Austria": {
+    "lat": 48.21545,
+    "lng": 16.370468,
+    "place_name": "Gonzagagasse 14, 1010 Wien, Österreich"
+  },
+  "Stellinger Weg 36, 20255, Hamburg, Deutschland": {
+    "lat": 53.580182,
+    "lng": 9.948155,
+    "place_name": "Stellinger Weg 36, 20255 Hamburg, Deutschland"
+  },
+  "Brunngasse 6, 94032, Passau, Deutschland": {
+    "lat": 48.453087,
+    "lng": 13.193641,
+    "place_name": "Brunngasse 6, 94086 Bad Griesbach im Rottal, Deutschland"
+  },
+  "Traungasse 5-7, 4810, Gmunden, Österreich": {
+    "lat": 47.919132,
+    "lng": 13.800931,
+    "place_name": "Traungasse 5, 4810 Gmunden, Österreich"
+  },
+  "Josefstrasse 45, 8005, Zürich, Schweiz": {
+    "lat": 47.381526,
+    "lng": 8.532789,
+    "place_name": "Josefstrasse 45, 8005 Zürich, Schweiz"
+  },
+  "Mindener Straße 9, 32052, Herford, Deutschland": {
+    "lat": 52.119488,
+    "lng": 8.678531,
+    "place_name": "Mindener Straße 9, 32049 Herford, Deutschland"
+  },
+  "SAAZ, 8341, Paldau, Austria": {
+    "lat": 46.95111,
+    "lng": 15.832477,
+    "place_name": "Saaz, 8341 Paldau, Österreich"
+  },
+  "Lange Zeile 21, 85435, Erding, Deutschland": {
+    "lat": 48.30842,
+    "lng": 11.9082,
+    "place_name": "Lange Zeile 21, 85435 Erding, Deutschland"
+  },
+  "Wallererstraße 222, 4600, Wels, Austria": {
+    "lat": 48.189345,
+    "lng": 14.001428,
+    "place_name": "Wallerer Straße 222, 4600 Wels, Österreich"
+  },
+  "Westerwieher Str. 253, 33397, Rietberg, Deutschland": {
+    "lat": 51.815368,
+    "lng": 8.494808,
+    "place_name": "Westerwieher Straße 253, 33397 Rietberg, Deutschland"
+  },
+  "Runggerstraße 20, 39040, Lüsen, Italien": {
+    "lat": 46.567931,
+    "lng": 11.559602,
+    "place_name": "39040, Kastelruth, Südtirol, Italien"
+  },
+  "Bundesstraße 24, 8740, Zeltweg, Österreich": {
+    "lat": 47.195614,
+    "lng": 14.741637,
+    "place_name": "Bundesstraße 24, 8740 Zeltweg, Österreich"
+  },
+  "Vogelsbergstraße 38, 60316, Frankfurt am Main, Deutschland": {
+    "lat": 50.125147,
+    "lng": 8.693414,
+    "place_name": "Vogelsbergstraße 38, 60316 Frankfurt am Main, Deutschland"
+  },
+  "Hauptstrasse 6, 82541, Münsing, Germany": {
+    "lat": 47.902552,
+    "lng": 11.368892,
+    "place_name": "Hauptstraße 6, 82541 Münsing, Deutschland"
+  },
+  "Straßäcker 1, 82418, Murnau, Germany": {
+    "lat": 47.68745,
+    "lng": 11.202962,
+    "place_name": "Straßäcker 1, 82418 Murnau am Staffelsee, Deutschland"
+  },
+  "Rohrberg 36, 2392, Sulz im Wienerwald, Österreich": {
+    "lat": 48.089905,
+    "lng": 16.148056,
+    "place_name": "Rohrberg 36, 2392 Wienerwald, Österreich"
+  },
+  "Fraunhoferstraße 36, 80469, München, Germany": {
+    "lat": 48.12859,
+    "lng": 11.575033,
+    "place_name": "Fraunhoferstraße 36, 80469 München, Deutschland"
+  },
+  "Museumsplatz 1, 1070, Wien, Österreich": {
+    "lat": 48.204271,
+    "lng": 16.357787,
+    "place_name": "Museumsplatz 1, 1070 Wien, Österreich"
+  },
+  "Auf dem Falkenstein 1, 87629, Pfronten, Deutschland": {
+    "lat": 47.570056,
+    "lng": 10.591802,
+    "place_name": "Auf dem Falkenstein 1, 87459 Pfronten, Deutschland"
+  },
+  "Sieveringer Straße 105, 1190, Wien, Österreich": {
+    "lat": 48.248195,
+    "lng": 16.32843,
+    "place_name": "Sieveringer Straße 105, 1190 Wien, Österreich"
+  },
+  "Marktplatz 7, 6800, Feldkirch, Austria": {
+    "lat": 47.236802,
+    "lng": 9.596172,
+    "place_name": "Marktplatz 7, 6800 Feldkirch, Österreich"
+  },
+  "Hardenbergstraße 4-5, 10623, Berlin, Germany": {
+    "lat": 52.51104,
+    "lng": 13.322555,
+    "place_name": "Hardenbergstraße 4, 10623 Berlin, Deutschland"
+  },
+  "Dienerstraße 12, 80331, München, Germany": {
+    "lat": 48.1387,
+    "lng": 11.577371,
+    "place_name": "Dienerstraße 12, 80331 München, Deutschland"
+  },
+  "Schlossstraße 12, 19053, Schwerin, Germany": {
+    "lat": 53.627329,
+    "lng": 11.414396,
+    "place_name": "Schloßstraße 12, 19053 Schwerin, Deutschland"
+  },
+  "Stadtplatz 12 Top 1b, 4840, Vöcklabruck, Austria": {
+    "lat": 48.008832,
+    "lng": 13.654957,
+    "place_name": "Stadtplatz 12, 4840 Vöcklabruck, Österreich"
+  },
+  "Drusenbergstr. 57, 44789, Bochum, Deutschland": {
+    "lat": 51.46506,
+    "lng": 7.212906,
+    "place_name": "Drusenbergstraße 57, 44789 Bochum, Deutschland"
+  },
+  "Am Bach 17, 33602, Bielefeld, Germany": {
+    "lat": 52.018744,
+    "lng": 8.53074,
+    "place_name": "Am Bach 17, 33602 Bielefeld, Deutschland"
+  },
+  "Landstrasser-Hauptstrasse 90, 1030, Wien, Österreich": {
+    "lat": 48.19973,
+    "lng": 16.393539,
+    "place_name": "Landstraßer Hauptstraße 90, 1030 Wien, Österreich"
+  },
+  "Bahnhof 139, 6870, Bezau, Österreich": {
+    "lat": 47.381108,
+    "lng": 9.897364,
+    "place_name": "Bahnhof 139, 6870 Bezau, Österreich"
+  },
+  "Pfarrer-Socher-Straße 43, 82041, Oberhaching, Germany": {
+    "lat": 48.029958,
+    "lng": 11.597064,
+    "place_name": "Pfarrer-Socher-Straße 43, 82041 Oberhaching, Deutschland"
+  },
+  "Lautenschlagerstr. 16, 70173, Stuttgart, Germany": {
+    "lat": 48.781907,
+    "lng": 9.17864,
+    "place_name": "Lautenschlagerstraße 16, 70173 Stuttgart, Deutschland"
+  },
+  "Brückenstraße 23 (Ecke Herzogstraße), 50667, Köln, Germany": {
+    "lat": 50.938158,
+    "lng": 6.95416,
+    "place_name": "Brückenstraße 23, 50667 Köln, Deutschland"
+  },
+  "Oberfrohnaer Straße 76, 09117, Chemnitz, Germany": {
+    "lat": 50.827071,
+    "lng": 12.829985,
+    "place_name": "Oberfrohnaer Straße 76, 09117 Chemnitz, Deutschland"
+  },
+  "Am Mühlwege 8B, 34497, Korbach, Deutschland": {
+    "lat": 51.289765,
+    "lng": 8.856325,
+    "place_name": "Am Mühlwege 8b, 34497 Korbach, Deutschland"
+  },
+  "Reitlehen 27, 5731, Hollersbach im Pinzgau, Austria": {
+    "lat": 47.268182,
+    "lng": 12.41876,
+    "place_name": "Reitlehen 27, 5731 Hollersbach im Pinzgau, Österreich"
+  },
+  "Hauptplatz 9, 3580, Horn, Austria": {
+    "lat": 48.663342,
+    "lng": 15.655948,
+    "place_name": "Hauptplatz 9, 3580 Horn, Österreich"
+  },
+  "Dorf 199, 6764 , Lech am Arlberg, Austria": {
+    "lat": 47.211368,
+    "lng": 10.143715,
+    "place_name": "Dorf 199, 6764 Lech, Österreich"
+  },
+  "Landstraße 36, 3910, Zwettl, Österreich": {
+    "lat": 48.605408,
+    "lng": 15.166359,
+    "place_name": "Landstraße 36, 3910 Zwettl-Niederösterreich, Österreich"
+  },
+  "Hauptstraße 18, 94258, Frauenau, Germany": {
+    "lat": 48.990224,
+    "lng": 13.30183,
+    "place_name": "Hauptstraße 18, 94258 Frauenau, Deutschland"
+  },
+  "Schusterstraße 1, 79098, Freiburg, Deutschland": {
+    "lat": 47.995262,
+    "lng": 7.850943,
+    "place_name": "Schusterstraße 1, 79098 Freiburg im Breisgau, Deutschland"
+  },
+  "Am Rathaus 6, 71522, Backnang, Germany": {
+    "lat": 48.946976,
+    "lng": 9.430129,
+    "place_name": "Am Rathaus 6, 71522 Backnang, Deutschland"
+  },
+  "Amtsgerichtsstraße 16, 96317, Kronach, Deutschland": {
+    "lat": 50.241591,
+    "lng": 11.324523,
+    "place_name": "Amtsgerichtsstraße 16, 96317 Kronach, Deutschland"
+  },
+  "Ziegeleistrasse 2, 8572, Berg (Thurgau), Switzerland": {
+    "lat": 47.58356,
+    "lng": 9.169222,
+    "place_name": "Ziegeleistrasse 2, 8572 Berg, Schweiz"
+  },
+  "Torgglerhof 19, 39015, Saltusio, Italien": {
+    "lat": 36.201543,
+    "lng": 5.40716,
+    "place_name": "Cité Des Italiens Bloc Ed N, 19, Sétif, Sétif, Algerien"
+  },
+  "Brückengasse 11, 78462, Konstanz, Deutschland": {
+    "lat": 47.664658,
+    "lng": 9.176253,
+    "place_name": "Brückengasse 11, 78462 Konstanz, Deutschland"
+  },
+  "Schottenring 16, 1010, Wien, Österreich": {
+    "lat": 48.215404,
+    "lng": 16.366348,
+    "place_name": "Schottenring 16, 1010 Wien, Österreich"
+  },
+  "Kornhausstr.11, 72070, Tübingen, Deutschland": {
+    "lat": 48.521004,
+    "lng": 9.052569,
+    "place_name": "Kornhausstraße 11, 72070 Tübingen, Deutschland"
+  },
+  "bischofsholer damm 140, 30173, Hannover, Germany": {
+    "lat": 52.364111,
+    "lng": 9.77316,
+    "place_name": "Bischofsholer Damm 140, 30173 Hannover, Deutschland"
+  },
+  "Sieveringer Strasse , 1190, Wien, Austria": {
+    "lat": 48.25399,
+    "lng": 16.317575,
+    "place_name": "Sieveringer Straße, 1190 Wien, Österreich"
+  },
+  "Viehhauserstraße 32, 5071, Wals, Austria": {
+    "lat": 47.782671,
+    "lng": 12.986021,
+    "place_name": "Viehhauserstraße 32, 5071 Wals-Siezenheim, Österreich"
+  },
+  "Domshof 8-12, 28195, Bremen, Germany": {
+    "lat": 53.075717,
+    "lng": 8.808816,
+    "place_name": "Domshof 8-12, 28195 Bremen, Deutschland"
+  },
+  "Öttinger Straße 31, 84307, Eggenfelden, Germany": {
+    "lat": 48.39896,
+    "lng": 12.764441,
+    "place_name": "Öttinger Straße 31, 84307 Eggenfelden, Deutschland"
+  },
+  "Maxingstraße 2, 1130, Wien, Österreich": {
+    "lat": 48.185308,
+    "lng": 16.300787,
+    "place_name": "Maxingstraße 2, 1130 Wien, Österreich"
+  },
+  "Heegbarg 31 (Alstertal-Einkaufszentrum), 22391, Hamburg, Germany": {
+    "lat": 53.653921,
+    "lng": 10.091152,
+    "place_name": "Heegbarg 31, 22391 Hamburg, Deutschland"
+  },
+  "Keltenallee 7, 5081, Anif, Österreich": {
+    "lat": 47.761016,
+    "lng": 13.056298,
+    "place_name": "Keltenallee 7, 5081 Anif, Österreich"
+  },
+  "Scheibe 75, 6167, Neustift im Stubaital, Österreich": {
+    "lat": 47.107042,
+    "lng": 11.295565,
+    "place_name": "Scheibe 75, 6167 Neustift im Stubaital, Österreich"
+  },
+  "Ludwigstraße 25, 83435, Bad Reichenhall, Deutschland": {
+    "lat": 47.724695,
+    "lng": 12.879216,
+    "place_name": "Ludwigstraße 25, 83435 Bad Reichenhall, Deutschland"
+  },
+  "Obkirchergasse 24, 1190, Wien, Austria": {
+    "lat": 48.243041,
+    "lng": 16.341938,
+    "place_name": "Obkirchergasse 24, 1190 Wien, Österreich"
+  },
+  "Hilmteichstraße 70, 8010, Graz, Austria": {
+    "lat": 47.084082,
+    "lng": 15.460243,
+    "place_name": "Hilmteichstraße 70, 8010 Graz, Österreich"
+  },
+  "Latschaustraße 10b, 6774, Tschagguns, Austria": {
+    "lat": 47.076809,
+    "lng": 9.90001,
+    "place_name": "Latschaustraße 10b, 6774 Tschagguns, Österreich"
+  },
+  "Weiherplatz 24, 51674, Wiehl, Germany": {
+    "lat": 50.950999,
+    "lng": 7.549085,
+    "place_name": "Weiherplatz 24, 51674 Wiehl, Deutschland"
+  },
+  "Seestraße 4, 5163, Mattsee, Österreich": {
+    "lat": 47.971709,
+    "lng": 13.10587,
+    "place_name": "Seestraße 4, 5163 Mattsee, Österreich"
+  },
+  "Kirchstraße 8, 88212, Ravensburg, Deutschland": {
+    "lat": 47.782436,
+    "lng": 9.614124,
+    "place_name": "Kirchstraße 8, 88212 Ravensburg, Deutschland"
+  },
+  "Steinstraße 4, 40212, Düsseldorf, Germany": {
+    "lat": 51.223137,
+    "lng": 6.780283,
+    "place_name": "Steinstraße 4, 40212 Düsseldorf, Deutschland"
+  },
+  "Hochkönigstraße 8, 6391, Fieberbrunn, Austria": {
+    "lat": 47.468552,
+    "lng": 12.568954,
+    "place_name": "Hochkönigstraße 8, 6391 Fieberbrunn, Österreich"
+  },
+  "Altensteinstraße 15 a, 14195, Berlin, Germany": {
+    "lat": 52.456051,
+    "lng": 13.299433,
+    "place_name": "Altensteinstraße 15a, 14195 Berlin, Deutschland"
+  },
+  "Eisenstädterstraße 15, 2491, Neufeld an der Leitha, Österreich": {
+    "lat": 47.865721,
+    "lng": 16.380886,
+    "place_name": "Eisenstädter Straße 15, 2491 Neufeld an der Leitha, Österreich"
+  },
+  "Lerchenstraße 7, 86643, Bertoldsheim, Deutschland": {
+    "lat": 48.748578,
+    "lng": 11.014078,
+    "place_name": "Lerchenstraße 7, 86643 Rennertshofen, Deutschland"
+  },
+  "Rosenstraße 13-15, 33098, Paderborn, Germany": {
+    "lat": 51.715985,
+    "lng": 8.752538,
+    "place_name": "Rosenstraße 13-15, 33098 Paderborn, Deutschland"
+  },
+  "Paulitschgasse 11-2, 9020, Klagenfurt, Austria": {
+    "lat": 46.6216,
+    "lng": 14.309123,
+    "place_name": "Paulitschgasse 11, 9020 Klagenfurt am Wörthersee, Österreich"
+  },
+  "Ludgeristraße 100 (Münster Arkaden), 48143, Münster, Germany": {
+    "lat": 51.960121,
+    "lng": 7.627435,
+    "place_name": "Ludgeristraße 100, 48143 Münster, Deutschland"
+  },
+  "Behaimstraße 2, 6060, Hall in Tirol, Austria": {
+    "lat": 47.277553,
+    "lng": 11.498138,
+    "place_name": "Behaimstraße 2, 6060 Hall in Tirol, Österreich"
+  },
+  "Geibelstraße 39-41, 30173, Hannover, Germany": {
+    "lat": 52.359739,
+    "lng": 9.752912,
+    "place_name": "Geibelstraße, 30173 Hannover, Deutschland"
+  },
+  "Frans-Hals-Str. 31, 81479, München, Germany": {
+    "lat": 48.077422,
+    "lng": 11.51998,
+    "place_name": "Frans-Hals-Straße 31, 81479 München, Deutschland"
+  },
+  "Seilerwaldstr 10, 58636, Iserlohn, Germany": {
+    "lat": 51.391493,
+    "lng": 7.711057,
+    "place_name": "Seilerwaldstraße 10, 58636 Iserlohn, Deutschland"
+  },
+  "Eisenbahnstr. 6, 10997, Berlin, Deutschland": {
+    "lat": 52.502013,
+    "lng": 13.432451,
+    "place_name": "Eisenbahnstraße 6, 10997 Berlin, Deutschland"
+  },
+  "Jungviehweide 3, 89257, Illertissen, Germany": {
+    "lat": 48.240795,
+    "lng": 10.134603,
+    "place_name": "Jungviehweide 3, 89257 Illertissen, Deutschland"
+  },
+  "Keltenallee 7, 5081, Anif, Austria": {
+    "lat": 47.761016,
+    "lng": 13.056298,
+    "place_name": "Keltenallee 7, 5081 Anif, Österreich"
+  },
+  "Sportplatzstraße 13, 5500, Bischofshofen, Austria": {
+    "lat": 47.425734,
+    "lng": 13.215625,
+    "place_name": "Sportplatzstraße 13, 5500 Bischofshofen, Österreich"
+  },
+  "Baaderstraße 55, 80469, München, Germany": {
+    "lat": 48.128876,
+    "lng": 11.576731,
+    "place_name": "Baaderstraße 55, 80469 München, Deutschland"
+  },
+  "Am Hof 3–4, 1010, Wien, Austria": {
+    "lat": 48.210603,
+    "lng": 16.36743,
+    "place_name": "Am Hof 3, 1010 Wien, Österreich"
+  },
+  "Hiberniastraße 4, 45731, Waltrop, Germany": {
+    "lat": 51.618323,
+    "lng": 7.419606,
+    "place_name": "Hiberniastraße 4, 45731 Waltrop, Deutschland"
+  },
+  "Markt 10-12, 53111, Bonn, Germany": {
+    "lat": 50.735598,
+    "lng": 7.1025,
+    "place_name": "Markt 10-12, 53111 Bonn, Deutschland"
+  },
+  "Gertigstraße 12, 22303, Hamburg, Deutschland": {
+    "lat": 53.581411,
+    "lng": 10.013445,
+    "place_name": "Gertigstraße 12, 22303 Hamburg, Deutschland"
+  },
+  "108 rue Adolphe Fischer, 1521, Luxemburg, Luxemburg": {
+    "lat": 49.600711,
+    "lng": 6.12769,
+    "place_name": "108, Rue Adolphe Fischer, 1521 Luxemburg, Luxemburg"
+  },
+  "Südliche Hauptstraße 5, 83700, Rottach-Egern, Deutschland": {
+    "lat": 47.688753,
+    "lng": 11.769065,
+    "place_name": "Südliche Hauptstraße 5, 83700 Rottach-Egern, Deutschland"
+  },
+  "5, rue du cimetiere, 3350, Leudelange, Luxemburg": {
+    "lat": 49.565424,
+    "lng": 6.066905,
+    "place_name": "5, Rue Du Cimetière, 3350 Leudelingen, Luxemburg"
+  },
+  "Eschstr. 28, 32257, Bünde, Germany": {
+    "lat": 52.197512,
+    "lng": 8.583892,
+    "place_name": "Eschstraße 28, 32257 Bünde, Deutschland"
+  },
+  "Ramseiden 2, 5760, Saalfelden, Österreich": {
+    "lat": 47.426716,
+    "lng": 12.856376,
+    "place_name": "Ramseiden 2, 5760 Saalfelden am Steinernen Meer, Österreich"
+  },
+  "Kaiser-Joseph-Straße 236, 79098, Freiburg im Breisgau, Germany": {
+    "lat": 47.994393,
+    "lng": 7.849243,
+    "place_name": "Kaiser-Joseph-Straße 236, 79098 Freiburg im Breisgau, Deutschland"
+  },
+  "Pürgg 11, 8951, Stainach-Pürgg, Austria": {
+    "lat": 47.531011,
+    "lng": 14.068435,
+    "place_name": "Pürgg 11, 8951 Stainach-Pürgg, Österreich"
+  },
+  "Schmiedgasse 6, 39011 , Lana, Italy": {
+    "lat": 46.614044,
+    "lng": 11.148264,
+    "place_name": "Schmiedegasse 6, 39011 Lana Südtirol, Italien"
+  },
+  "Adlerbrückengasse 9, 39042, Brixen, Italy": {
+    "lat": 46.71682,
+    "lng": 11.658633,
+    "place_name": "Adlerbrückengasse 9, 39042 Brixen Südtirol, Italien"
+  },
+  "Fischertwiete 2 (Eingang Burchardplatz), 20095, Münster, Germany": {
+    "lat": 53.548259,
+    "lng": 10.001602,
+    "place_name": "Fischertwiete 2, 20095 Hamburg, Deutschland"
+  },
+  "Färbergasse 3, 8010, Graz, Austria": {
+    "lat": 47.071936,
+    "lng": 15.439096,
+    "place_name": "Färbergasse 3, 8010 Graz, Österreich"
+  },
+  "Heinrich-Roller-Str., 10405, Berlin, Germany": {
+    "lat": 52.530694,
+    "lng": 13.422813,
+    "place_name": "Heinrich-Roller-Straße, 10405 Berlin, Deutschland"
+  },
+  "Kärntner Str. 19, 1010, Wien, Österreich": {
+    "lat": 48.206405,
+    "lng": 16.371859,
+    "place_name": "Kärntner Straße 19, 1010 Wien, Österreich"
+  },
+  "Herrenstraße 2, 79098, Freiburg im Breisgau, Germany": {
+    "lat": 47.996548,
+    "lng": 7.854003,
+    "place_name": "Herrenstraße 2, 79098 Freiburg im Breisgau, Deutschland"
+  },
+  "Bockenheimer Anlage 49-50, 60322, Frankfurt am Main, Germany": {
+    "lat": 50.116826,
+    "lng": 8.674274,
+    "place_name": "Bockenheimer Anlage, 60322 Frankfurt am Main, Deutschland"
+  },
+  "Georgstraße 34, 30159, Hannover, Germany": {
+    "lat": 52.373365,
+    "lng": 9.739116,
+    "place_name": "Georgstraße 34, 30159 Hannover, Deutschland"
+  },
+  "Schlossplatz 12, 2361, Laxenburg, Österreich": {
+    "lat": 48.067624,
+    "lng": 16.356641,
+    "place_name": "Schlossplatz 12, 2361 Laxenburg, Österreich"
+  }
+}
