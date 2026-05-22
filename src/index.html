@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Looops Storefinder — Dev</title>
+    <link rel="stylesheet" href="/dist/storefinder.css" />
+    <style>
+      body {
+        margin: 0;
+        font-family:
+          -apple-system, BlinkMacSystemFont, Inter, sans-serif;
+        background: #fafaf8;
+      }
+      .container {
+        max-width: 1280px;
+        margin: 40px auto;
+        padding: 0 16px;
+      }
+      h1 {
+        font-size: 28px;
+        font-weight: 600;
+        letter-spacing: -0.01em;
+        margin: 0 0 8px;
+      }
+      p.lead {
+        color: #6e6760;
+        margin: 0 0 32px;
+      }
+      .badge {
+        font-size: 11px;
+        text-transform: uppercase;
+        letter-spacing: 0.08em;
+        color: #6e6760;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <span class="badge">Dev-Vorschau</span>
+      <h1>Looops in deiner Nähe</h1>
+      <p class="lead">
+        Orte, an denen du unsere Düfte entdecken kannst. Filter nach Produkten,
+        Partner-Typ oder Branche.
+      </p>
+
+      <div
+        id="storefinder"
+        data-looops-storefinder
+        data-data-url="/sample-stores.json"
+        data-mapbox-token=""
+        data-default-center="13.5,47.6"
+        data-default-zoom="5.8"
+      ></div>
+    </div>
+
+    <script>
+      // Dev only: Mapbox-Token aus localStorage laden (oder URL ?token=...).
+      // setze einmalig in der Browser-Konsole:
+      //   localStorage.setItem('lsf-dev-mapbox-token', 'pk.eyJ1...')
+      (function () {
+        var url = new URL(location.href);
+        var t = url.searchParams.get("token") || localStorage.getItem("lsf-dev-mapbox-token");
+        if (t) document.getElementById("storefinder").dataset.mapboxToken = t;
+      })();
+    </script>
+    <script src="/dist/storefinder.js" defer></script>
+  </body>
+</html>

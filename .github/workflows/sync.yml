@@ -1,0 +1,40 @@
+name: Sync Storefinder
+
+on:
+  # Täglich um 04:00 UTC (06:00 Wien)
+  schedule:
+    - cron: "0 4 * * *"
+  # Manueller Trigger
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Sync HubSpot → stores.json
+        env:
+          HUBSPOT_TOKEN: ${{ secrets.HUBSPOT_TOKEN }}
+          HUBSPOT_LIST_ID: ${{ secrets.HUBSPOT_LIST_ID }}
+          MAPBOX_TOKEN: ${{ secrets.MAPBOX_TOKEN }}
+        run: node scripts/sync.mjs
+
+      - name: Commit stores.json + geocode-cache.json
+        run: |
+          git config user.name "looops-storefinder-bot"
+          git config user.email "bot@looops.local"
+          git add stores.json geocode-cache.json || true
+          if git diff --cached --quiet; then
+            echo "Keine Änderungen — kein Commit nötig."
+          else
+            git commit -m "chore(sync): update stores.json ($(date -u +%Y-%m-%d))"
+            git push
+          fi

@@ -1,0 +1,309 @@
+/* ────────────────────────────────────────────────────────────────────────
+   Looops Storefinder — brand-konform, minimalistisch, warm-natur Palette
+   ──────────────────────────────────────────────────────────────────── */
+
+.lsf-root {
+  /* Tokens */
+  --lsf-bg: #ffffff;
+  --lsf-fg: #1a1815;
+  --lsf-fg-soft: #6e6760;
+  --lsf-fg-quiet: #a59f95;
+  --lsf-border: #e8e3dd;
+  --lsf-border-soft: #f3efe9;
+  --lsf-surface: #faf8f4;
+  --lsf-accent: #1a1815;
+  --lsf-accent-fg: #ffffff;
+  --lsf-premium: #b89668;
+
+  --lsf-radius: 2px;
+  --lsf-radius-lg: 6px;
+  --lsf-pad: 16px;
+  --lsf-pad-lg: 24px;
+
+  /* Erbt die Schrift vom Shopify-Theme. Fallback auf System-Font-Stack
+     falls die Section ausserhalb einer typografisch gesetzten Page läuft. */
+  --lsf-font: inherit;
+
+  font-family: var(--lsf-font, -apple-system, BlinkMacSystemFont, "Inter",
+    "Helvetica Neue", Arial, sans-serif);
+  color: var(--lsf-fg);
+  font-size: 15px;
+  line-height: 1.5;
+  background: var(--lsf-bg);
+  box-sizing: border-box;
+}
+.lsf-root *,
+.lsf-root *::before,
+.lsf-root *::after {
+  box-sizing: inherit;
+}
+
+/* ─── Loading / Error ──────────────────────────────────────────────────── */
+.lsf-loading,
+.lsf-error {
+  padding: 48px var(--lsf-pad);
+  text-align: center;
+  color: var(--lsf-fg-soft);
+  font-size: 14px;
+}
+.lsf-error {
+  color: #b94a4a;
+}
+
+/* ─── Filter Bar ───────────────────────────────────────────────────────── */
+.lsf-filters {
+  border-bottom: 1px solid var(--lsf-border);
+  padding: var(--lsf-pad-lg) var(--lsf-pad);
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.lsf-chip-row,
+.lsf-control-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  align-items: center;
+}
+
+.lsf-chip {
+  appearance: none;
+  background: transparent;
+  border: 1px solid var(--lsf-border);
+  color: var(--lsf-fg);
+  font-family: inherit;
+  font-size: 13px;
+  letter-spacing: 0.01em;
+  padding: 8px 14px;
+  border-radius: 999px;
+  cursor: pointer;
+  transition: background 0.15s, border-color 0.15s, color 0.15s;
+  white-space: nowrap;
+}
+.lsf-chip:hover {
+  border-color: var(--lsf-fg);
+}
+.lsf-chip.is-active {
+  background: var(--lsf-accent);
+  border-color: var(--lsf-accent);
+  color: var(--lsf-accent-fg);
+}
+.lsf-chip-accent.is-active {
+  background: var(--lsf-fg);
+  border-color: var(--lsf-fg);
+}
+
+.lsf-select,
+.lsf-search {
+  appearance: none;
+  font-family: inherit;
+  font-size: 13px;
+  border: 1px solid var(--lsf-border);
+  border-radius: var(--lsf-radius);
+  background: var(--lsf-bg);
+  color: var(--lsf-fg);
+  padding: 8px 12px;
+  height: 36px;
+  outline: none;
+}
+.lsf-select {
+  background-image: linear-gradient(45deg, transparent 50%, var(--lsf-fg-soft) 50%),
+    linear-gradient(135deg, var(--lsf-fg-soft) 50%, transparent 50%);
+  background-position: calc(100% - 16px) 50%, calc(100% - 11px) 50%;
+  background-size: 5px 5px;
+  background-repeat: no-repeat;
+  padding-right: 32px;
+  min-width: 180px;
+}
+.lsf-search {
+  min-width: 220px;
+  flex: 1;
+  max-width: 320px;
+}
+.lsf-select:focus,
+.lsf-search:focus {
+  border-color: var(--lsf-fg);
+}
+
+/* ─── Split layout ─────────────────────────────────────────────────────── */
+.lsf-split {
+  display: grid;
+  grid-template-columns: minmax(320px, 380px) 1fr;
+  height: 70vh;
+  min-height: 520px;
+}
+
+.lsf-list-wrap {
+  border-right: 1px solid var(--lsf-border);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+.lsf-list-header {
+  padding: 14px var(--lsf-pad);
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--lsf-fg-soft);
+  border-bottom: 1px solid var(--lsf-border-soft);
+  background: var(--lsf-bg);
+}
+.lsf-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  overflow-y: auto;
+  flex: 1;
+}
+.lsf-empty {
+  padding: 32px var(--lsf-pad);
+  text-align: center;
+  color: var(--lsf-fg-soft);
+  font-size: 14px;
+}
+
+.lsf-card {
+  padding: 18px var(--lsf-pad);
+  border-bottom: 1px solid var(--lsf-border-soft);
+  cursor: pointer;
+  transition: background 0.12s;
+}
+.lsf-card:hover {
+  background: var(--lsf-surface);
+}
+.lsf-card.is-active {
+  background: var(--lsf-surface);
+  box-shadow: inset 3px 0 0 var(--lsf-fg);
+}
+.lsf-card-name {
+  font-size: 15px;
+  font-weight: 600;
+  letter-spacing: 0.005em;
+  margin-bottom: 4px;
+}
+.lsf-card-addr {
+  font-size: 13px;
+  color: var(--lsf-fg-soft);
+  line-height: 1.5;
+}
+.lsf-card-tags {
+  margin-top: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+}
+.lsf-tag {
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--lsf-fg-soft);
+  border: 1px solid var(--lsf-border);
+  padding: 2px 8px;
+  border-radius: 999px;
+}
+.lsf-card-meta {
+  margin-top: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+.lsf-badge {
+  font-size: 11px;
+  letter-spacing: 0.04em;
+  padding: 2px 8px;
+  border-radius: 2px;
+  background: var(--lsf-fg);
+  color: var(--lsf-accent-fg);
+}
+.lsf-badge-quiet {
+  background: transparent;
+  color: var(--lsf-fg-soft);
+  border: 1px solid var(--lsf-border);
+}
+.lsf-card-links {
+  margin-top: 10px;
+  display: flex;
+  gap: 14px;
+  font-size: 13px;
+}
+.lsf-card-links a {
+  color: var(--lsf-fg);
+  text-decoration: none;
+  border-bottom: 1px solid var(--lsf-fg);
+  padding-bottom: 1px;
+}
+.lsf-card-links a:hover {
+  color: var(--lsf-fg-soft);
+  border-color: var(--lsf-fg-soft);
+}
+
+/* ─── Map ──────────────────────────────────────────────────────────────── */
+.lsf-map-wrap {
+  position: relative;
+  background: var(--lsf-surface);
+}
+.lsf-map {
+  width: 100%;
+  height: 100%;
+}
+
+/* Marker: minimaler Punkt mit dunklem Ring */
+.lsf-marker {
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background: var(--lsf-bg);
+  border: 2px solid var(--lsf-fg);
+  cursor: pointer;
+  transition: transform 0.15s, background 0.15s, border-color 0.15s;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.18);
+}
+.lsf-marker:hover {
+  transform: scale(1.25);
+}
+.lsf-marker.is-active {
+  background: var(--lsf-fg);
+  transform: scale(1.35);
+}
+.lsf-marker.is-premium {
+  border-color: var(--lsf-premium);
+}
+.lsf-marker.is-premium.is-active {
+  background: var(--lsf-premium);
+  border-color: var(--lsf-premium);
+}
+
+/* Mapbox-Controls dezenter machen */
+.lsf-root .mapboxgl-ctrl-group {
+  border-radius: 2px;
+  box-shadow: 0 1px 6px rgba(0, 0, 0, 0.06);
+}
+.lsf-root .mapboxgl-ctrl-attrib {
+  font-size: 10px;
+}
+
+/* ─── Mobile ───────────────────────────────────────────────────────────── */
+@media (max-width: 768px) {
+  .lsf-filters {
+    padding: var(--lsf-pad);
+  }
+  .lsf-split {
+    grid-template-columns: 1fr;
+    grid-template-rows: 50vh 50vh;
+    min-height: 0;
+    height: auto;
+  }
+  .lsf-list-wrap {
+    border-right: none;
+    border-top: 1px solid var(--lsf-border);
+    order: 2;
+  }
+  .lsf-map-wrap {
+    order: 1;
+  }
+  .lsf-search {
+    flex: 1 1 100%;
+    max-width: none;
+  }
+}

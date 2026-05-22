@@ -1,0 +1,161 @@
+{%- comment -%}
+  Looops Storefinder — TEST-Version (all-inline)
+  ----------------------------------------------------------------
+  Diese Datei ist self-contained: JS + CSS + Sample-Daten sind alle
+  inline. KEIN GitHub / CDN nötig. Perfekt zum Testen in Shopify
+  bevor wir das richtige Setup deployen.
+
+  Installation:
+  1. Online Store → Themes → Edit code
+  2. Sections → "Add a new section" → Name: "storefinder-test" → Liquid
+  3. Diese Datei reinkopieren, speichern.
+  4. Im Theme Editor auf der Ziel-Page → "Section hinzufügen" → "Storefinder Test"
+  5. In den Settings: Mapbox Token eintragen (Default ist vorausgefüllt).
+
+  Wenn alles ok aussieht: auf die normale storefinder.liquid umsteigen
+  (lädt JS/CSS via jsDelivr vom GitHub-Repo und die echten Daten).
+{%- endcomment -%}
+
+<section class="lsf-test-section" data-section-id="{{ section.id }}">
+  {%- if section.settings.heading != blank or section.settings.subheading != blank -%}
+    <header class="lsf-test-header">
+      {%- if section.settings.heading != blank -%}
+        <h2 class="lsf-test-title">{{ section.settings.heading }}</h2>
+      {%- endif -%}
+      {%- if section.settings.subheading != blank -%}
+        <p class="lsf-test-sub">{{ section.settings.subheading }}</p>
+      {%- endif -%}
+    </header>
+  {%- endif -%}
+
+  <div
+    id="lsf-test-{{ section.id }}"
+    data-mapbox-token="{{ section.settings.mapbox_token }}"
+    data-default-center="{{ section.settings.default_lng | default: 13.5 }},{{ section.settings.default_lat | default: 47.6 }}"
+    data-default-zoom="{{ section.settings.default_zoom | default: 5.5 }}"
+  ></div>
+</section>
+
+<style>
+  .lsf-test-section {
+    padding: 48px 0;
+    max-width: 1280px;
+    margin: 0 auto;
+  }
+  .lsf-test-header {
+    padding: 0 16px 24px;
+    text-align: center;
+  }
+  .lsf-test-title {
+    margin: 0 0 8px;
+    font-size: clamp(24px, 3vw, 36px);
+    font-weight: 600;
+    letter-spacing: -0.01em;
+    color: #1a1815;
+  }
+  .lsf-test-sub {
+    margin: 0 auto;
+    color: #6e6760;
+    font-size: 15px;
+    max-width: 560px;
+  }
+
+  /* ─── Storefinder Bundle CSS (minified) ─── */
+  .lsf-root{--lsf-bg: #ffffff;--lsf-fg: #1a1815;--lsf-fg-soft: #6e6760;--lsf-fg-quiet: #a59f95;--lsf-border: #e8e3dd;--lsf-border-soft: #f3efe9;--lsf-surface: #faf8f4;--lsf-accent: #1a1815;--lsf-accent-fg: #ffffff;--lsf-premium: #b89668;--lsf-radius: 2px;--lsf-radius-lg: 6px;--lsf-pad: 16px;--lsf-pad-lg: 24px;--lsf-font: inherit;font-family:var(--lsf-font, -apple-system, BlinkMacSystemFont, "Inter", "Helvetica Neue", Arial, sans-serif);color:var(--lsf-fg);font-size:15px;line-height:1.5;background:var(--lsf-bg);box-sizing:border-box}.lsf-root *,.lsf-root *:before,.lsf-root *:after{box-sizing:inherit}.lsf-loading,.lsf-error{padding:48px var(--lsf-pad);text-align:center;color:var(--lsf-fg-soft);font-size:14px}.lsf-error{color:#b94a4a}.lsf-filters{border-bottom:1px solid var(--lsf-border);padding:var(--lsf-pad-lg) var(--lsf-pad);display:flex;flex-direction:column;gap:12px}.lsf-chip-row,.lsf-control-row{display:flex;flex-wrap:wrap;gap:8px;align-items:center}.lsf-chip{appearance:none;background:transparent;border:1px solid var(--lsf-border);color:var(--lsf-fg);font-family:inherit;font-size:13px;letter-spacing:.01em;padding:8px 14px;border-radius:999px;cursor:pointer;transition:background .15s,border-color .15s,color .15s;white-space:nowrap}.lsf-chip:hover{border-color:var(--lsf-fg)}.lsf-chip.is-active{background:var(--lsf-accent);border-color:var(--lsf-accent);color:var(--lsf-accent-fg)}.lsf-chip-accent.is-active{background:var(--lsf-fg);border-color:var(--lsf-fg)}.lsf-select,.lsf-search{appearance:none;font-family:inherit;font-size:13px;border:1px solid var(--lsf-border);border-radius:var(--lsf-radius);background:var(--lsf-bg);color:var(--lsf-fg);padding:8px 12px;height:36px;outline:none}.lsf-search{min-width:220px;flex:1;max-width:320px}.lsf-search:focus{border-color:var(--lsf-fg)}.lsf-split{display:grid;grid-template-columns:minmax(320px,380px) 1fr;height:70vh;min-height:520px}.lsf-list-wrap{border-right:1px solid var(--lsf-border);display:flex;flex-direction:column;overflow:hidden}.lsf-list-header{padding:14px var(--lsf-pad);font-size:12px;text-transform:uppercase;letter-spacing:.08em;color:var(--lsf-fg-soft);border-bottom:1px solid var(--lsf-border-soft);background:var(--lsf-bg)}.lsf-list{list-style:none;margin:0;padding:0;overflow-y:auto;flex:1}.lsf-empty{padding:32px var(--lsf-pad);text-align:center;color:var(--lsf-fg-soft);font-size:14px}.lsf-card{padding:18px var(--lsf-pad);border-bottom:1px solid var(--lsf-border-soft);cursor:pointer;transition:background .12s}.lsf-card:hover{background:var(--lsf-surface)}.lsf-card.is-active{background:var(--lsf-surface);box-shadow:inset 3px 0 0 var(--lsf-fg)}.lsf-card-name{font-size:15px;font-weight:600;letter-spacing:.005em;margin-bottom:4px}.lsf-card-addr{font-size:13px;color:var(--lsf-fg-soft);line-height:1.5}.lsf-card-tags{margin-top:10px;display:flex;flex-wrap:wrap;gap:4px}.lsf-tag{font-size:11px;text-transform:uppercase;letter-spacing:.06em;color:var(--lsf-fg-soft);border:1px solid var(--lsf-border);padding:2px 8px;border-radius:999px}.lsf-card-meta{margin-top:10px;display:flex;flex-wrap:wrap;gap:6px}.lsf-badge{font-size:11px;letter-spacing:.04em;padding:2px 8px;border-radius:2px;background:var(--lsf-fg);color:var(--lsf-accent-fg)}.lsf-badge-quiet{background:transparent;color:var(--lsf-fg-soft);border:1px solid var(--lsf-border)}.lsf-card-links{margin-top:10px;display:flex;gap:14px;font-size:13px}.lsf-card-links a{color:var(--lsf-fg);text-decoration:none;border-bottom:1px solid var(--lsf-fg);padding-bottom:1px}.lsf-card-links a:hover{color:var(--lsf-fg-soft);border-color:var(--lsf-fg-soft)}.lsf-map-wrap{position:relative;background:var(--lsf-surface)}.lsf-map{width:100%;height:100%}.lsf-marker{width:14px;height:14px;border-radius:50%;background:var(--lsf-bg);border:2px solid var(--lsf-fg);cursor:pointer;transition:transform .15s,background .15s,border-color .15s;box-shadow:0 1px 4px #0000002e}.lsf-marker:hover{transform:scale(1.25)}.lsf-marker.is-active{background:var(--lsf-fg);transform:scale(1.35)}.lsf-marker.is-premium{border-color:var(--lsf-premium)}.lsf-marker.is-premium.is-active{background:var(--lsf-premium);border-color:var(--lsf-premium)}.lsf-root .mapboxgl-ctrl-group{border-radius:2px;box-shadow:0 1px 6px #0000000f}.lsf-root .mapboxgl-ctrl-attrib{font-size:10px}@media(max-width:768px){.lsf-filters{padding:var(--lsf-pad)}.lsf-split{grid-template-columns:1fr;grid-template-rows:50vh 50vh;min-height:0;height:auto}.lsf-list-wrap{border-right:none;border-top:1px solid var(--lsf-border);order:2}.lsf-map-wrap{order:1}.lsf-search{flex:1 1 100%;max-width:none}}
+</style>
+
+{%- comment -%}
+  Sample-Daten als JSON-Block (wird vom JS unten gelesen).
+  Später ersetzt durch fetch() der echten stores.json via jsDelivr.
+{%- endcomment -%}
+<script type="application/json" id="lsf-test-data-{{ section.id }}">
+{"generated_at":"2026-05-22T00:00:00Z","count":6,"stores":[
+  {"id":"1","name":"Looops Manufakturshop","address":{"street":"Staufenstraße 1","zip":"5161","city":"Elixhausen","country":"Österreich"},"branche":"Cosmetics / Perfumery Store","premium_partner":true,"looops_store":true,"tags":["Duftkerzen","Duftspray","Aroma Diffuser","Ätherische Öle"],"phone":"+43 662 12345","website":"https://looopsmoments.com","lat":47.8804,"lng":13.0815},
+  {"id":"2","name":"SAMIA Kosmetik","address":{"street":"Innsbrucker Str. 23","zip":"6020","city":"Innsbruck","country":"Österreich"},"branche":"Wellbeing","premium_partner":false,"looops_store":false,"tags":["Duftkerzen","Ätherische Öle"],"phone":"+43 512 555 123","website":"https://samia-kosmetik.at","lat":47.2692,"lng":11.4041},
+  {"id":"3","name":"Aufschnaiter Interior","address":{"street":"Marienplatz 4","zip":"80331","city":"München","country":"Deutschland"},"branche":"Interior","premium_partner":true,"looops_store":false,"tags":["Duftkerzen","Duftstäbchen","Aroma Diffuser"],"phone":"+49 89 1234567","website":"https://aufschnaiter.com","lat":48.1374,"lng":11.5755},
+  {"id":"4","name":"Concept Store Wien","address":{"street":"Mariahilfer Str. 100","zip":"1070","city":"Wien","country":"Österreich"},"branche":"Concept Store","premium_partner":false,"looops_store":false,"tags":["Duftspray","Duftstäbchen"],"phone":null,"website":null,"lat":48.2,"lng":16.351},
+  {"id":"5","name":"Apotheke am Markt","address":{"street":"Marktgasse 7","zip":"9020","city":"Klagenfurt","country":"Österreich"},"branche":"Pharmacy / Drugstore","premium_partner":false,"looops_store":false,"tags":["Ätherische Öle"],"phone":"+43 463 555 0","website":null,"lat":46.6249,"lng":14.3052},
+  {"id":"6","name":"Hotel Forsthofgut","address":{"street":"Hütten 2","zip":"5771","city":"Leogang","country":"Österreich"},"branche":"Accomodation","premium_partner":true,"looops_store":false,"tags":["Duftkerzen","Aroma Diffuser","Ätherische Öle"],"phone":"+43 6583 8561","website":"https://www.forsthofgut.at","lat":47.4297,"lng":12.7574}
+]}
+</script>
+
+<script>
+/* Looops Storefinder Bundle (inline, minified) */
+"use strict";var LooopsStorefinder=(()=>{var h=Object.defineProperty;var y=Object.getOwnPropertyDescriptor;var x=Object.getOwnPropertyNames;var P=Object.prototype.hasOwnProperty;var T=(s,e)=>{for(var o in e)h(s,o,{get:e[o],enumerable:!0})},A=(s,e,o,n)=>{if(e&&typeof e=="object"||typeof e=="function")for(let a of x(e))!P.call(s,a)&&a!==o&&h(s,a,{get:()=>e[a],enumerable:!(n=y(e,a))||n.enumerable});return s};var M=s=>A(h({},"__esModule",{value:!0}),s);var Z={};T(Z,{init:()=>L});var E=["Duftkerzen","Duftspray","Duftst\xE4bchen","Aroma Diffuser","\xC4therische \xD6le"],z="https://api.mapbox.com/mapbox-gl-js/v3.6.0/mapbox-gl.css",B="https://api.mapbox.com/mapbox-gl-js/v3.6.0/mapbox-gl.js";function H(s){return new Promise((e,o)=>{if(document.querySelector(`link[href="${s}"]`))return e();let n=document.createElement("link");n.rel="stylesheet",n.href=s,n.onload=e,n.onerror=o,document.head.appendChild(n)})}function I(s){return new Promise((e,o)=>{if(window.mapboxgl)return e();let n=document.createElement("script");n.src=s,n.onload=e,n.onerror=o,document.head.appendChild(n)})}var r=(s,e={},o=[])=>{let n=document.createElement(s);for(let[a,t]of Object.entries(e))a==="class"?n.className=t:a==="html"?n.innerHTML=t:a.startsWith("on")?n.addEventListener(a.slice(2),t):t!==!1&&t!=null&&n.setAttribute(a,t===!0?"":t);for(let a of[].concat(o))a==null||a===!1||n.appendChild(typeof a=="string"?document.createTextNode(a):a);return n},_=s=>String(s??"").replace(/[&<>"']/g,e=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"})[e]),N="Accomodation";function O(){return{stores:[],filters:{tags:new Set,premiumPartner:!1,looopsStore:!1,accomodation:!1,search:""},activeId:null,map:null,markers:new Map}}function j(s){let e=s.filters,o=e.search.trim().toLowerCase(),n=[];return e.premiumPartner&&n.push(a=>a.premium_partner),e.looopsStore&&n.push(a=>a.looops_store),e.accomodation&&n.push(a=>a.branche===N),s.stores.filter(a=>!(e.tags.size>0&&!Array.from(e.tags).every(t=>a.tags.includes(t))||n.length>0&&!n.some(t=>t(a))||o&&![a.name,a.address.city,a.address.zip,a.address.street].join(" ").toLowerCase().includes(o)))}function U(s,e,o){s.classList.add("lsf-root"),s.innerHTML="";let n=r("div",{class:"lsf-filters"}),a=r("div",{class:"lsf-chip-row"});for(let d of E){let u=r("button",{class:"lsf-chip",type:"button","aria-pressed":"false",onclick:()=>{e.filters.tags.has(d)?e.filters.tags.delete(d):e.filters.tags.add(d),u.setAttribute("aria-pressed",e.filters.tags.has(d)?"true":"false"),u.classList.toggle("is-active",e.filters.tags.has(d)),o()}},d);a.appendChild(u)}n.appendChild(a);let t=r("div",{class:"lsf-control-row"}),c=r("button",{class:"lsf-chip lsf-chip-accent",type:"button",onclick:()=>{e.filters.premiumPartner=!e.filters.premiumPartner,c.classList.toggle("is-active",e.filters.premiumPartner),o()}},"Premium Partner");t.appendChild(c);let i=r("button",{class:"lsf-chip lsf-chip-accent",type:"button",onclick:()=>{e.filters.looopsStore=!e.filters.looopsStore,i.classList.toggle("is-active",e.filters.looopsStore),o()}},"Looops Store");t.appendChild(i);let p=r("button",{class:"lsf-chip lsf-chip-accent",type:"button",onclick:()=>{e.filters.accomodation=!e.filters.accomodation,p.classList.toggle("is-active",e.filters.accomodation),o()}},"Hotels");t.appendChild(p);let l=r("input",{class:"lsf-search",type:"search",placeholder:"PLZ, Ort oder Name …",oninput:d=>{e.filters.search=d.target.value,o()}});t.appendChild(l),n.appendChild(t),s.appendChild(n);let f=r("div",{class:"lsf-split"}),m=r("div",{class:"lsf-list-wrap"}),g=r("div",{class:"lsf-list-header"}),w=r("ul",{class:"lsf-list"});m.appendChild(g),m.appendChild(w);let b=r("div",{class:"lsf-map-wrap"}),v=r("div",{class:"lsf-map"});return b.appendChild(v),f.appendChild(m),f.appendChild(b),s.appendChild(f),{listHeader:g,list:w,mapEl:v}}function C(s,e,o,n,a){if(s.textContent=o.length===1?"1 Store":`${o.length} Stores`,e.innerHTML="",o.length===0){e.appendChild(r("li",{class:"lsf-empty"},"Keine Stores f\xFCr die aktuelle Auswahl. Filter zur\xFCcksetzen."));return}for(let t of o){let c=r("li",{class:"lsf-card"+(n.activeId===t.id?" is-active":""),onclick:()=>a(t)},[r("div",{class:"lsf-card-name"},t.name||"Unbenannt"),t.address.street||t.address.city?r("div",{class:"lsf-card-addr"},[t.address.street?r("span",{},t.address.street):null,t.address.street&&(t.address.zip||t.address.city)?r("br"):null,[t.address.zip,t.address.city].filter(Boolean).join(" "),t.address.country?`, ${t.address.country}`:""].filter(Boolean)):null,t.tags.length?r("div",{class:"lsf-card-tags"},t.tags.map(i=>r("span",{class:"lsf-tag"},i))):null,r("div",{class:"lsf-card-meta"},[t.premium_partner?r("span",{class:"lsf-badge"},"Premium Partner"):null,t.looops_store?r("span",{class:"lsf-badge"},"Looops Store"):null,t.branche?r("span",{class:"lsf-badge lsf-badge-quiet"},t.branche):null].filter(Boolean)),t.website||t.phone?r("div",{class:"lsf-card-links"},[t.website?r("a",{href:/^https?:/.test(t.website)?t.website:`https://${t.website}`,target:"_blank",rel:"noopener",onclick:i=>i.stopPropagation()},"Website"):null,t.phone?r("a",{href:`tel:${t.phone}`,onclick:i=>i.stopPropagation()},t.phone):null].filter(Boolean)):null]);e.appendChild(c)}}async function $(s,e,o,n){await Promise.all([H(z),I(B)]),window.mapboxgl.accessToken=o.mapboxToken,e.map=new window.mapboxgl.Map({container:s,style:o.mapStyle||"mapbox://styles/mapbox/light-v11",center:o.defaultCenter||[13.5,47.6],zoom:o.defaultZoom||5.8,attributionControl:!1}),e.map.addControl(new window.mapboxgl.NavigationControl({showCompass:!1}),"top-right"),e.map.addControl(new window.mapboxgl.AttributionControl({compact:!0})),await new Promise(a=>e.map.once("load",a))}function k(s,e,o){let n=new Set(e.map(a=>a.id));for(let[a,t]of s.markers)n.has(a)||(t.remove(),s.markers.delete(a));for(let a of e){if(s.markers.has(a.id)){s.markers.get(a.id).getElement().classList.toggle("is-active",s.activeId===a.id);continue}let t=document.createElement("div");t.className="lsf-marker"+(s.activeId===a.id?" is-active":""),a.premium_partner&&t.classList.add("is-premium"),t.addEventListener("click",i=>{i.stopPropagation(),o(a)});let c=new window.mapboxgl.Marker(t).setLngLat([a.lng,a.lat]).addTo(s.map);s.markers.set(a.id,c)}}function D(s,e){if(!e.length||!s.map)return;if(e.length===1){s.map.flyTo({center:[e[0].lng,e[0].lat],zoom:13});return}let o=new window.mapboxgl.LngLatBounds;for(let n of e)o.extend([n.lng,n.lat]);s.map.fitBounds(o,{padding:60,maxZoom:12,duration:400})}async function L(s,e={}){if(!s)throw new Error("Looops Storefinder: container missing");if(!e.mapboxToken)throw new Error("Looops Storefinder: mapboxToken missing");let o=O();s.classList.add("lsf-root"),s.innerHTML='<div class="lsf-loading">Lade Stores …</div>';let n=e.data;if(!n&&e.dataUrl){try{let l=await fetch(e.dataUrl,{cache:"no-cache"});if(!l.ok)throw new Error(`HTTP ${l.status}`);n=await l.json()}catch(l){s.innerHTML=`<div class="lsf-error">Stores konnten nicht geladen werden. (${_(l.message)})</div>`;return}}o.stores=(n.stores||[]).filter(l=>l.lat&&l.lng);let a=()=>{let l=j(o);C(c,i,l,o,t),k(o,l,t)},t=l=>{o.activeId=l.id,o.map?.flyTo({center:[l.lng,l.lat],zoom:13,duration:600}),a()},{listHeader:c,list:i,mapEl:p}=U(s,o,a);await $(p,o,e,t),k(o,o.stores,t),D(o,o.stores),C(c,i,o.stores,o,t)}function S(){for(let s of document.querySelectorAll("[data-looops-storefinder]"))s.dataset.lsfInitialised||(s.dataset.lsfInitialised="1",L(s,{dataUrl:s.dataset.dataUrl,mapboxToken:s.dataset.mapboxToken,defaultCenter:s.dataset.defaultCenter?s.dataset.defaultCenter.split(",").map(Number):void 0,defaultZoom:s.dataset.defaultZoom?Number(s.dataset.defaultZoom):void 0,mapStyle:s.dataset.mapStyle||void 0}).catch(e=>console.error("Looops Storefinder:",e)))}document.readyState!=="loading"?S():document.addEventListener("DOMContentLoaded",S);return M(Z);})();
+
+/* Test-Init: nimmt die inline-JSON-Daten und mountet den Storefinder */
+(function(){
+  var sectionId = {{ section.id | json }};
+  var container = document.getElementById('lsf-test-' + sectionId);
+  if (!container) return;
+  var dataEl = document.getElementById('lsf-test-data-' + sectionId);
+  var data = dataEl ? JSON.parse(dataEl.textContent) : { stores: [] };
+  var token = container.dataset.mapboxToken;
+  var center = (container.dataset.defaultCenter || '13.5,47.6').split(',').map(Number);
+  var zoom = Number(container.dataset.defaultZoom || 5.5);
+  LooopsStorefinder.init(container, { data: data, mapboxToken: token, defaultCenter: center, defaultZoom: zoom });
+})();
+</script>
+
+{% schema %}
+{
+  "name": "Storefinder Test",
+  "tag": "section",
+  "class": "section-storefinder-test",
+  "settings": [
+    {
+      "type": "header",
+      "content": "Inhalt"
+    },
+    {
+      "type": "text",
+      "id": "heading",
+      "label": "Überschrift",
+      "default": "Looops in deiner Nähe"
+    },
+    {
+      "type": "text",
+      "id": "subheading",
+      "label": "Unterzeile",
+      "default": "TEST-VERSION mit 6 Beispiel-Stores. Filter funktionieren, Daten sind Dummy."
+    },
+    {
+      "type": "header",
+      "content": "Mapbox"
+    },
+    {
+      "type": "text",
+      "id": "mapbox_token",
+      "label": "Mapbox Public Token",
+      "info": "pk.* Token aus mapbox.com — wird im Client-Code eingebettet, gehört dort hin."
+    },
+    {
+      "type": "number",
+      "id": "default_lat",
+      "label": "Karten-Mittelpunkt — Latitude",
+      "default": 47.6
+    },
+    {
+      "type": "number",
+      "id": "default_lng",
+      "label": "Karten-Mittelpunkt — Longitude",
+      "default": 13.5
+    },
+    {
+      "type": "range",
+      "id": "default_zoom",
+      "label": "Default Zoom",
+      "min": 3,
+      "max": 14,
+      "step": 0.5,
+      "default": 5.5
+    }
+  ],
+  "presets": [
+    {
+      "name": "Storefinder Test",
+      "category": "Custom"
+    }
+  ]
+}
+{% endschema %}
