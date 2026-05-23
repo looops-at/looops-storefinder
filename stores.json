@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T17:18:36.007Z",
+  "generated_at": "2026-05-23T06:36:19.815Z",
   "count": 281,
   "stores": [
     {
@@ -345,24 +345,6 @@
       "lng": 10.986068
     },
     {
-      "id": "13405640161",
-      "name": "Das Glasdorf",
-      "address": {
-        "street": "Zellertalstraße 13",
-        "city": "Arnbruck",
-        "zip": "93471",
-        "country": "Deutschland"
-      },
-      "branche": "Fachgeschäft & Genussartikel",
-      "premium_partner": false,
-      "looops_store": false,
-      "tags": [],
-      "phone": null,
-      "website": "http://weinfurtner.de",
-      "lat": 49.129923,
-      "lng": 12.9948
-    },
-    {
       "id": "13405934285",
       "name": "Belladonna Naturkosmetik",
       "address": {
@@ -577,6 +559,24 @@
       "website": "https://www.karusa.de/",
       "lat": 48.120761,
       "lng": 11.571875
+    },
+    {
+      "id": "13405640161",
+      "name": "Das Glasdorf",
+      "address": {
+        "street": "Zellertalstraße 13",
+        "city": "Arnbruck",
+        "zip": "93471",
+        "country": "Deutschland"
+      },
+      "branche": "Fachgeschäft & Genussartikel",
+      "premium_partner": false,
+      "looops_store": false,
+      "tags": [],
+      "phone": null,
+      "website": "http://weinfurtner.de",
+      "lat": 49.129923,
+      "lng": 12.9948
     },
     {
       "id": "13405874387",
@@ -2145,24 +2145,6 @@
       "lng": 12.384279
     },
     {
-      "id": "53565037788",
-      "name": "Kollwitz-Apotheke",
-      "address": {
-        "street": "Kollwitzstr. 66",
-        "city": "Berlin",
-        "zip": "10435",
-        "country": "Deutschland"
-      },
-      "branche": "Pharmacy / Drugstore",
-      "premium_partner": false,
-      "looops_store": false,
-      "tags": [],
-      "phone": null,
-      "website": "https://www.kollwitz-apotheke.de/",
-      "lat": 52.536093,
-      "lng": 13.418166
-    },
-    {
       "id": "53540049085",
       "name": "Mangolds",
       "address": {
@@ -2593,6 +2575,24 @@
       "website": "https://www.hingucker.at/",
       "lat": 47.15562,
       "lng": 9.820382
+    },
+    {
+      "id": "53565037788",
+      "name": "Kollwitz-Apotheke",
+      "address": {
+        "street": "Kollwitzstr. 66",
+        "city": "Berlin",
+        "zip": "10435",
+        "country": "Deutschland"
+      },
+      "branche": "Pharmacy / Drugstore",
+      "premium_partner": false,
+      "looops_store": false,
+      "tags": [],
+      "phone": null,
+      "website": "https://www.kollwitz-apotheke.de/",
+      "lat": 52.536093,
+      "lng": 13.418166
     },
     {
       "id": "13406469104",
