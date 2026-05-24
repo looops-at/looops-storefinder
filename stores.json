@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T06:36:19.815Z",
+  "generated_at": "2026-05-24T07:23:48.063Z",
   "count": 281,
   "stores": [
     {
@@ -1893,24 +1893,6 @@
       "lng": 10.898245
     },
     {
-      "id": "13406460378",
-      "name": "Saint Charles Cosmothecary",
-      "address": {
-        "street": "Gumpendorfer Str. 33",
-        "city": "Wien",
-        "zip": "1060",
-        "country": "Österreich"
-      },
-      "branche": "Cosmetics / Perfumery Store",
-      "premium_partner": false,
-      "looops_store": false,
-      "tags": [],
-      "phone": null,
-      "website": "https://saint-charles.eu/",
-      "lat": 48.19886,
-      "lng": 16.358466
-    },
-    {
       "id": "13406469309",
       "name": "Kosmetik Beauty Balance by Inka Garner",
       "address": {
@@ -2955,6 +2937,24 @@
       "lng": 7.404902
     },
     {
+      "id": "13406460378",
+      "name": "Saint Charles Cosmothecary",
+      "address": {
+        "street": "Gumpendorfer Str. 33",
+        "city": "Wien",
+        "zip": "1060",
+        "country": "Österreich"
+      },
+      "branche": "Cosmetics / Perfumery Store",
+      "premium_partner": false,
+      "looops_store": false,
+      "tags": [],
+      "phone": null,
+      "website": "https://saint-charles.eu/",
+      "lat": 48.19886,
+      "lng": 16.358466
+    },
+    {
       "id": "77897829595",
       "name": "Thalers Mariandl",
       "address": {
@@ -3675,6 +3675,24 @@
       "lng": 11.414396
     },
     {
+      "id": "145792906481",
+      "name": "Lederleitner im Börsegebäude",
+      "address": {
+        "street": "Schottenring 16",
+        "city": "Wien",
+        "zip": "1010",
+        "country": "Österreich"
+      },
+      "branche": "Fachgeschäft & Genussartikel",
+      "premium_partner": false,
+      "looops_store": false,
+      "tags": [],
+      "phone": "+431532067713",
+      "website": "https://www.lederleitner.at/",
+      "lat": 48.215404,
+      "lng": 16.366348
+    },
+    {
       "id": "116472919271",
       "name": "Martina Pfatschbacher \"LA VANDIN\"",
       "address": {
@@ -4051,24 +4069,6 @@
       "website": "https://kolekto.shop/",
       "lat": 47.664658,
       "lng": 9.176253
-    },
-    {
-      "id": "145792906481",
-      "name": "Lederleitner im Börsegebäude",
-      "address": {
-        "street": "Schottenring 16",
-        "city": "Wien",
-        "zip": "1010",
-        "country": "Österreich"
-      },
-      "branche": "Fachgeschäft & Genussartikel",
-      "premium_partner": false,
-      "looops_store": false,
-      "tags": [],
-      "phone": "+431532067713",
-      "website": "https://www.lederleitner.at/",
-      "lat": 48.215404,
-      "lng": 16.366348
     },
     {
       "id": "118459352308",
