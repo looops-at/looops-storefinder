@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-24T07:23:48.063Z",
-  "count": 281,
+  "generated_at": "2026-05-25T08:24:02.176Z",
+  "count": 280,
   "stores": [
     {
       "id": "13405860547",
@@ -73,24 +73,6 @@
       "website": "https://www.hotel-forster.at/",
       "lat": 47.121162,
       "lng": 11.325898
-    },
-    {
-      "id": "13405874389",
-      "name": "Resort - Concept Store Innsbruck",
-      "address": {
-        "street": "Erlerstraße 10",
-        "city": "Innsbruck",
-        "zip": "6020",
-        "country": "Österreich"
-      },
-      "branche": "Concept Store",
-      "premium_partner": false,
-      "looops_store": false,
-      "tags": [],
-      "phone": null,
-      "website": "https://shop.resort-innsbruck.com/",
-      "lat": 47.26585,
-      "lng": 11.395736
     },
     {
       "id": "13406063348",
@@ -471,6 +453,24 @@
       "lng": 9.928638
     },
     {
+      "id": "13405447613",
+      "name": "Pollozek mode & lifestyle",
+      "address": {
+        "street": "Arnstorfer Str. 34",
+        "city": "Pfarrkirchen",
+        "zip": "84347",
+        "country": "Deutschland"
+      },
+      "branche": "Premium-Lifestyle Retail",
+      "premium_partner": false,
+      "looops_store": false,
+      "tags": [],
+      "phone": null,
+      "website": "https://www.pollozek.de/",
+      "lat": 48.439789,
+      "lng": 12.935955
+    },
+    {
       "id": "13405640174",
       "name": "liebevoll schenken, gestalten & wohnen",
       "address": {
@@ -561,6 +561,24 @@
       "lng": 11.571875
     },
     {
+      "id": "13406455506",
+      "name": "Doblinger KG",
+      "address": {
+        "street": "Altstadt 252",
+        "city": "Landshut",
+        "zip": "84028",
+        "country": "Deutschland"
+      },
+      "branche": "Fachgeschäft & Genussartikel",
+      "premium_partner": false,
+      "looops_store": false,
+      "tags": [],
+      "phone": null,
+      "website": "https://www.doblinger-home.de",
+      "lat": 48.534528,
+      "lng": 12.150967
+    },
+    {
       "id": "13405640161",
       "name": "Das Glasdorf",
       "address": {
@@ -633,6 +651,24 @@
       "lng": 16.001851
     },
     {
+      "id": "13405874389",
+      "name": "Resort - Concept Store Innsbruck",
+      "address": {
+        "street": "Erlerstraße 10",
+        "city": "Innsbruck",
+        "zip": "6020",
+        "country": "Österreich"
+      },
+      "branche": "Concept Store",
+      "premium_partner": false,
+      "looops_store": false,
+      "tags": [],
+      "phone": null,
+      "website": "https://shop.resort-innsbruck.com/",
+      "lat": 47.26585,
+      "lng": 11.395736
+    },
+    {
       "id": "13406455507",
       "name": "Nesslerhof - the natural happiness hotel",
       "address": {
@@ -649,6 +685,24 @@
       "website": "https://www.nesslerhof.at/?utm_source=gmb&utm_medium=organic",
       "lat": 47.245209,
       "lng": 13.196171
+    },
+    {
+      "id": "13405874398",
+      "name": "Kaufhaus Möllinger",
+      "address": {
+        "street": "Hauptstraße 17",
+        "city": "Kirchberg in Tirol",
+        "zip": "6365",
+        "country": "Österreich"
+      },
+      "branche": "Concept Store",
+      "premium_partner": false,
+      "looops_store": false,
+      "tags": [],
+      "phone": "+4369911003446",
+      "website": "https://www.kaufhausmoellinger.at/",
+      "lat": 47.448228,
+      "lng": 12.313518
     },
     {
       "id": "13405447618",
@@ -921,24 +975,6 @@
       "lng": 11.826199
     },
     {
-      "id": "13405640164",
-      "name": "Feinsinn",
-      "address": {
-        "street": "Heiligengeiststraße 35",
-        "city": "Lüneburg",
-        "zip": "21335",
-        "country": "Deutschland"
-      },
-      "branche": "Concept Store",
-      "premium_partner": false,
-      "looops_store": false,
-      "tags": [],
-      "phone": "+49 4131 7099 444",
-      "website": "https://www.feinsinn-lueneburg.de",
-      "lat": 53.246666,
-      "lng": 10.406648
-    },
-    {
       "id": "13405321436",
       "name": "Organic Luxury",
       "address": {
@@ -955,24 +991,6 @@
       "website": "https://www.organicluxury.de/",
       "lat": 48.14088,
       "lng": 11.577327
-    },
-    {
-      "id": "13406057465",
-      "name": "Hotel Schwaigerhof - SPA",
-      "address": {
-        "street": "Schwaigerweg 19",
-        "city": "Schladming",
-        "zip": "8971",
-        "country": "Österreich"
-      },
-      "branche": "Accomodation",
-      "premium_partner": false,
-      "looops_store": false,
-      "tags": [],
-      "phone": null,
-      "website": "http://schwaigerhof.at",
-      "lat": 47.380857,
-      "lng": 13.660481
     },
     {
       "id": "13405321418",
@@ -1083,6 +1101,24 @@
       "lng": 6.969151
     },
     {
+      "id": "13406455509",
+      "name": "Maison Clomes x Pura Clothing",
+      "address": {
+        "street": "Bertastrasse 5",
+        "city": "Zürich",
+        "zip": "8003",
+        "country": "Schweiz"
+      },
+      "branche": "Concept Store",
+      "premium_partner": false,
+      "looops_store": false,
+      "tags": [],
+      "phone": "+41 31 508 55 09",
+      "website": "https://clomes.ch/",
+      "lat": 47.375205,
+      "lng": 8.516148
+    },
+    {
       "id": "13406063350",
       "name": "DEKOTHEK",
       "address": {
@@ -1155,22 +1191,22 @@
       "lng": 11.879687
     },
     {
-      "id": "13405874398",
-      "name": "Kaufhaus Möllinger",
+      "id": "13405640164",
+      "name": "Feinsinn",
       "address": {
-        "street": "Hauptstraße 17",
-        "city": "Kirchberg in Tirol",
-        "zip": "6365",
-        "country": "Österreich"
+        "street": "Heiligengeiststraße 35",
+        "city": "Lüneburg",
+        "zip": "21335",
+        "country": "Deutschland"
       },
       "branche": "Concept Store",
       "premium_partner": false,
       "looops_store": false,
       "tags": [],
-      "phone": "+4369911003446",
-      "website": "https://www.kaufhausmoellinger.at/",
-      "lat": 47.448228,
-      "lng": 12.313518
+      "phone": "+49 4131 7099 444",
+      "website": "https://www.feinsinn-lueneburg.de",
+      "lat": 53.246666,
+      "lng": 10.406648
     },
     {
       "id": "13405188831",
@@ -1315,24 +1351,6 @@
       "website": "apothekeleonhard.at",
       "lat": 46.963513,
       "lng": 14.790655
-    },
-    {
-      "id": "13406455506",
-      "name": "Doblinger KG",
-      "address": {
-        "street": "Altstadt 252",
-        "city": "Landshut",
-        "zip": "84028",
-        "country": "Deutschland"
-      },
-      "branche": "Fachgeschäft & Genussartikel",
-      "premium_partner": false,
-      "looops_store": false,
-      "tags": [],
-      "phone": null,
-      "website": "https://www.doblinger-home.de",
-      "lat": 48.534528,
-      "lng": 12.150967
     },
     {
       "id": "13405874390",
@@ -1785,24 +1803,6 @@
       "lng": 11.70754
     },
     {
-      "id": "13405447613",
-      "name": "Pollozek mode & lifestyle",
-      "address": {
-        "street": "Arnstorfer Str. 34",
-        "city": "Pfarrkirchen",
-        "zip": "84347",
-        "country": "Deutschland"
-      },
-      "branche": "Premium-Lifestyle Retail",
-      "premium_partner": false,
-      "looops_store": false,
-      "tags": [],
-      "phone": null,
-      "website": "https://www.pollozek.de/",
-      "lat": 48.439789,
-      "lng": 12.935955
-    },
-    {
       "id": "105196315841",
       "name": "Proneben Gut",
       "address": {
@@ -1893,6 +1893,24 @@
       "lng": 10.898245
     },
     {
+      "id": "90841514220",
+      "name": "Lederleitner Tuchlauben Concept Store",
+      "address": {
+        "street": "Tuchlauben 7A",
+        "city": "Wien",
+        "zip": "1010",
+        "country": "Österreich"
+      },
+      "branche": "Interior",
+      "premium_partner": false,
+      "looops_store": false,
+      "tags": [],
+      "phone": "+43 1 5320677",
+      "website": "https://www.lederleitner.at/",
+      "lat": 48.210156,
+      "lng": 16.369751
+    },
+    {
       "id": "13406469309",
       "name": "Kosmetik Beauty Balance by Inka Garner",
       "address": {
@@ -1965,22 +1983,22 @@
       "lng": 15.817678
     },
     {
-      "id": "90841514220",
-      "name": "Lederleitner Tuchlauben Concept Store",
+      "id": "114250274015",
+      "name": "florinaconcept",
       "address": {
-        "street": "Tuchlauben 7A",
-        "city": "Wien",
-        "zip": "1010",
-        "country": "Österreich"
+        "street": "Amtsgerichtsstraße 16",
+        "city": "Kronach",
+        "zip": "96317",
+        "country": "Deutschland"
       },
-      "branche": "Interior",
+      "branche": "Concept Store",
       "premium_partner": false,
       "looops_store": false,
       "tags": [],
-      "phone": "+43 1 5320677",
-      "website": "https://www.lederleitner.at/",
-      "lat": 48.210156,
-      "lng": 16.369751
+      "phone": "+49 160 8023242",
+      "website": "https://www.florinaconcept.de/",
+      "lat": 50.241591,
+      "lng": 11.324523
     },
     {
       "id": "53538248927",
@@ -1999,24 +2017,6 @@
       "website": "https://www.gitschberg.it/",
       "lat": 46.822984,
       "lng": 11.667103
-    },
-    {
-      "id": "76298751225",
-      "name": "Mitbringsel & Cafe",
-      "address": {
-        "street": "Unterer Stadtpl. 31",
-        "city": "Kufstein",
-        "zip": "6330",
-        "country": "Österreich"
-      },
-      "branche": "Gastro",
-      "premium_partner": false,
-      "looops_store": false,
-      "tags": [],
-      "phone": "+43(664)847-5447",
-      "website": "https://mitbringsel-cafe.at/",
-      "lat": 47.583084,
-      "lng": 12.170142
     },
     {
       "id": "70900059384",
@@ -2179,6 +2179,24 @@
       "website": "sonnberghof.at",
       "lat": 47.285803,
       "lng": 12.424915
+    },
+    {
+      "id": "76298751225",
+      "name": "Mitbringsel & Cafe",
+      "address": {
+        "street": "Unterer Stadtpl. 31",
+        "city": "Kufstein",
+        "zip": "6330",
+        "country": "Österreich"
+      },
+      "branche": "Gastro",
+      "premium_partner": false,
+      "looops_store": false,
+      "tags": [],
+      "phone": "+43(664)847-5447",
+      "website": "https://mitbringsel-cafe.at/",
+      "lat": 47.583084,
+      "lng": 12.170142
     },
     {
       "id": "90841514218",
@@ -2901,24 +2919,6 @@
       "lng": 8.389173
     },
     {
-      "id": "13406455509",
-      "name": "Maison Clomes x Pura Clothing",
-      "address": {
-        "street": "Bertastrasse 5",
-        "city": "Zürich",
-        "zip": "8003",
-        "country": "Schweiz"
-      },
-      "branche": "Concept Store",
-      "premium_partner": false,
-      "looops_store": false,
-      "tags": [],
-      "phone": "+41 31 508 55 09",
-      "website": "https://clomes.ch/",
-      "lat": 47.375205,
-      "lng": 8.516148
-    },
-    {
       "id": "13406455523",
       "name": "levanta duftendes & schönes",
       "address": {
@@ -2935,24 +2935,6 @@
       "website": "levanta-duftoase.de",
       "lat": 50.905506,
       "lng": 7.404902
-    },
-    {
-      "id": "13406460378",
-      "name": "Saint Charles Cosmothecary",
-      "address": {
-        "street": "Gumpendorfer Str. 33",
-        "city": "Wien",
-        "zip": "1060",
-        "country": "Österreich"
-      },
-      "branche": "Cosmetics / Perfumery Store",
-      "premium_partner": false,
-      "looops_store": false,
-      "tags": [],
-      "phone": null,
-      "website": "https://saint-charles.eu/",
-      "lat": 48.19886,
-      "lng": 16.358466
     },
     {
       "id": "77897829595",
@@ -3531,6 +3513,24 @@
       "lng": 16.148056
     },
     {
+      "id": "13406460378",
+      "name": "Saint Charles Cosmothecary",
+      "address": {
+        "street": "Gumpendorfer Str. 33",
+        "city": "Wien",
+        "zip": "1060",
+        "country": "Österreich"
+      },
+      "branche": "Cosmetics / Perfumery Store",
+      "premium_partner": false,
+      "looops_store": false,
+      "tags": [],
+      "phone": null,
+      "website": "https://saint-charles.eu/",
+      "lat": 48.19886,
+      "lng": 16.358466
+    },
+    {
       "id": "55773000944",
       "name": "The Rootine Wellness Club",
       "address": {
@@ -3639,6 +3639,24 @@
       "lng": 13.322555
     },
     {
+      "id": "255765839077",
+      "name": "Lederleitner Salzburg",
+      "address": {
+        "street": "Keltenallee 7",
+        "city": "Anif",
+        "zip": "5081",
+        "country": "Austria"
+      },
+      "branche": "Fachgeschäft & Genussartikel",
+      "premium_partner": false,
+      "looops_store": false,
+      "tags": [],
+      "phone": "0662/825047",
+      "website": "www.lederleitner.at",
+      "lat": 47.761016,
+      "lng": 13.056298
+    },
+    {
       "id": "261444021481",
       "name": "Manufactum - München",
       "address": {
@@ -3657,22 +3675,22 @@
       "lng": 11.577371
     },
     {
-      "id": "233349592293",
-      "name": "Charlottchens Fine Living Interior",
+      "id": "167605883086",
+      "name": "Natürlich Schön",
       "address": {
-        "street": "Schlossstraße 12",
-        "city": "Schwerin",
-        "zip": "19053",
-        "country": "Germany"
+        "street": "Behaimstraße 2",
+        "city": "Hall in Tirol",
+        "zip": "6060",
+        "country": "Austria"
       },
-      "branche": "Interior",
+      "branche": "Wellbeing",
       "premium_partner": false,
       "looops_store": false,
       "tags": [],
-      "phone": " +49 (0)385 34359250",
-      "website": "www.charlottchens.de",
-      "lat": 53.627329,
-      "lng": 11.414396
+      "phone": "069919029168",
+      "website": "http://www.natürlich-schön.at",
+      "lat": 47.277553,
+      "lng": 11.498138
     },
     {
       "id": "145792906481",
@@ -3691,6 +3709,24 @@
       "website": "https://www.lederleitner.at/",
       "lat": 48.215404,
       "lng": 16.366348
+    },
+    {
+      "id": "233349592293",
+      "name": "Charlottchens Fine Living Interior",
+      "address": {
+        "street": "Schlossstraße 12",
+        "city": "Schwerin",
+        "zip": "19053",
+        "country": "Germany"
+      },
+      "branche": "Interior",
+      "premium_partner": false,
+      "looops_store": false,
+      "tags": [],
+      "phone": " +49 (0)385 34359250",
+      "website": "www.charlottchens.de",
+      "lat": 53.627329,
+      "lng": 11.414396
     },
     {
       "id": "116472919271",
@@ -3999,24 +4035,6 @@
       "lng": 9.430129
     },
     {
-      "id": "114250274015",
-      "name": "florinaconcept",
-      "address": {
-        "street": "Amtsgerichtsstraße 16",
-        "city": "Kronach",
-        "zip": "96317",
-        "country": "Deutschland"
-      },
-      "branche": "Concept Store",
-      "premium_partner": false,
-      "looops_store": false,
-      "tags": [],
-      "phone": "+49 160 8023242",
-      "website": "https://www.florinaconcept.de/",
-      "lat": 50.241591,
-      "lng": 11.324523
-    },
-    {
       "id": "237661119677",
       "name": "Sense - the studio",
       "address": {
@@ -4287,24 +4305,6 @@
       "lng": 16.341938
     },
     {
-      "id": "249841647846",
-      "name": "Lederleitner Graz",
-      "address": {
-        "street": "Hilmteichstraße 70",
-        "city": "Graz",
-        "zip": "8010",
-        "country": "Austria"
-      },
-      "branche": "Interior",
-      "premium_partner": false,
-      "looops_store": false,
-      "tags": [],
-      "phone": "03163286960",
-      "website": "www.lederleitner.at",
-      "lat": 47.084082,
-      "lng": 15.460243
-    },
-    {
       "id": "428503207103",
       "name": "SAMIA Kosmetik",
       "address": {
@@ -4395,24 +4395,6 @@
       "lng": 6.780283
     },
     {
-      "id": "429779690727",
-      "name": "Trixl GmbH & Co. KG",
-      "address": {
-        "street": "Hochkönigstraße 8",
-        "city": "Fieberbrunn",
-        "zip": "6391",
-        "country": "Austria"
-      },
-      "branche": "Interior",
-      "premium_partner": false,
-      "looops_store": false,
-      "tags": [],
-      "phone": "+43 (5354) 566770",
-      "website": "http://www.trixl.tirol",
-      "lat": 47.468552,
-      "lng": 12.568954
-    },
-    {
       "id": "267531081954",
       "name": "Manufactum - Königliche Gartenakademie Berlin",
       "address": {
@@ -4485,6 +4467,24 @@
       "lng": 8.752538
     },
     {
+      "id": "429779690727",
+      "name": "Trixl GmbH & Co. KG",
+      "address": {
+        "street": "Hochkönigstraße 8",
+        "city": "Fieberbrunn",
+        "zip": "6391",
+        "country": "Austria"
+      },
+      "branche": "Interior",
+      "premium_partner": false,
+      "looops_store": false,
+      "tags": [],
+      "phone": "+43 (5354) 566770",
+      "website": "http://www.trixl.tirol",
+      "lat": 47.468552,
+      "lng": 12.568954
+    },
+    {
       "id": "247823120609",
       "name": "Diseno OG",
       "address": {
@@ -4521,22 +4521,22 @@
       "lng": 7.627435
     },
     {
-      "id": "167605883086",
-      "name": "Natürlich Schön",
+      "id": "249841647846",
+      "name": "Lederleitner Graz",
       "address": {
-        "street": "Behaimstraße 2",
-        "city": "Hall in Tirol",
-        "zip": "6060",
+        "street": "Hilmteichstraße 70",
+        "city": "Graz",
+        "zip": "8010",
         "country": "Austria"
       },
-      "branche": "Wellbeing",
+      "branche": "Interior",
       "premium_partner": false,
       "looops_store": false,
       "tags": [],
-      "phone": "069919029168",
-      "website": "http://www.natürlich-schön.at",
-      "lat": 47.277553,
-      "lng": 11.498138
+      "phone": "03163286960",
+      "website": "www.lederleitner.at",
+      "lat": 47.084082,
+      "lng": 15.460243
     },
     {
       "id": "116472953023",
@@ -4627,24 +4627,6 @@
       "website": "https://manufactum.de",
       "lat": 48.240795,
       "lng": 10.134603
-    },
-    {
-      "id": "255765839077",
-      "name": "Lederleitner Salzburg",
-      "address": {
-        "street": "Keltenallee 7",
-        "city": "Anif",
-        "zip": "5081",
-        "country": "Austria"
-      },
-      "branche": "Fachgeschäft & Genussartikel",
-      "premium_partner": false,
-      "looops_store": false,
-      "tags": [],
-      "phone": "0662/825047",
-      "website": "www.lederleitner.at",
-      "lat": 47.761016,
-      "lng": 13.056298
     },
     {
       "id": "115039543504",
