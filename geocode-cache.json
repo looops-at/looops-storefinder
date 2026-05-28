@@ -1403,5 +1403,10 @@
     "lat": 48.067624,
     "lng": 16.356641,
     "place_name": "Schlossplatz 12, 2361 Laxenburg, Österreich"
+  },
+  "Almdorf 5, 6380, St. Johann in Tirol, Austria": {
+    "lat": 47.519384,
+    "lng": 12.439422,
+    "place_name": "Almdorf 5, 6380 St. Johann in Tirol, Österreich"
   }
 }
