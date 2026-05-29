@@ -1408,5 +1408,10 @@
     "lat": 47.519384,
     "lng": 12.439422,
     "place_name": "Almdorf 5, 6380 St. Johann in Tirol, Österreich"
+  },
+  "Tischlerstraße 22 - 24, 5113, St. Georgen bei Salzburg, Österreich": {
+    "lat": 47.97622,
+    "lng": 12.885284,
+    "place_name": "Tischlerstraße 22, 5113 St. Georgen bei Salzburg, Österreich"
   }
 }

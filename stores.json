@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-28T08:04:25.871Z",
-  "count": 281,
+  "generated_at": "2026-05-29T05:34:02.410Z",
+  "count": 282,
   "stores": [
     {
       "id": "13405919736",
@@ -73,24 +73,6 @@
       "website": "fairschenkt.at",
       "lat": 47.358836,
       "lng": 9.654875
-    },
-    {
-      "id": "13405447624",
-      "name": "St. Martin Apotheke",
-      "address": {
-        "street": "St. Martiner Str. 44",
-        "city": "Villach",
-        "zip": "9500",
-        "country": "Österreich"
-      },
-      "branche": "Pharmacy / Drugstore",
-      "premium_partner": false,
-      "looops_store": false,
-      "tags": [],
-      "phone": null,
-      "website": "https://stmartin-apotheke.at/",
-      "lat": 48.367092,
-      "lng": 14.035002
     },
     {
       "id": "13405447631",
@@ -201,6 +183,24 @@
       "lng": 11.577327
     },
     {
+      "id": "13405874389",
+      "name": "Resort - Concept Store Innsbruck",
+      "address": {
+        "street": "Erlerstraße 10",
+        "city": "Innsbruck",
+        "zip": "6020",
+        "country": "Österreich"
+      },
+      "branche": "Concept Store",
+      "premium_partner": false,
+      "looops_store": false,
+      "tags": [],
+      "phone": null,
+      "website": "https://shop.resort-innsbruck.com/",
+      "lat": 47.26585,
+      "lng": 11.395736
+    },
+    {
       "id": "13405860540",
       "name": "Hotel Krallerhof",
       "address": {
@@ -291,6 +291,24 @@
       "lng": 12.715738
     },
     {
+      "id": "13405447622",
+      "name": "CHEZ PAUL - Bistro, Brot & Delikatessen",
+      "address": {
+        "street": "Colmarplatz 1",
+        "city": "Eisenstadt",
+        "zip": "7000",
+        "country": "Österreich"
+      },
+      "branche": "Gastro",
+      "premium_partner": false,
+      "looops_store": false,
+      "tags": [],
+      "phone": "+436649917153",
+      "website": "http://www.chezpaul.at/",
+      "lat": 47.846993,
+      "lng": 16.526508
+    },
+    {
       "id": "13405640170",
       "name": "Rindenkind - Green Lifestyle",
       "address": {
@@ -345,22 +363,22 @@
       "lng": 11.580402
     },
     {
-      "id": "13405934287",
-      "name": "Krawany",
+      "id": "13405447612",
+      "name": "Petra König WOHNEN & LIFESTYLE",
       "address": {
-        "street": "Freiheitsplatz 4",
-        "city": "Mödling",
-        "zip": "2340",
+        "street": "Innsbrucker Straße 16/1",
+        "city": "Schwaz",
+        "zip": "6130",
         "country": "Österreich"
       },
-      "branche": "Fachgeschäft & Genussartikel",
+      "branche": "Concept Store",
       "premium_partner": false,
       "looops_store": false,
       "tags": [],
-      "phone": "+43 2236 4150012",
-      "website": null,
-      "lat": 48.086264,
-      "lng": 16.284698
+      "phone": "+436764150555",
+      "website": "https://www.petrakoenig.at/",
+      "lat": 47.343751,
+      "lng": 11.70754
     },
     {
       "id": "13406057459",
@@ -379,24 +397,6 @@
       "website": "schneewittchen-zwerge.at",
       "lat": 48.249569,
       "lng": 14.630263
-    },
-    {
-      "id": "13405447617",
-      "name": "DOMUS SNC (Logistic center 4SPACES GMBH )",
-      "address": {
-        "street": "Strada Podio Gallino, 2",
-        "city": "Andezeno",
-        "zip": "10020",
-        "country": "Italy"
-      },
-      "branche": "Interior",
-      "premium_partner": false,
-      "looops_store": false,
-      "tags": [],
-      "phone": null,
-      "website": "4spaces.ch",
-      "lat": 45.036869,
-      "lng": 7.87926
     },
     {
       "id": "13405321425",
@@ -433,6 +433,24 @@
       "website": "https://www.dekothek.at",
       "lat": 47.473667,
       "lng": 12.345157
+    },
+    {
+      "id": "13405919732",
+      "name": "Norkind",
+      "address": {
+        "street": "Zentralstrasse 131",
+        "city": "Zürich",
+        "zip": "8003",
+        "country": "Schweiz"
+      },
+      "branche": "Concept Store",
+      "premium_partner": false,
+      "looops_store": false,
+      "tags": [],
+      "phone": "+41 44 545 45 35",
+      "website": "https://www.norkind.ch/",
+      "lat": 47.375053,
+      "lng": 8.515257
     },
     {
       "id": "13405919951",
@@ -579,22 +597,22 @@
       "lng": 14.790655
     },
     {
-      "id": "13406057461",
-      "name": "ladenraum",
+      "id": "13405447616",
+      "name": "du - concept store",
       "address": {
-        "street": "Hauptstraße 39",
-        "city": "Wolkersdorf",
-        "zip": "2120",
-        "country": "Austria"
+        "street": "Margaretenstraße 39",
+        "city": "Wien",
+        "zip": "1040",
+        "country": "Österreich"
       },
-      "branche": "Fachgeschäft & Genussartikel",
+      "branche": "Concept Store",
       "premium_partner": false,
       "looops_store": false,
       "tags": [],
-      "phone": "+43 2245 20047",
-      "website": "ladenraum.at",
-      "lat": 48.383296,
-      "lng": 16.518319
+      "phone": "+43(699)115-37730",
+      "website": "https://du-shop.at/",
+      "lat": 48.194826,
+      "lng": 16.36296
     },
     {
       "id": "13405321423",
@@ -669,42 +687,6 @@
       "lng": 13.65575
     },
     {
-      "id": "13405188829",
-      "name": "super.",
-      "address": {
-        "street": "Mittermayergasse 6",
-        "city": "Wien",
-        "zip": "1130",
-        "country": "Österreich"
-      },
-      "branche": "Concept Store",
-      "premium_partner": false,
-      "looops_store": false,
-      "tags": [],
-      "phone": "+43 1 8764090",
-      "website": "https://super-vienna.com/",
-      "lat": 48.185041,
-      "lng": 16.296603
-    },
-    {
-      "id": "13405447616",
-      "name": "du - concept store",
-      "address": {
-        "street": "Margaretenstraße 39",
-        "city": "Wien",
-        "zip": "1040",
-        "country": "Österreich"
-      },
-      "branche": "Concept Store",
-      "premium_partner": false,
-      "looops_store": false,
-      "tags": [],
-      "phone": "+43(699)115-37730",
-      "website": "https://du-shop.at/",
-      "lat": 48.194826,
-      "lng": 16.36296
-    },
-    {
       "id": "13405890236",
       "name": "Das Lesezeichen",
       "address": {
@@ -739,6 +721,24 @@
       "website": "http://www.forsthofalm.com",
       "lat": 47.436172,
       "lng": 12.708553
+    },
+    {
+      "id": "13405188829",
+      "name": "super.",
+      "address": {
+        "street": "Mittermayergasse 6",
+        "city": "Wien",
+        "zip": "1130",
+        "country": "Österreich"
+      },
+      "branche": "Concept Store",
+      "premium_partner": false,
+      "looops_store": false,
+      "tags": [],
+      "phone": "+43 1 8764090",
+      "website": "https://super-vienna.com/",
+      "lat": 48.185041,
+      "lng": 16.296603
     },
     {
       "id": "13405640175",
@@ -813,6 +813,24 @@
       "lng": 12.12573
     },
     {
+      "id": "13405990337",
+      "name": "Schramm/Rother GbR",
+      "address": {
+        "street": "Lindenweg 3",
+        "city": "Rosenthal -Bielatal",
+        "zip": "01824",
+        "country": "Germany"
+      },
+      "branche": "Retail Diverse",
+      "premium_partner": false,
+      "looops_store": false,
+      "tags": [],
+      "phone": null,
+      "website": "felswelten.de",
+      "lat": 50.875984,
+      "lng": 14.043729
+    },
+    {
       "id": "13405874402",
       "name": "Apotheke am Rettenbach",
       "address": {
@@ -847,6 +865,42 @@
       "website": "https://www.johannesapo.at/",
       "lat": 48.374187,
       "lng": 14.344409
+    },
+    {
+      "id": "13405321422",
+      "name": "les allures",
+      "address": {
+        "street": "Goltsteinstraße 72",
+        "city": "Köln",
+        "zip": "50968",
+        "country": "Germany"
+      },
+      "branche": "Wellbeing",
+      "premium_partner": false,
+      "looops_store": false,
+      "tags": [],
+      "phone": "+49 221 22208617",
+      "website": "les-allures.de",
+      "lat": 50.909978,
+      "lng": 6.969151
+    },
+    {
+      "id": "13405640174",
+      "name": "liebevoll schenken, gestalten & wohnen",
+      "address": {
+        "street": "Hauptstr. 18a",
+        "city": "Meine",
+        "zip": "38527",
+        "country": "Deutschland"
+      },
+      "branche": "Concept Store",
+      "premium_partner": false,
+      "looops_store": false,
+      "tags": [],
+      "phone": "+49015252638435",
+      "website": "https://shop.liebevoll-sgw.de/",
+      "lat": 52.379703,
+      "lng": 10.53841
     },
     {
       "id": "13406063340",
@@ -903,42 +957,6 @@
       "lng": 12.714736
     },
     {
-      "id": "13405860542",
-      "name": "Cachil - Fashionloft",
-      "address": {
-        "street": "WEBEREISTRASSE 9",
-        "city": "POTTSCHACH",
-        "zip": "2630",
-        "country": "Österreich"
-      },
-      "branche": "Sports-Fashion Retail",
-      "premium_partner": false,
-      "looops_store": false,
-      "tags": [],
-      "phone": "+43 664 3142180",
-      "website": "https://www.cachil.com/",
-      "lat": 47.697066,
-      "lng": 16.009678
-    },
-    {
-      "id": "13405321422",
-      "name": "les allures",
-      "address": {
-        "street": "Goltsteinstraße 72",
-        "city": "Köln",
-        "zip": "50968",
-        "country": "Germany"
-      },
-      "branche": "Wellbeing",
-      "premium_partner": false,
-      "looops_store": false,
-      "tags": [],
-      "phone": "+49 221 22208617",
-      "website": "les-allures.de",
-      "lat": 50.909978,
-      "lng": 6.969151
-    },
-    {
       "id": "13405321433",
       "name": "Alpenresort Schwarz",
       "address": {
@@ -955,24 +973,6 @@
       "website": "http://www.schwarz.at",
       "lat": 47.307188,
       "lng": 10.986068
-    },
-    {
-      "id": "13406063347",
-      "name": "Lederleitner Stadthaus",
-      "address": {
-        "street": "Mahlerstraße 14",
-        "city": "Wien",
-        "zip": "1010",
-        "country": "Österreich"
-      },
-      "branche": "Concept Store",
-      "premium_partner": false,
-      "looops_store": false,
-      "tags": [],
-      "phone": "+43 1512 4271",
-      "website": "https://www.lederleitner.at/standorte.html",
-      "lat": 48.202171,
-      "lng": 16.37359
     },
     {
       "id": "13406063349",
@@ -1047,22 +1047,22 @@
       "lng": 12.935955
     },
     {
-      "id": "13405447622",
-      "name": "CHEZ PAUL - Bistro, Brot & Delikatessen",
+      "id": "13406455507",
+      "name": "Nesslerhof - the natural happiness hotel",
       "address": {
-        "street": "Colmarplatz 1",
-        "city": "Eisenstadt",
-        "zip": "7000",
+        "street": "Unterbergstraße 50",
+        "city": "Großarl",
+        "zip": "5611",
         "country": "Österreich"
       },
-      "branche": "Gastro",
+      "branche": "Accomodation",
       "premium_partner": false,
       "looops_store": false,
       "tags": [],
-      "phone": null,
-      "website": "http://www.chezpaul.at/",
-      "lat": 47.846993,
-      "lng": 16.526508
+      "phone": "+43(664)214-8007",
+      "website": "https://www.nesslerhof.at/?utm_source=gmb&utm_medium=organic",
+      "lat": 47.245209,
+      "lng": 13.196171
     },
     {
       "id": "13405874390",
@@ -1101,24 +1101,6 @@
       "lng": 11.592093
     },
     {
-      "id": "13405990337",
-      "name": "Schramm/Rother GbR",
-      "address": {
-        "street": "Lindenweg 3",
-        "city": "Rosenthal -Bielatal",
-        "zip": "01824",
-        "country": "Germany"
-      },
-      "branche": "Retail Diverse",
-      "premium_partner": false,
-      "looops_store": false,
-      "tags": [],
-      "phone": null,
-      "website": "felswelten.de",
-      "lat": 50.875984,
-      "lng": 14.043729
-    },
-    {
       "id": "13405934293",
       "name": "DasPosthotel GmbH",
       "address": {
@@ -1135,6 +1117,24 @@
       "website": "zillerseasons.at",
       "lat": 47.234802,
       "lng": 11.883055
+    },
+    {
+      "id": "13405447617",
+      "name": "DOMUS SNC (Logistic center 4SPACES GMBH )",
+      "address": {
+        "street": "Strada Podio Gallino, 2",
+        "city": "Andezeno",
+        "zip": "10020",
+        "country": "Italy"
+      },
+      "branche": "Interior",
+      "premium_partner": false,
+      "looops_store": false,
+      "tags": [],
+      "phone": null,
+      "website": "4spaces.ch",
+      "lat": 45.036869,
+      "lng": 7.87926
     },
     {
       "id": "13405919938",
@@ -1171,6 +1171,24 @@
       "website": "loewe9.at",
       "lat": 48.2235,
       "lng": 16.36491
+    },
+    {
+      "id": "13406057461",
+      "name": "ladenraum",
+      "address": {
+        "street": "Hauptstraße 39",
+        "city": "Wolkersdorf",
+        "zip": "2120",
+        "country": "Austria"
+      },
+      "branche": "Fachgeschäft & Genussartikel",
+      "premium_partner": false,
+      "looops_store": false,
+      "tags": [],
+      "phone": "+43 2245 20047",
+      "website": "ladenraum.at",
+      "lat": 48.383296,
+      "lng": 16.518319
     },
     {
       "id": "13406057462",
@@ -1227,6 +1245,24 @@
       "lng": 15.44348
     },
     {
+      "id": "13405934287",
+      "name": "Krawany",
+      "address": {
+        "street": "Freiheitsplatz 4",
+        "city": "Mödling",
+        "zip": "2340",
+        "country": "Österreich"
+      },
+      "branche": "Fachgeschäft & Genussartikel",
+      "premium_partner": false,
+      "looops_store": false,
+      "tags": [],
+      "phone": "+43 2236 4150012",
+      "website": null,
+      "lat": 48.086264,
+      "lng": 16.284698
+    },
+    {
       "id": "13405890240",
       "name": "Apfelböck",
       "address": {
@@ -1261,42 +1297,6 @@
       "website": "https://www.romyries.de/",
       "lat": 49.005737,
       "lng": 8.374914
-    },
-    {
-      "id": "13405919733",
-      "name": "Raumconcept Store",
-      "address": {
-        "street": "Marktstrasse 6",
-        "city": "Wendelstein",
-        "zip": "90530",
-        "country": "Deutschland"
-      },
-      "branche": "Concept Store",
-      "premium_partner": false,
-      "looops_store": false,
-      "tags": [],
-      "phone": null,
-      "website": "https://www.raumconceptstore.com/",
-      "lat": 49.35609,
-      "lng": 11.143672
-    },
-    {
-      "id": "13406455507",
-      "name": "Nesslerhof - the natural happiness hotel",
-      "address": {
-        "street": "Unterbergstraße 50",
-        "city": "Großarl",
-        "zip": "5611",
-        "country": "Österreich"
-      },
-      "branche": "Accomodation",
-      "premium_partner": false,
-      "looops_store": false,
-      "tags": [],
-      "phone": "+43(664)214-8007",
-      "website": "https://www.nesslerhof.at/?utm_source=gmb&utm_medium=organic",
-      "lat": 47.245209,
-      "lng": 13.196171
     },
     {
       "id": "13405990340",
@@ -1353,6 +1353,24 @@
       "lng": 11.738575
     },
     {
+      "id": "13405447624",
+      "name": "St. Martin Apotheke",
+      "address": {
+        "street": "St. Martiner Str. 44",
+        "city": "Villach",
+        "zip": "9500",
+        "country": "Österreich"
+      },
+      "branche": "Pharmacy / Drugstore",
+      "premium_partner": false,
+      "looops_store": false,
+      "tags": [],
+      "phone": null,
+      "website": "https://stmartin-apotheke.at/",
+      "lat": 48.367092,
+      "lng": 14.035002
+    },
+    {
       "id": "13405990332",
       "name": "CHI - Claudia Häcker Interior",
       "address": {
@@ -1407,24 +1425,6 @@
       "lng": 16.279432
     },
     {
-      "id": "13405640174",
-      "name": "liebevoll schenken, gestalten & wohnen",
-      "address": {
-        "street": "Hauptstr. 18a",
-        "city": "Meine",
-        "zip": "38527",
-        "country": "Deutschland"
-      },
-      "branche": "Concept Store",
-      "premium_partner": false,
-      "looops_store": false,
-      "tags": [],
-      "phone": "+49015252638435",
-      "website": "https://shop.liebevoll-sgw.de/",
-      "lat": 52.379703,
-      "lng": 10.53841
-    },
-    {
       "id": "13406455509",
       "name": "Maison Clomes x Pura Clothing",
       "address": {
@@ -1443,24 +1443,6 @@
       "lng": 8.516148
     },
     {
-      "id": "13405919732",
-      "name": "Norkind",
-      "address": {
-        "street": "Zentralstrasse 131",
-        "city": "Zürich",
-        "zip": "8003",
-        "country": "Schweiz"
-      },
-      "branche": "Concept Store",
-      "premium_partner": false,
-      "looops_store": false,
-      "tags": [],
-      "phone": "+41 44 545 45 35",
-      "website": "https://www.norkind.ch/",
-      "lat": 47.375053,
-      "lng": 8.515257
-    },
-    {
       "id": "13405640167",
       "name": "Kosmetik Nina",
       "address": {
@@ -1477,24 +1459,6 @@
       "website": "kosmetik-nina.at",
       "lat": 47.347803,
       "lng": 11.849366
-    },
-    {
-      "id": "13405447612",
-      "name": "Petra König WOHNEN & LIFESTYLE",
-      "address": {
-        "street": "Innsbrucker Straße 16/1",
-        "city": "Schwaz",
-        "zip": "6130",
-        "country": "Österreich"
-      },
-      "branche": "Concept Store",
-      "premium_partner": false,
-      "looops_store": false,
-      "tags": [],
-      "phone": "+436764150555",
-      "website": "https://www.petrakoenig.at/",
-      "lat": 47.343751,
-      "lng": 11.70754
     },
     {
       "id": "13405934285",
@@ -1641,22 +1605,40 @@
       "lng": 14.186413
     },
     {
-      "id": "13405919735",
-      "name": "schauplats",
+      "id": "13405919733",
+      "name": "Raumconcept Store",
       "address": {
-        "street": "Gries 9",
-        "city": "Axams",
-        "zip": "6094",
+        "street": "Marktstrasse 6",
+        "city": "Wendelstein",
+        "zip": "90530",
+        "country": "Deutschland"
+      },
+      "branche": "Concept Store",
+      "premium_partner": false,
+      "looops_store": false,
+      "tags": [],
+      "phone": null,
+      "website": "https://www.raumconceptstore.com/",
+      "lat": 49.35609,
+      "lng": 11.143672
+    },
+    {
+      "id": "13406063347",
+      "name": "Lederleitner Stadthaus",
+      "address": {
+        "street": "Mahlerstraße 14",
+        "city": "Wien",
+        "zip": "1010",
         "country": "Österreich"
       },
       "branche": "Concept Store",
       "premium_partner": false,
       "looops_store": false,
       "tags": [],
-      "phone": "+43 676 400 0669",
-      "website": "https://schauplats.at/",
-      "lat": 47.228705,
-      "lng": 11.27813
+      "phone": "+43 1512 4271",
+      "website": "https://www.lederleitner.at/standorte.html",
+      "lat": 48.202171,
+      "lng": 16.37359
     },
     {
       "id": "13405919734",
@@ -1695,24 +1677,6 @@
       "lng": 14.0267
     },
     {
-      "id": "13405874389",
-      "name": "Resort - Concept Store Innsbruck",
-      "address": {
-        "street": "Erlerstraße 10",
-        "city": "Innsbruck",
-        "zip": "6020",
-        "country": "Österreich"
-      },
-      "branche": "Concept Store",
-      "premium_partner": false,
-      "looops_store": false,
-      "tags": [],
-      "phone": null,
-      "website": "https://shop.resort-innsbruck.com/",
-      "lat": 47.26585,
-      "lng": 11.395736
-    },
-    {
       "id": "13405321446",
       "name": "wam Lifestyle & Shopping",
       "address": {
@@ -1749,6 +1713,24 @@
       "lng": 16.374475
     },
     {
+      "id": "13405860542",
+      "name": "Cachil - Fashionloft",
+      "address": {
+        "street": "WEBEREISTRASSE 9",
+        "city": "POTTSCHACH",
+        "zip": "2630",
+        "country": "Österreich"
+      },
+      "branche": "Sports-Fashion Retail",
+      "premium_partner": false,
+      "looops_store": false,
+      "tags": [],
+      "phone": "+43 664 3142180",
+      "website": "https://www.cachil.com/",
+      "lat": 47.697066,
+      "lng": 16.009678
+    },
+    {
       "id": "13405934292",
       "name": "Apotheke Zum heiligen Josef",
       "address": {
@@ -1783,6 +1765,24 @@
       "website": "jasmin-co.com",
       "lat": 47.49769,
       "lng": 8.240485
+    },
+    {
+      "id": "13405919735",
+      "name": "schauplats",
+      "address": {
+        "street": "Gries 9",
+        "city": "Axams",
+        "zip": "6094",
+        "country": "Österreich"
+      },
+      "branche": "Concept Store",
+      "premium_partner": false,
+      "looops_store": false,
+      "tags": [],
+      "phone": "+43 676 400 0669",
+      "website": "https://schauplats.at/",
+      "lat": 47.228705,
+      "lng": 11.27813
     },
     {
       "id": "13405919934",
@@ -1983,24 +1983,6 @@
       "lng": 11.202962
     },
     {
-      "id": "114250274015",
-      "name": "florinaconcept",
-      "address": {
-        "street": "Amtsgerichtsstraße 16",
-        "city": "Kronach",
-        "zip": "96317",
-        "country": "Deutschland"
-      },
-      "branche": "Concept Store",
-      "premium_partner": false,
-      "looops_store": false,
-      "tags": [],
-      "phone": "+49 160 8023242",
-      "website": "https://www.florinaconcept.de/",
-      "lat": 50.241591,
-      "lng": 11.324523
-    },
-    {
       "id": "13406469310",
       "name": "Hotel Bayerwaldhof - Hofladen",
       "address": {
@@ -2035,6 +2017,24 @@
       "website": "http://www.gruener.at",
       "lat": 46.624259,
       "lng": 14.310926
+    },
+    {
+      "id": "13406469309",
+      "name": "Kosmetik Beauty Balance by Inka Garner",
+      "address": {
+        "street": "Münchner Str. 187",
+        "city": "Karlsfeld",
+        "zip": "85757",
+        "country": "Deutschland"
+      },
+      "branche": "Wellbeing",
+      "premium_partner": false,
+      "looops_store": false,
+      "tags": [],
+      "phone": null,
+      "website": "https://www.kosmetik-beauty-balance.de/",
+      "lat": 48.2237,
+      "lng": 11.470971
     },
     {
       "id": "113896151244",
@@ -2107,6 +2107,24 @@
       "website": "https://www.mangolds.com/",
       "lat": 47.069932,
       "lng": 15.434159
+    },
+    {
+      "id": "90906213616",
+      "name": "hey store",
+      "address": {
+        "street": "Ziegenmarkt 5",
+        "city": "Braunschweig",
+        "zip": "38100",
+        "country": "Deutschland"
+      },
+      "branche": "Concept Store",
+      "premium_partner": false,
+      "looops_store": false,
+      "tags": [],
+      "phone": "+49 531 38728375",
+      "website": "https://hey-store.de/",
+      "lat": 52.261631,
+      "lng": 10.519209
     },
     {
       "id": "70900059384",
@@ -2613,6 +2631,24 @@
       "lng": 16.367565
     },
     {
+      "id": "76710019297",
+      "name": "Tischlerei Spatzenegger",
+      "address": {
+        "street": "Tischlerstraße 22 - 24",
+        "city": "St. Georgen bei Salzburg",
+        "zip": "5113",
+        "country": "Österreich"
+      },
+      "branche": "Interior",
+      "premium_partner": false,
+      "looops_store": false,
+      "tags": [],
+      "phone": null,
+      "website": "https://www.tischlerei-spatzenegger.at/",
+      "lat": 47.97622,
+      "lng": 12.885284
+    },
+    {
       "id": "90637461693",
       "name": "Maison Jolie",
       "address": {
@@ -2667,6 +2703,24 @@
       "lng": 11.575677
     },
     {
+      "id": "94827735261",
+      "name": "Haut und Seele",
+      "address": {
+        "street": "Herrenstraße 18",
+        "city": "Linz",
+        "zip": "4020",
+        "country": "Österreich"
+      },
+      "branche": "Cosmetics / Perfumery Store",
+      "premium_partner": false,
+      "looops_store": false,
+      "tags": [],
+      "phone": "+43 732 771712",
+      "website": "https://www.haut-seele.at/",
+      "lat": 48.301804,
+      "lng": 14.286755
+    },
+    {
       "id": "90846915794",
       "name": "Wohnlust",
       "address": {
@@ -2703,24 +2757,6 @@
       "lng": 8.389173
     },
     {
-      "id": "13406469309",
-      "name": "Kosmetik Beauty Balance by Inka Garner",
-      "address": {
-        "street": "Münchner Str. 187",
-        "city": "Karlsfeld",
-        "zip": "85757",
-        "country": "Deutschland"
-      },
-      "branche": "Wellbeing",
-      "premium_partner": false,
-      "looops_store": false,
-      "tags": [],
-      "phone": null,
-      "website": "https://www.kosmetik-beauty-balance.de/",
-      "lat": 48.2237,
-      "lng": 11.470971
-    },
-    {
       "id": "13406489819",
       "name": "Blumengeschäft Schiffinger & Schuster GesmbH",
       "address": {
@@ -2755,24 +2791,6 @@
       "website": "https://www.instagram.com/atelier_frau_k/?hl=de",
       "lat": 51.21668,
       "lng": 7.633739
-    },
-    {
-      "id": "94827735261",
-      "name": "Haut und Seele",
-      "address": {
-        "street": "Herrenstraße 18",
-        "city": "Linz",
-        "zip": "4020",
-        "country": "Österreich"
-      },
-      "branche": "Cosmetics / Perfumery Store",
-      "premium_partner": false,
-      "looops_store": false,
-      "tags": [],
-      "phone": "+43 732 771712",
-      "website": "https://www.haut-seele.at/",
-      "lat": 48.301804,
-      "lng": 14.286755
     },
     {
       "id": "68943810785",
@@ -2847,6 +2865,24 @@
       "lng": 8.303598
     },
     {
+      "id": "95968259318",
+      "name": "Studio B",
+      "address": {
+        "street": "Johannisplatz 18",
+        "city": "München",
+        "zip": "81667",
+        "country": "Germany"
+      },
+      "branche": "Wellbeing",
+      "premium_partner": false,
+      "looops_store": false,
+      "tags": [],
+      "phone": "+498920938000",
+      "website": "www.johannabarna.de",
+      "lat": 48.133878,
+      "lng": 11.597348
+    },
+    {
       "id": "94802694369",
       "name": "DAS PARFUM & BEAUTY",
       "address": {
@@ -2881,6 +2917,24 @@
       "website": "https://www.steirereck.at/pogusch.html",
       "lat": 47.53003,
       "lng": 15.334391
+    },
+    {
+      "id": "92128953571",
+      "name": "nachhaltique",
+      "address": {
+        "street": "Stellinger Weg 36",
+        "city": "Hamburg",
+        "zip": "20255",
+        "country": "Deutschland"
+      },
+      "branche": "Concept Store",
+      "premium_partner": false,
+      "looops_store": false,
+      "tags": [],
+      "phone": null,
+      "website": "https://www.nachhaltique.de/",
+      "lat": 53.580182,
+      "lng": 9.948155
     },
     {
       "id": "53543647455",
@@ -2953,24 +3007,6 @@
       "website": "https://www.juljawastschuk.de/",
       "lat": 49.454554,
       "lng": 11.079539
-    },
-    {
-      "id": "95968259318",
-      "name": "Studio B",
-      "address": {
-        "street": "Johannisplatz 18",
-        "city": "München",
-        "zip": "81667",
-        "country": "Germany"
-      },
-      "branche": "Wellbeing",
-      "premium_partner": false,
-      "looops_store": false,
-      "tags": [],
-      "phone": "+498920938000",
-      "website": "www.johannabarna.de",
-      "lat": 48.133878,
-      "lng": 11.597348
     },
     {
       "id": "53493081316",
@@ -3153,24 +3189,6 @@
       "lng": 13.057926
     },
     {
-      "id": "90906213616",
-      "name": "hey store",
-      "address": {
-        "street": "Ziegenmarkt 5",
-        "city": "Braunschweig",
-        "zip": "38100",
-        "country": "Deutschland"
-      },
-      "branche": "Concept Store",
-      "premium_partner": false,
-      "looops_store": false,
-      "tags": [],
-      "phone": "+49 531 38728375",
-      "website": "https://hey-store.de/",
-      "lat": 52.261631,
-      "lng": 10.519209
-    },
-    {
       "id": "76431247601",
       "name": "Laden an der Linde",
       "address": {
@@ -3187,24 +3205,6 @@
       "website": null,
       "lat": 47.775687,
       "lng": 12.324855
-    },
-    {
-      "id": "92128953571",
-      "name": "nachhaltique",
-      "address": {
-        "street": "Stellinger Weg 36",
-        "city": "Hamburg",
-        "zip": "20255",
-        "country": "Deutschland"
-      },
-      "branche": "Concept Store",
-      "premium_partner": false,
-      "looops_store": false,
-      "tags": [],
-      "phone": null,
-      "website": "https://www.nachhaltique.de/",
-      "lat": 53.580182,
-      "lng": 9.948155
     },
     {
       "id": "53568637126",
@@ -3603,22 +3603,22 @@
       "lng": 16.377361
     },
     {
-      "id": "266637563070",
-      "name": "Paolini",
+      "id": "312824211646",
+      "name": "ALIVA Concept Store",
       "address": {
-        "street": "Marktplatz 7",
-        "city": "Feldkirch",
-        "zip": "6800",
+        "street": "Dorf 199",
+        "city": "Lech am Arlberg",
+        "zip": "6764 ",
         "country": "Austria"
       },
-      "branche": "Fachgeschäft & Genussartikel",
+      "branche": "Interior",
       "premium_partner": false,
       "looops_store": false,
       "tags": [],
-      "phone": "+13016586186",
-      "website": "https://www.paolini.at",
-      "lat": 47.236802,
-      "lng": 9.596172
+      "phone": "+4352234364440",
+      "website": "https://www.aliva-design.net",
+      "lat": 47.211368,
+      "lng": 10.143715
     },
     {
       "id": "267509485799",
@@ -3637,6 +3637,42 @@
       "website": "https://manufactum.de",
       "lat": 52.51104,
       "lng": 13.322555
+    },
+    {
+      "id": "237661119677",
+      "name": "Sense - the studio",
+      "address": {
+        "street": "Ziegeleistrasse 2",
+        "city": "Berg (Thurgau)",
+        "zip": "8572",
+        "country": "Switzerland"
+      },
+      "branche": "Wellbeing",
+      "premium_partner": false,
+      "looops_store": false,
+      "tags": [],
+      "phone": "0041793501922",
+      "website": "www.sensethestudio.ch",
+      "lat": 47.58356,
+      "lng": 9.169222
+    },
+    {
+      "id": "247823120609",
+      "name": "Diseno OG",
+      "address": {
+        "street": "Paulitschgasse 11-2",
+        "city": "Klagenfurt",
+        "zip": "9020",
+        "country": "Austria"
+      },
+      "branche": "Interior",
+      "premium_partner": false,
+      "looops_store": false,
+      "tags": [],
+      "phone": "+43 463 93 18 13",
+      "website": "http://www.diseno.at",
+      "lat": 46.6216,
+      "lng": 14.309123
     },
     {
       "id": "261444021481",
@@ -3729,6 +3765,24 @@
       "lng": 12.439422
     },
     {
+      "id": "428503207103",
+      "name": "SAMIA Kosmetik",
+      "address": {
+        "street": "Latschaustraße 10b",
+        "city": "Tschagguns",
+        "zip": "6774",
+        "country": "Austria"
+      },
+      "branche": "Wellbeing",
+      "premium_partner": false,
+      "looops_store": false,
+      "tags": [],
+      "phone": "+43555674466",
+      "website": "https://samia-kosmetik.at",
+      "lat": 47.076809,
+      "lng": 9.90001
+    },
+    {
       "id": "116472919271",
       "name": "Martina Pfatschbacher \"LA VANDIN\"",
       "address": {
@@ -3765,6 +3819,24 @@
       "lng": 16.393539
     },
     {
+      "id": "317410750707",
+      "name": "Hotel Vier Jahreszeiten Iserlohn",
+      "address": {
+        "street": "Seilerwaldstr 10",
+        "city": "Iserlohn",
+        "zip": "58636",
+        "country": "Germany"
+      },
+      "branche": "Accomodation",
+      "premium_partner": false,
+      "looops_store": false,
+      "tags": [],
+      "phone": null,
+      "website": "vierjahreszeiten-iserlohn.de",
+      "lat": 51.391493,
+      "lng": 7.711057
+    },
+    {
       "id": "267511280850",
       "name": "Manufactum - Stuttgard",
       "address": {
@@ -3799,24 +3871,6 @@
       "website": "https://manufactum.de",
       "lat": 50.938158,
       "lng": 6.95416
-    },
-    {
-      "id": "357647607016",
-      "name": "Alexandra Linsner natural and medical skin care",
-      "address": {
-        "street": "Oberfrohnaer Straße 76",
-        "city": "Chemnitz",
-        "zip": "09117",
-        "country": "Germany"
-      },
-      "branche": "Wellbeing",
-      "premium_partner": false,
-      "looops_store": false,
-      "tags": [],
-      "phone": "+4915751754669",
-      "website": "https://alexandra-linsner-skincare.de",
-      "lat": 50.827071,
-      "lng": 12.829985
     },
     {
       "id": "174760696032",
@@ -3891,60 +3945,6 @@
       "lng": 8.53074
     },
     {
-      "id": "114742554814",
-      "name": "OBAstudios / Atelier von Ehren",
-      "address": {
-        "street": "Heinrich-Roller-Str.",
-        "city": "Berlin",
-        "zip": "10405",
-        "country": "Germany"
-      },
-      "branche": "Concept Store",
-      "premium_partner": false,
-      "looops_store": false,
-      "tags": [],
-      "phone": null,
-      "website": "obastudios.com",
-      "lat": 52.530694,
-      "lng": 13.422813
-    },
-    {
-      "id": "119006168279",
-      "name": "Strubobuob Gartenwerkstatt",
-      "address": {
-        "street": "Bahnhof 139",
-        "city": "Bezau",
-        "zip": "6870",
-        "country": "Österreich"
-      },
-      "branche": "Fachgeschäft & Genussartikel",
-      "premium_partner": false,
-      "looops_store": false,
-      "tags": [],
-      "phone": "+436644325926",
-      "website": "http://www.gartenwerkstatt-bezau.at/",
-      "lat": 47.381108,
-      "lng": 9.897364
-    },
-    {
-      "id": "354238287046",
-      "name": "Hotel Eibl-Brunner",
-      "address": {
-        "street": "Hauptstraße 18",
-        "city": "Frauenau",
-        "zip": "94258",
-        "country": "Germany"
-      },
-      "branche": "Accomodation",
-      "premium_partner": false,
-      "looops_store": false,
-      "tags": [],
-      "phone": null,
-      "website": "http://www.eibl-brunner.de",
-      "lat": 48.990224,
-      "lng": 13.30183
-    },
-    {
       "id": "115078590704",
       "name": "WILLA - Concept store & Ateliers",
       "address": {
@@ -3961,6 +3961,24 @@
       "website": "https://www.willaberlin.com/",
       "lat": 52.502013,
       "lng": 13.432451
+    },
+    {
+      "id": "233546601661",
+      "name": "Fleuriste Roger Klein",
+      "address": {
+        "street": "108 rue Adolphe Fischer",
+        "city": "Luxemburg",
+        "zip": "1521",
+        "country": "Luxemburg"
+      },
+      "branche": "Fachgeschäft & Genussartikel",
+      "premium_partner": false,
+      "looops_store": false,
+      "tags": [],
+      "phone": "+352 621 173 710",
+      "website": null,
+      "lat": 49.600711,
+      "lng": 6.12769
     },
     {
       "id": "267576838351",
@@ -3981,6 +3999,24 @@
       "lng": 7.850943
     },
     {
+      "id": "114250274015",
+      "name": "florinaconcept",
+      "address": {
+        "street": "Amtsgerichtsstraße 16",
+        "city": "Kronach",
+        "zip": "96317",
+        "country": "Deutschland"
+      },
+      "branche": "Concept Store",
+      "premium_partner": false,
+      "looops_store": false,
+      "tags": [],
+      "phone": "+49 160 8023242",
+      "website": "https://www.florinaconcept.de/",
+      "lat": 50.241591,
+      "lng": 11.324523
+    },
+    {
       "id": "156292466896",
       "name": "Serendipity Wohnatelier",
       "address": {
@@ -3999,22 +4035,22 @@
       "lng": 16.356641
     },
     {
-      "id": "237661119677",
-      "name": "Sense - the studio",
+      "id": "119006168279",
+      "name": "Strubobuob Gartenwerkstatt",
       "address": {
-        "street": "Ziegeleistrasse 2",
-        "city": "Berg (Thurgau)",
-        "zip": "8572",
-        "country": "Switzerland"
+        "street": "Bahnhof 139",
+        "city": "Bezau",
+        "zip": "6870",
+        "country": "Österreich"
       },
-      "branche": "Wellbeing",
+      "branche": "Fachgeschäft & Genussartikel",
       "premium_partner": false,
       "looops_store": false,
       "tags": [],
-      "phone": "0041793501922",
-      "website": "www.sensethestudio.ch",
-      "lat": 47.58356,
-      "lng": 9.169222
+      "phone": "+436644325926",
+      "website": "http://www.gartenwerkstatt-bezau.at/",
+      "lat": 47.381108,
+      "lng": 9.897364
     },
     {
       "id": "429779690727",
@@ -4071,22 +4107,40 @@
       "lng": 11.295565
     },
     {
-      "id": "226639456498",
-      "name": "About Given",
+      "id": "114742554814",
+      "name": "OBAstudios / Atelier von Ehren",
       "address": {
-        "street": "Baaderstraße 55",
-        "city": "München",
-        "zip": "80469",
+        "street": "Heinrich-Roller-Str.",
+        "city": "Berlin",
+        "zip": "10405",
         "country": "Germany"
       },
-      "branche": "Sports-Fashion Retail",
+      "branche": "Concept Store",
       "premium_partner": false,
       "looops_store": false,
       "tags": [],
-      "phone": "+49 (0) 89 18912825",
-      "website": "https://aboutgiven.de",
-      "lat": 48.128876,
-      "lng": 11.576731
+      "phone": null,
+      "website": "obastudios.com",
+      "lat": 52.530694,
+      "lng": 13.422813
+    },
+    {
+      "id": "413329266879",
+      "name": "Schafferer & Co. KG",
+      "address": {
+        "street": "Kaiser-Joseph-Straße 236",
+        "city": "Freiburg im Breisgau",
+        "zip": "79098",
+        "country": "Germany"
+      },
+      "branche": "Fachgeschäft & Genussartikel",
+      "premium_partner": false,
+      "looops_store": false,
+      "tags": [],
+      "phone": null,
+      "website": "https://www.schafferer.de/shop/",
+      "lat": 47.994393,
+      "lng": 7.849243
     },
     {
       "id": "267502281961",
@@ -4105,60 +4159,6 @@
       "website": "https://manufactum.de",
       "lat": 53.075717,
       "lng": 8.808816
-    },
-    {
-      "id": "312824211646",
-      "name": "ALIVA Concept Store",
-      "address": {
-        "street": "Dorf 199",
-        "city": "Lech am Arlberg",
-        "zip": "6764 ",
-        "country": "Austria"
-      },
-      "branche": "Interior",
-      "premium_partner": false,
-      "looops_store": false,
-      "tags": [],
-      "phone": "+4352234364440",
-      "website": "https://www.aliva-design.net",
-      "lat": 47.211368,
-      "lng": 10.143715
-    },
-    {
-      "id": "233349592293",
-      "name": "Charlottchens Fine Living Interior",
-      "address": {
-        "street": "Schlossstraße 12",
-        "city": "Schwerin",
-        "zip": "19053",
-        "country": "Germany"
-      },
-      "branche": "Interior",
-      "premium_partner": false,
-      "looops_store": false,
-      "tags": [],
-      "phone": " +49 (0)385 34359250",
-      "website": "www.charlottchens.de",
-      "lat": 53.627329,
-      "lng": 11.414396
-    },
-    {
-      "id": "256227684594",
-      "name": "Fair Affairs GmbH",
-      "address": {
-        "street": "Pfarrer-Socher-Straße 43",
-        "city": "Oberhaching",
-        "zip": "82041",
-        "country": "Germany"
-      },
-      "branche": "Sports-Fashion Retail",
-      "premium_partner": false,
-      "looops_store": false,
-      "tags": [],
-      "phone": "+498974076596",
-      "website": "https://my-fair-affair.com",
-      "lat": 48.029958,
-      "lng": 11.597064
     },
     {
       "id": "118504496342",
@@ -4233,22 +4233,40 @@
       "lng": 10.091152
     },
     {
-      "id": "131561748705",
-      "name": "Casa Luisa",
+      "id": "116472074441",
+      "name": "Juwelier Buchmüller",
       "address": {
-        "street": "Eisenstädterstraße 15",
-        "city": "Neufeld an der Leitha",
-        "zip": "2491",
-        "country": "Österreich"
+        "street": "Kirchstraße 8",
+        "city": "Ravensburg",
+        "zip": "88212",
+        "country": "Deutschland"
       },
-      "branche": "Interior",
+      "branche": "Premium-Lifestyle Retail",
       "premium_partner": false,
       "looops_store": false,
       "tags": [],
-      "phone": "+43 660 532 18 69",
-      "website": "www.wohnsalon-p.at",
-      "lat": 47.865721,
-      "lng": 16.380886
+      "phone": "+4975123939",
+      "website": "https://www.juwelier-buchmueller.de/",
+      "lat": 47.782436,
+      "lng": 9.614124
+    },
+    {
+      "id": "258231835897",
+      "name": "Mariensternapotheken München",
+      "address": {
+        "street": "Frans-Hals-Str. 31",
+        "city": "München",
+        "zip": "81479",
+        "country": "Germany"
+      },
+      "branche": "Pharmacy / Drugstore",
+      "premium_partner": false,
+      "looops_store": false,
+      "tags": [],
+      "phone": null,
+      "website": "http://Marienstern-Apotheke.de",
+      "lat": 48.077422,
+      "lng": 11.51998
     },
     {
       "id": "116472986818",
@@ -4359,6 +4377,24 @@
       "lng": 13.299433
     },
     {
+      "id": "357647607016",
+      "name": "Alexandra Linsner natural and medical skin care",
+      "address": {
+        "street": "Oberfrohnaer Straße 76",
+        "city": "Chemnitz",
+        "zip": "09117",
+        "country": "Germany"
+      },
+      "branche": "Wellbeing",
+      "premium_partner": false,
+      "looops_store": false,
+      "tags": [],
+      "phone": "+4915751754669",
+      "website": "https://alexandra-linsner-skincare.de",
+      "lat": 50.827071,
+      "lng": 12.829985
+    },
+    {
       "id": "115039559890",
       "name": "Kosmetikstudio Sabrina Brüderle",
       "address": {
@@ -4375,24 +4411,6 @@
       "website": "kosmetik-bruederle.de",
       "lat": 48.748578,
       "lng": 11.014078
-    },
-    {
-      "id": "116785845464",
-      "name": "Die Mengls. Küchenschätze",
-      "address": {
-        "street": "Landstraße 36",
-        "city": "Zwettl",
-        "zip": "3910",
-        "country": "Österreich"
-      },
-      "branche": "Department Store",
-      "premium_partner": false,
-      "looops_store": false,
-      "tags": [],
-      "phone": "+4328225247191",
-      "website": "http://mengl.at",
-      "lat": 48.605408,
-      "lng": 15.166359
     },
     {
       "id": "152707734721",
@@ -4413,22 +4431,22 @@
       "lng": 12.986021
     },
     {
-      "id": "428503207103",
-      "name": "SAMIA Kosmetik",
+      "id": "246299408570",
+      "name": "migo -  skincare & spa",
       "address": {
-        "street": "Latschaustraße 10b",
-        "city": "Tschagguns",
-        "zip": "6774",
-        "country": "Austria"
+        "street": "bischofsholer damm 140",
+        "city": "Hannover",
+        "zip": "30173",
+        "country": "Germany"
       },
       "branche": "Wellbeing",
       "premium_partner": false,
       "looops_store": false,
       "tags": [],
-      "phone": "+43555674466",
-      "website": "https://samia-kosmetik.at",
-      "lat": 47.076809,
-      "lng": 9.90001
+      "phone": "+49 176 72203476‬",
+      "website": "https://mymigo.de",
+      "lat": 52.364111,
+      "lng": 9.77316
     },
     {
       "id": "371906099401",
@@ -4449,6 +4467,42 @@
       "lng": 8.752538
     },
     {
+      "id": "266437907675",
+      "name": "Fashion Store GmbH & Co. KG",
+      "address": {
+        "street": "Eschstr. 28",
+        "city": "Bünde",
+        "zip": "32257",
+        "country": "Germany"
+      },
+      "branche": "Sports-Fashion Retail",
+      "premium_partner": false,
+      "looops_store": false,
+      "tags": [],
+      "phone": "+4952223696715",
+      "website": "https://fashionstore.de",
+      "lat": 52.197512,
+      "lng": 8.583892
+    },
+    {
+      "id": "354238287046",
+      "name": "Hotel Eibl-Brunner",
+      "address": {
+        "street": "Hauptstraße 18",
+        "city": "Frauenau",
+        "zip": "94258",
+        "country": "Germany"
+      },
+      "branche": "Accomodation",
+      "premium_partner": false,
+      "looops_store": false,
+      "tags": [],
+      "phone": null,
+      "website": "http://www.eibl-brunner.de",
+      "lat": 48.990224,
+      "lng": 13.30183
+    },
+    {
       "id": "176656479421",
       "name": "Apfelhotel Torgglerhof",
       "address": {
@@ -4465,42 +4519,6 @@
       "website": "https://www.apfelhotel.com",
       "lat": 36.201543,
       "lng": 5.40716
-    },
-    {
-      "id": "252058262752",
-      "name": "Pfeffer macht glücklich",
-      "address": {
-        "street": "5, rue du cimetiere",
-        "city": "Leudelange",
-        "zip": "3350",
-        "country": "Luxemburg"
-      },
-      "branche": "Fachgeschäft & Genussartikel",
-      "premium_partner": false,
-      "looops_store": false,
-      "tags": [],
-      "phone": "+352621310273",
-      "website": "http://pmg.lu",
-      "lat": 49.565424,
-      "lng": 6.066905
-    },
-    {
-      "id": "247823120609",
-      "name": "Diseno OG",
-      "address": {
-        "street": "Paulitschgasse 11-2",
-        "city": "Klagenfurt",
-        "zip": "9020",
-        "country": "Austria"
-      },
-      "branche": "Interior",
-      "premium_partner": false,
-      "looops_store": false,
-      "tags": [],
-      "phone": "+43 463 93 18 13",
-      "website": "http://www.diseno.at",
-      "lat": 46.6216,
-      "lng": 14.309123
     },
     {
       "id": "267580440779",
@@ -4521,22 +4539,22 @@
       "lng": 7.627435
     },
     {
-      "id": "395742963923",
-      "name": "La Fissima Concept Store",
+      "id": "131561748705",
+      "name": "Casa Luisa",
       "address": {
-        "street": "Am Rathaus 6",
-        "city": "Backnang",
-        "zip": "71522",
-        "country": "Germany"
+        "street": "Eisenstädterstraße 15",
+        "city": "Neufeld an der Leitha",
+        "zip": "2491",
+        "country": "Österreich"
       },
-      "branche": "Concept Store",
+      "branche": "Interior",
       "premium_partner": false,
       "looops_store": false,
       "tags": [],
-      "phone": "+49 7191 2274553",
-      "website": "la-fissima.de",
-      "lat": 48.946976,
-      "lng": 9.430129
+      "phone": "+43 660 532 18 69",
+      "website": "www.wohnsalon-p.at",
+      "lat": 47.865721,
+      "lng": 16.380886
     },
     {
       "id": "116472953023",
@@ -4557,40 +4575,22 @@
       "lng": 9.752912
     },
     {
-      "id": "258231835897",
-      "name": "Mariensternapotheken München",
+      "id": "256227684594",
+      "name": "Fair Affairs GmbH",
       "address": {
-        "street": "Frans-Hals-Str. 31",
-        "city": "München",
-        "zip": "81479",
+        "street": "Pfarrer-Socher-Straße 43",
+        "city": "Oberhaching",
+        "zip": "82041",
         "country": "Germany"
       },
-      "branche": "Pharmacy / Drugstore",
+      "branche": "Sports-Fashion Retail",
       "premium_partner": false,
       "looops_store": false,
       "tags": [],
-      "phone": null,
-      "website": "http://Marienstern-Apotheke.de",
-      "lat": 48.077422,
-      "lng": 11.51998
-    },
-    {
-      "id": "317410750707",
-      "name": "Hotel Vier Jahreszeiten Iserlohn",
-      "address": {
-        "street": "Seilerwaldstr 10",
-        "city": "Iserlohn",
-        "zip": "58636",
-        "country": "Germany"
-      },
-      "branche": "Accomodation",
-      "premium_partner": false,
-      "looops_store": false,
-      "tags": [],
-      "phone": null,
-      "website": "vierjahreszeiten-iserlohn.de",
-      "lat": 51.391493,
-      "lng": 7.711057
+      "phone": "+498974076596",
+      "website": "https://my-fair-affair.com",
+      "lat": 48.029958,
+      "lng": 11.597064
     },
     {
       "id": "143961853138",
@@ -4665,24 +4665,6 @@
       "lng": 15.655948
     },
     {
-      "id": "413329266879",
-      "name": "Schafferer & Co. KG",
-      "address": {
-        "street": "Kaiser-Joseph-Straße 236",
-        "city": "Freiburg im Breisgau",
-        "zip": "79098",
-        "country": "Germany"
-      },
-      "branche": "Fachgeschäft & Genussartikel",
-      "premium_partner": false,
-      "looops_store": false,
-      "tags": [],
-      "phone": null,
-      "website": "https://www.schafferer.de/shop/",
-      "lat": 47.994393,
-      "lng": 7.849243
-    },
-    {
       "id": "267529282777",
       "name": "Manufactum - Wien",
       "address": {
@@ -4737,24 +4719,6 @@
       "lng": 7.1025
     },
     {
-      "id": "246299408570",
-      "name": "migo -  skincare & spa",
-      "address": {
-        "street": "bischofsholer damm 140",
-        "city": "Hannover",
-        "zip": "30173",
-        "country": "Germany"
-      },
-      "branche": "Wellbeing",
-      "premium_partner": false,
-      "looops_store": false,
-      "tags": [],
-      "phone": "+49 176 72203476‬",
-      "website": "https://mymigo.de",
-      "lat": 52.364111,
-      "lng": 9.77316
-    },
-    {
       "id": "115039548663",
       "name": "zwölf",
       "address": {
@@ -4773,22 +4737,22 @@
       "lng": 10.013445
     },
     {
-      "id": "233546601661",
-      "name": "Fleuriste Roger Klein",
+      "id": "226639456498",
+      "name": "About Given",
       "address": {
-        "street": "108 rue Adolphe Fischer",
-        "city": "Luxemburg",
-        "zip": "1521",
-        "country": "Luxemburg"
+        "street": "Baaderstraße 55",
+        "city": "München",
+        "zip": "80469",
+        "country": "Germany"
       },
-      "branche": "Fachgeschäft & Genussartikel",
+      "branche": "Sports-Fashion Retail",
       "premium_partner": false,
       "looops_store": false,
       "tags": [],
-      "phone": "+352 621 173 710",
-      "website": null,
-      "lat": 49.600711,
-      "lng": 6.12769
+      "phone": "+49 (0) 89 18912825",
+      "website": "https://aboutgiven.de",
+      "lat": 48.128876,
+      "lng": 11.576731
     },
     {
       "id": "114687588562",
@@ -4809,24 +4773,6 @@
       "lng": 11.769065
     },
     {
-      "id": "266437907675",
-      "name": "Fashion Store GmbH & Co. KG",
-      "address": {
-        "street": "Eschstr. 28",
-        "city": "Bünde",
-        "zip": "32257",
-        "country": "Germany"
-      },
-      "branche": "Sports-Fashion Retail",
-      "premium_partner": false,
-      "looops_store": false,
-      "tags": [],
-      "phone": "+4952223696715",
-      "website": "https://fashionstore.de",
-      "lat": 52.197512,
-      "lng": 8.583892
-    },
-    {
       "id": "145792906481",
       "name": "Lederleitner im Börsegebäude",
       "address": {
@@ -4843,6 +4789,24 @@
       "website": "https://www.lederleitner.at/",
       "lat": 48.215404,
       "lng": 16.366348
+    },
+    {
+      "id": "233349592293",
+      "name": "Charlottchens Fine Living Interior",
+      "address": {
+        "street": "Schlossstraße 12",
+        "city": "Schwerin",
+        "zip": "19053",
+        "country": "Germany"
+      },
+      "branche": "Interior",
+      "premium_partner": false,
+      "looops_store": false,
+      "tags": [],
+      "phone": " +49 (0)385 34359250",
+      "website": "www.charlottchens.de",
+      "lat": 53.627329,
+      "lng": 11.414396
     },
     {
       "id": "121366595780",
@@ -4863,6 +4827,24 @@
       "lng": 7.549085
     },
     {
+      "id": "252058262752",
+      "name": "Pfeffer macht glücklich",
+      "address": {
+        "street": "5, rue du cimetiere",
+        "city": "Leudelange",
+        "zip": "3350",
+        "country": "Luxemburg"
+      },
+      "branche": "Fachgeschäft & Genussartikel",
+      "premium_partner": false,
+      "looops_store": false,
+      "tags": [],
+      "phone": "+352621310273",
+      "website": "http://pmg.lu",
+      "lat": 49.565424,
+      "lng": 6.066905
+    },
+    {
       "id": "178303299799",
       "name": "Gasthaus Krenn",
       "address": {
@@ -4881,6 +4863,24 @@
       "lng": 14.068435
     },
     {
+      "id": "116785845464",
+      "name": "Die Mengls. Küchenschätze",
+      "address": {
+        "street": "Landstraße 36",
+        "city": "Zwettl",
+        "zip": "3910",
+        "country": "Österreich"
+      },
+      "branche": "Department Store",
+      "premium_partner": false,
+      "looops_store": false,
+      "tags": [],
+      "phone": "+4328225247191",
+      "website": "http://mengl.at",
+      "lat": 48.605408,
+      "lng": 15.166359
+    },
+    {
       "id": "400506306747",
       "name": "ADLER Historic Guesthouse",
       "address": {
@@ -4897,6 +4897,24 @@
       "website": "https://www.adlerbrixen.com",
       "lat": 46.71682,
       "lng": 11.658633
+    },
+    {
+      "id": "395742963923",
+      "name": "La Fissima Concept Store",
+      "address": {
+        "street": "Am Rathaus 6",
+        "city": "Backnang",
+        "zip": "71522",
+        "country": "Germany"
+      },
+      "branche": "Concept Store",
+      "premium_partner": false,
+      "looops_store": false,
+      "tags": [],
+      "phone": "+49 7191 2274553",
+      "website": "la-fissima.de",
+      "lat": 48.946976,
+      "lng": 9.430129
     },
     {
       "id": "255765839077",
@@ -4951,6 +4969,24 @@
       "website": "https://manufactum.de",
       "lat": 53.548259,
       "lng": 10.001602
+    },
+    {
+      "id": "266637563070",
+      "name": "Paolini",
+      "address": {
+        "street": "Marktplatz 7",
+        "city": "Feldkirch",
+        "zip": "6800",
+        "country": "Austria"
+      },
+      "branche": "Fachgeschäft & Genussartikel",
+      "premium_partner": false,
+      "looops_store": false,
+      "tags": [],
+      "phone": "+13016586186",
+      "website": "https://www.paolini.at",
+      "lat": 47.236802,
+      "lng": 9.596172
     },
     {
       "id": "383368899777",
@@ -5023,24 +5059,6 @@
       "website": "https://manufactum.de",
       "lat": 52.373365,
       "lng": 9.739116
-    },
-    {
-      "id": "116472074441",
-      "name": "Juwelier Buchmüller",
-      "address": {
-        "street": "Kirchstraße 8",
-        "city": "Ravensburg",
-        "zip": "88212",
-        "country": "Deutschland"
-      },
-      "branche": "Premium-Lifestyle Retail",
-      "premium_partner": false,
-      "looops_store": false,
-      "tags": [],
-      "phone": "+4975123939",
-      "website": "https://www.juwelier-buchmueller.de/",
-      "lat": 47.782436,
-      "lng": 9.614124
     },
     {
       "id": "225558793437",
