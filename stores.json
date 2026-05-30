@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T05:34:02.410Z",
+  "generated_at": "2026-05-30T05:23:04.728Z",
   "count": 282,
   "stores": [
     {
@@ -55,6 +55,24 @@
       "website": "https://www.karusa.de/",
       "lat": 48.120761,
       "lng": 11.571875
+    },
+    {
+      "id": "13405447612",
+      "name": "Petra König WOHNEN & LIFESTYLE",
+      "address": {
+        "street": "Innsbrucker Straße 16/1",
+        "city": "Schwaz",
+        "zip": "6130",
+        "country": "Österreich"
+      },
+      "branche": "Concept Store",
+      "premium_partner": false,
+      "looops_store": false,
+      "tags": [],
+      "phone": "+436764150555",
+      "website": "https://www.petrakoenig.at/",
+      "lat": 47.343751,
+      "lng": 11.70754
     },
     {
       "id": "13405874411",
@@ -181,24 +199,6 @@
       "website": "https://www.organicluxury.de/",
       "lat": 48.14088,
       "lng": 11.577327
-    },
-    {
-      "id": "13405874389",
-      "name": "Resort - Concept Store Innsbruck",
-      "address": {
-        "street": "Erlerstraße 10",
-        "city": "Innsbruck",
-        "zip": "6020",
-        "country": "Österreich"
-      },
-      "branche": "Concept Store",
-      "premium_partner": false,
-      "looops_store": false,
-      "tags": [],
-      "phone": null,
-      "website": "https://shop.resort-innsbruck.com/",
-      "lat": 47.26585,
-      "lng": 11.395736
     },
     {
       "id": "13405860540",
@@ -363,24 +363,6 @@
       "lng": 11.580402
     },
     {
-      "id": "13405447612",
-      "name": "Petra König WOHNEN & LIFESTYLE",
-      "address": {
-        "street": "Innsbrucker Straße 16/1",
-        "city": "Schwaz",
-        "zip": "6130",
-        "country": "Österreich"
-      },
-      "branche": "Concept Store",
-      "premium_partner": false,
-      "looops_store": false,
-      "tags": [],
-      "phone": "+436764150555",
-      "website": "https://www.petrakoenig.at/",
-      "lat": 47.343751,
-      "lng": 11.70754
-    },
-    {
       "id": "13406057459",
       "name": "Schneewittchen",
       "address": {
@@ -435,24 +417,6 @@
       "lng": 12.345157
     },
     {
-      "id": "13405919732",
-      "name": "Norkind",
-      "address": {
-        "street": "Zentralstrasse 131",
-        "city": "Zürich",
-        "zip": "8003",
-        "country": "Schweiz"
-      },
-      "branche": "Concept Store",
-      "premium_partner": false,
-      "looops_store": false,
-      "tags": [],
-      "phone": "+41 44 545 45 35",
-      "website": "https://www.norkind.ch/",
-      "lat": 47.375053,
-      "lng": 8.515257
-    },
-    {
       "id": "13405919951",
       "name": "Borromäus Apotheke",
       "address": {
@@ -489,24 +453,6 @@
       "lng": 11.977207
     },
     {
-      "id": "13406057671",
-      "name": "Three Monkeys 030 concept store",
-      "address": {
-        "street": "Seestraße 8",
-        "city": "Prien",
-        "zip": "83209",
-        "country": "Deutschland"
-      },
-      "branche": "Concept Store",
-      "premium_partner": false,
-      "looops_store": false,
-      "tags": [],
-      "phone": "0049-(0)8051964286",
-      "website": "https://threemonkeys030.de",
-      "lat": 47.855602,
-      "lng": 12.345554
-    },
-    {
       "id": "13405934300",
       "name": "Der Neuwirt",
       "address": {
@@ -523,6 +469,24 @@
       "website": "neuwirt-badvigaun.at",
       "lat": 47.663068,
       "lng": 13.131921
+    },
+    {
+      "id": "13405919732",
+      "name": "Norkind",
+      "address": {
+        "street": "Zentralstrasse 131",
+        "city": "Zürich",
+        "zip": "8003",
+        "country": "Schweiz"
+      },
+      "branche": "Concept Store",
+      "premium_partner": false,
+      "looops_store": false,
+      "tags": [],
+      "phone": "+41 44 545 45 35",
+      "website": "https://www.norkind.ch/",
+      "lat": 47.375053,
+      "lng": 8.515257
     },
     {
       "id": "13405321440",
@@ -595,24 +559,6 @@
       "website": "apothekeleonhard.at",
       "lat": 46.963513,
       "lng": 14.790655
-    },
-    {
-      "id": "13405447616",
-      "name": "du - concept store",
-      "address": {
-        "street": "Margaretenstraße 39",
-        "city": "Wien",
-        "zip": "1040",
-        "country": "Österreich"
-      },
-      "branche": "Concept Store",
-      "premium_partner": false,
-      "looops_store": false,
-      "tags": [],
-      "phone": "+43(699)115-37730",
-      "website": "https://du-shop.at/",
-      "lat": 48.194826,
-      "lng": 16.36296
     },
     {
       "id": "13405321423",
@@ -757,6 +703,24 @@
       "website": "https://www.blanda-beauty.com/",
       "lat": 48.486062,
       "lng": 9.217398
+    },
+    {
+      "id": "13406057671",
+      "name": "Three Monkeys 030 concept store",
+      "address": {
+        "street": "Seestraße 8",
+        "city": "Prien",
+        "zip": "83209",
+        "country": "Deutschland"
+      },
+      "branche": "Concept Store",
+      "premium_partner": false,
+      "looops_store": false,
+      "tags": [],
+      "phone": "0049-(0)8051964286",
+      "website": "https://threemonkeys030.de",
+      "lat": 47.855602,
+      "lng": 12.345554
     },
     {
       "id": "13405640162",
@@ -973,6 +937,24 @@
       "website": "http://www.schwarz.at",
       "lat": 47.307188,
       "lng": 10.986068
+    },
+    {
+      "id": "13405919735",
+      "name": "schauplats",
+      "address": {
+        "street": "Gries 9",
+        "city": "Axams",
+        "zip": "6094",
+        "country": "Österreich"
+      },
+      "branche": "Concept Store",
+      "premium_partner": false,
+      "looops_store": false,
+      "tags": [],
+      "phone": "+43 676 400 0669",
+      "website": "https://schauplats.at/",
+      "lat": 47.228705,
+      "lng": 11.27813
     },
     {
       "id": "13406063349",
@@ -1297,6 +1279,24 @@
       "website": "https://www.romyries.de/",
       "lat": 49.005737,
       "lng": 8.374914
+    },
+    {
+      "id": "13405447616",
+      "name": "du - concept store",
+      "address": {
+        "street": "Margaretenstraße 39",
+        "city": "Wien",
+        "zip": "1040",
+        "country": "Österreich"
+      },
+      "branche": "Concept Store",
+      "premium_partner": false,
+      "looops_store": false,
+      "tags": [],
+      "phone": "+43(699)115-37730",
+      "website": "https://du-shop.at/",
+      "lat": 48.194826,
+      "lng": 16.36296
     },
     {
       "id": "13405990340",
@@ -1695,6 +1695,24 @@
       "lng": 11.463125
     },
     {
+      "id": "13405874389",
+      "name": "Resort - Concept Store Innsbruck",
+      "address": {
+        "street": "Erlerstraße 10",
+        "city": "Innsbruck",
+        "zip": "6020",
+        "country": "Österreich"
+      },
+      "branche": "Concept Store",
+      "premium_partner": false,
+      "looops_store": false,
+      "tags": [],
+      "phone": null,
+      "website": "https://shop.resort-innsbruck.com/",
+      "lat": 47.26585,
+      "lng": 11.395736
+    },
+    {
       "id": "13405321430",
       "name": "Staudigl - die Naturparfümerie",
       "address": {
@@ -1765,24 +1783,6 @@
       "website": "jasmin-co.com",
       "lat": 47.49769,
       "lng": 8.240485
-    },
-    {
-      "id": "13405919735",
-      "name": "schauplats",
-      "address": {
-        "street": "Gries 9",
-        "city": "Axams",
-        "zip": "6094",
-        "country": "Österreich"
-      },
-      "branche": "Concept Store",
-      "premium_partner": false,
-      "looops_store": false,
-      "tags": [],
-      "phone": "+43 676 400 0669",
-      "website": "https://schauplats.at/",
-      "lat": 47.228705,
-      "lng": 11.27813
     },
     {
       "id": "13405919934",
@@ -1857,6 +1857,24 @@
       "lng": 13.122825
     },
     {
+      "id": "94827735261",
+      "name": "Haut und Seele",
+      "address": {
+        "street": "Herrenstraße 18",
+        "city": "Linz",
+        "zip": "4020",
+        "country": "Österreich"
+      },
+      "branche": "Cosmetics / Perfumery Store",
+      "premium_partner": false,
+      "looops_store": false,
+      "tags": [],
+      "phone": "+43 732 771712",
+      "website": "https://www.haut-seele.at/",
+      "lat": 48.301804,
+      "lng": 14.286755
+    },
+    {
       "id": "53565037788",
       "name": "Kollwitz-Apotheke",
       "address": {
@@ -1927,6 +1945,42 @@
       "website": "https://www.asandri.com/",
       "lat": 47.381526,
       "lng": 8.532789
+    },
+    {
+      "id": "113533273329",
+      "name": "DesignWe.Love",
+      "address": {
+        "street": "Schützengasse 6",
+        "city": "Weimar",
+        "zip": "99423",
+        "country": "Deutschland"
+      },
+      "branche": "Interior",
+      "premium_partner": false,
+      "looops_store": false,
+      "tags": [],
+      "phone": "+493643490829",
+      "website": "https://www.designwe.love/de-at",
+      "lat": 50.97848,
+      "lng": 11.326498
+    },
+    {
+      "id": "13406469104",
+      "name": "licht-freude",
+      "address": {
+        "street": "Frühlingstraße 1",
+        "city": "Viechtach",
+        "zip": "94234",
+        "country": "Deutschland"
+      },
+      "branche": "Fachgeschäft & Genussartikel",
+      "premium_partner": false,
+      "looops_store": false,
+      "tags": [],
+      "phone": "+4999428234",
+      "website": "http://www.licht-freude.de",
+      "lat": 49.080806,
+      "lng": 12.875137
     },
     {
       "id": "76312191187",
@@ -2019,24 +2073,6 @@
       "lng": 14.310926
     },
     {
-      "id": "13406469309",
-      "name": "Kosmetik Beauty Balance by Inka Garner",
-      "address": {
-        "street": "Münchner Str. 187",
-        "city": "Karlsfeld",
-        "zip": "85757",
-        "country": "Deutschland"
-      },
-      "branche": "Wellbeing",
-      "premium_partner": false,
-      "looops_store": false,
-      "tags": [],
-      "phone": null,
-      "website": "https://www.kosmetik-beauty-balance.de/",
-      "lat": 48.2237,
-      "lng": 11.470971
-    },
-    {
       "id": "113896151244",
       "name": "Wheadon – wohlfühlen ist hautsache",
       "address": {
@@ -2053,24 +2089,6 @@
       "website": "https://wheadon.de/",
       "lat": 52.527153,
       "lng": 13.404642
-    },
-    {
-      "id": "13406469104",
-      "name": "licht-freude",
-      "address": {
-        "street": "Frühlingstraße 1",
-        "city": "Viechtach",
-        "zip": "94234",
-        "country": "Deutschland"
-      },
-      "branche": "Fachgeschäft & Genussartikel",
-      "premium_partner": false,
-      "looops_store": false,
-      "tags": [],
-      "phone": "+4999428234",
-      "website": "http://www.licht-freude.de",
-      "lat": 49.080806,
-      "lng": 12.875137
     },
     {
       "id": "13406489808",
@@ -2107,24 +2125,6 @@
       "website": "https://www.mangolds.com/",
       "lat": 47.069932,
       "lng": 15.434159
-    },
-    {
-      "id": "90906213616",
-      "name": "hey store",
-      "address": {
-        "street": "Ziegenmarkt 5",
-        "city": "Braunschweig",
-        "zip": "38100",
-        "country": "Deutschland"
-      },
-      "branche": "Concept Store",
-      "premium_partner": false,
-      "looops_store": false,
-      "tags": [],
-      "phone": "+49 531 38728375",
-      "website": "https://hey-store.de/",
-      "lat": 52.261631,
-      "lng": 10.519209
     },
     {
       "id": "70900059384",
@@ -2343,6 +2343,24 @@
       "lng": 12.803226
     },
     {
+      "id": "13406489815",
+      "name": "Reiter Maler",
+      "address": {
+        "street": "Marktstraße 10",
+        "city": "Raab",
+        "zip": "4760",
+        "country": "Österreich"
+      },
+      "branche": "Fachgeschäft & Genussartikel",
+      "premium_partner": false,
+      "looops_store": false,
+      "tags": [],
+      "phone": "+43 7762 22450",
+      "website": "https://www.reiter-maler.at/de/",
+      "lat": 48.351922,
+      "lng": 13.64726
+    },
+    {
       "id": "90841514220",
       "name": "Lederleitner Tuchlauben Concept Store",
       "address": {
@@ -2359,6 +2377,24 @@
       "website": "https://www.lederleitner.at/",
       "lat": 48.210156,
       "lng": 16.369751
+    },
+    {
+      "id": "95968259318",
+      "name": "Studio B",
+      "address": {
+        "street": "Johannisplatz 18",
+        "city": "München",
+        "zip": "81667",
+        "country": "Germany"
+      },
+      "branche": "Wellbeing",
+      "premium_partner": false,
+      "looops_store": false,
+      "tags": [],
+      "phone": "+498920938000",
+      "website": "www.johannabarna.de",
+      "lat": 48.133878,
+      "lng": 11.597348
     },
     {
       "id": "90361671917",
@@ -2703,24 +2739,6 @@
       "lng": 11.575677
     },
     {
-      "id": "94827735261",
-      "name": "Haut und Seele",
-      "address": {
-        "street": "Herrenstraße 18",
-        "city": "Linz",
-        "zip": "4020",
-        "country": "Österreich"
-      },
-      "branche": "Cosmetics / Perfumery Store",
-      "premium_partner": false,
-      "looops_store": false,
-      "tags": [],
-      "phone": "+43 732 771712",
-      "website": "https://www.haut-seele.at/",
-      "lat": 48.301804,
-      "lng": 14.286755
-    },
-    {
       "id": "90846915794",
       "name": "Wohnlust",
       "address": {
@@ -2793,6 +2811,24 @@
       "lng": 7.633739
     },
     {
+      "id": "90887494858",
+      "name": "Kastner & Öhler Graz",
+      "address": {
+        "street": "Sackstraße 7–13",
+        "city": "Graz",
+        "zip": "8010",
+        "country": "Österreich"
+      },
+      "branche": "Department Store",
+      "premium_partner": false,
+      "looops_store": false,
+      "tags": [],
+      "phone": null,
+      "website": "https://www.kastner-oehler.at/",
+      "lat": 47.071913,
+      "lng": 15.437071
+    },
+    {
       "id": "68943810785",
       "name": "Mixtura Apotheke",
       "address": {
@@ -2863,24 +2899,6 @@
       "website": "friedaaugust.de",
       "lat": 50.676046,
       "lng": 8.303598
-    },
-    {
-      "id": "95968259318",
-      "name": "Studio B",
-      "address": {
-        "street": "Johannisplatz 18",
-        "city": "München",
-        "zip": "81667",
-        "country": "Germany"
-      },
-      "branche": "Wellbeing",
-      "premium_partner": false,
-      "looops_store": false,
-      "tags": [],
-      "phone": "+498920938000",
-      "website": "www.johannabarna.de",
-      "lat": 48.133878,
-      "lng": 11.597348
     },
     {
       "id": "94802694369",
@@ -3135,40 +3153,22 @@
       "lng": 10.323455
     },
     {
-      "id": "113533273329",
-      "name": "DesignWe.Love",
+      "id": "13406469309",
+      "name": "Kosmetik Beauty Balance by Inka Garner",
       "address": {
-        "street": "Schützengasse 6",
-        "city": "Weimar",
-        "zip": "99423",
+        "street": "Münchner Str. 187",
+        "city": "Karlsfeld",
+        "zip": "85757",
         "country": "Deutschland"
       },
-      "branche": "Interior",
+      "branche": "Wellbeing",
       "premium_partner": false,
       "looops_store": false,
       "tags": [],
-      "phone": "+493643490829",
-      "website": "https://www.designwe.love/de-at",
-      "lat": 50.97848,
-      "lng": 11.326498
-    },
-    {
-      "id": "13406489815",
-      "name": "Reiter Maler",
-      "address": {
-        "street": "Marktstraße 10",
-        "city": "Raab",
-        "zip": "4760",
-        "country": "Österreich"
-      },
-      "branche": "Fachgeschäft & Genussartikel",
-      "premium_partner": false,
-      "looops_store": false,
-      "tags": [],
-      "phone": "+43 7762 22450",
-      "website": "https://www.reiter-maler.at/de/",
-      "lat": 48.351922,
-      "lng": 13.64726
+      "phone": null,
+      "website": "https://www.kosmetik-beauty-balance.de/",
+      "lat": 48.2237,
+      "lng": 11.470971
     },
     {
       "id": "52794426600",
@@ -3279,24 +3279,6 @@
       "lng": 13.06952
     },
     {
-      "id": "90887494858",
-      "name": "Kastner & Öhler Graz",
-      "address": {
-        "street": "Sackstraße 7–13",
-        "city": "Graz",
-        "zip": "8010",
-        "country": "Österreich"
-      },
-      "branche": "Department Store",
-      "premium_partner": false,
-      "looops_store": false,
-      "tags": [],
-      "phone": null,
-      "website": "https://www.kastner-oehler.at/",
-      "lat": 47.071913,
-      "lng": 15.437071
-    },
-    {
       "id": "13406492896",
       "name": "K&K Cosmetics",
       "address": {
@@ -3349,6 +3331,24 @@
       "website": "https://hella-hermann.de/",
       "lat": 53.140518,
       "lng": 8.211
+    },
+    {
+      "id": "90906213616",
+      "name": "hey store",
+      "address": {
+        "street": "Ziegenmarkt 5",
+        "city": "Braunschweig",
+        "zip": "38100",
+        "country": "Deutschland"
+      },
+      "branche": "Concept Store",
+      "premium_partner": false,
+      "looops_store": false,
+      "tags": [],
+      "phone": "+49 531 38728375",
+      "website": "https://hey-store.de/",
+      "lat": 52.261631,
+      "lng": 10.519209
     },
     {
       "id": "13406455524",
@@ -4035,24 +4035,6 @@
       "lng": 16.356641
     },
     {
-      "id": "119006168279",
-      "name": "Strubobuob Gartenwerkstatt",
-      "address": {
-        "street": "Bahnhof 139",
-        "city": "Bezau",
-        "zip": "6870",
-        "country": "Österreich"
-      },
-      "branche": "Fachgeschäft & Genussartikel",
-      "premium_partner": false,
-      "looops_store": false,
-      "tags": [],
-      "phone": "+436644325926",
-      "website": "http://www.gartenwerkstatt-bezau.at/",
-      "lat": 47.381108,
-      "lng": 9.897364
-    },
-    {
       "id": "429779690727",
       "name": "Trixl GmbH & Co. KG",
       "address": {
@@ -4323,6 +4305,24 @@
       "lng": 15.460243
     },
     {
+      "id": "256227684594",
+      "name": "Fair Affairs GmbH",
+      "address": {
+        "street": "Pfarrer-Socher-Straße 43",
+        "city": "Oberhaching",
+        "zip": "82041",
+        "country": "Germany"
+      },
+      "branche": "Sports-Fashion Retail",
+      "premium_partner": false,
+      "looops_store": false,
+      "tags": [],
+      "phone": "+498974076596",
+      "website": "https://my-fair-affair.com",
+      "lat": 48.029958,
+      "lng": 11.597064
+    },
+    {
       "id": "156292511962",
       "name": "Seewirt Mattsee ****",
       "address": {
@@ -4575,22 +4575,22 @@
       "lng": 9.752912
     },
     {
-      "id": "256227684594",
-      "name": "Fair Affairs GmbH",
+      "id": "252058262752",
+      "name": "Pfeffer macht glücklich",
       "address": {
-        "street": "Pfarrer-Socher-Straße 43",
-        "city": "Oberhaching",
-        "zip": "82041",
-        "country": "Germany"
+        "street": "5, rue du cimetiere",
+        "city": "Leudelange",
+        "zip": "3350",
+        "country": "Luxemburg"
       },
-      "branche": "Sports-Fashion Retail",
+      "branche": "Fachgeschäft & Genussartikel",
       "premium_partner": false,
       "looops_store": false,
       "tags": [],
-      "phone": "+498974076596",
-      "website": "https://my-fair-affair.com",
-      "lat": 48.029958,
-      "lng": 11.597064
+      "phone": "+352621310273",
+      "website": "http://pmg.lu",
+      "lat": 49.565424,
+      "lng": 6.066905
     },
     {
       "id": "143961853138",
@@ -4609,6 +4609,24 @@
       "website": "https://www.oesterlin.de/",
       "lat": 47.724695,
       "lng": 12.879216
+    },
+    {
+      "id": "116785845464",
+      "name": "Die Mengls. Küchenschätze",
+      "address": {
+        "street": "Landstraße 36",
+        "city": "Zwettl",
+        "zip": "3910",
+        "country": "Österreich"
+      },
+      "branche": "Department Store",
+      "premium_partner": false,
+      "looops_store": false,
+      "tags": [],
+      "phone": "+4328225247191",
+      "website": "http://mengl.at",
+      "lat": 48.605408,
+      "lng": 15.166359
     },
     {
       "id": "267576838350",
@@ -4737,6 +4755,24 @@
       "lng": 10.013445
     },
     {
+      "id": "167605883086",
+      "name": "Natürlich Schön",
+      "address": {
+        "street": "Behaimstraße 2",
+        "city": "Hall in Tirol",
+        "zip": "6060",
+        "country": "Austria"
+      },
+      "branche": "Wellbeing",
+      "premium_partner": false,
+      "looops_store": false,
+      "tags": [],
+      "phone": "069919029168",
+      "website": "http://www.natürlich-schön.at",
+      "lat": 47.277553,
+      "lng": 11.498138
+    },
+    {
       "id": "226639456498",
       "name": "About Given",
       "address": {
@@ -4827,24 +4863,6 @@
       "lng": 7.549085
     },
     {
-      "id": "252058262752",
-      "name": "Pfeffer macht glücklich",
-      "address": {
-        "street": "5, rue du cimetiere",
-        "city": "Leudelange",
-        "zip": "3350",
-        "country": "Luxemburg"
-      },
-      "branche": "Fachgeschäft & Genussartikel",
-      "premium_partner": false,
-      "looops_store": false,
-      "tags": [],
-      "phone": "+352621310273",
-      "website": "http://pmg.lu",
-      "lat": 49.565424,
-      "lng": 6.066905
-    },
-    {
       "id": "178303299799",
       "name": "Gasthaus Krenn",
       "address": {
@@ -4863,22 +4881,22 @@
       "lng": 14.068435
     },
     {
-      "id": "116785845464",
-      "name": "Die Mengls. Küchenschätze",
+      "id": "119006168279",
+      "name": "Strubobuob Gartenwerkstatt",
       "address": {
-        "street": "Landstraße 36",
-        "city": "Zwettl",
-        "zip": "3910",
+        "street": "Bahnhof 139",
+        "city": "Bezau",
+        "zip": "6870",
         "country": "Österreich"
       },
-      "branche": "Department Store",
+      "branche": "Fachgeschäft & Genussartikel",
       "premium_partner": false,
       "looops_store": false,
       "tags": [],
-      "phone": "+4328225247191",
-      "website": "http://mengl.at",
-      "lat": 48.605408,
-      "lng": 15.166359
+      "phone": "+436644325926",
+      "website": "http://www.gartenwerkstatt-bezau.at/",
+      "lat": 47.381108,
+      "lng": 9.897364
     },
     {
       "id": "400506306747",
@@ -4933,24 +4951,6 @@
       "website": "www.lederleitner.at",
       "lat": 47.761016,
       "lng": 13.056298
-    },
-    {
-      "id": "167605883086",
-      "name": "Natürlich Schön",
-      "address": {
-        "street": "Behaimstraße 2",
-        "city": "Hall in Tirol",
-        "zip": "6060",
-        "country": "Austria"
-      },
-      "branche": "Wellbeing",
-      "premium_partner": false,
-      "looops_store": false,
-      "tags": [],
-      "phone": "069919029168",
-      "website": "http://www.natürlich-schön.at",
-      "lat": 47.277553,
-      "lng": 11.498138
     },
     {
       "id": "267511280849",
